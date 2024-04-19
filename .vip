@@ -1,4 +1,23 @@
 
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  terror tv
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz6q_ZyjOt5iGLyiDEY6cTrv7SGb5IZ15ig&usqp=CAU " group-title="⭐️ PLATEA VIP ⭐",  +cine
+http://190.102.242.130:25461/multicontenido/1234/31
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvfxk1fsPP7eXSuWFO5qLKY8OxSHDBbKrYjw&usqp=CAU " group-title="⭐️ PLATEA VIP ⭐",  moni tv
+http://190.102.242.130:25461/multicontenido/1234/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTi-2_4-R6Jz5YVfBGu45vTOdbl1KeJ3LeDA&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐", planeta tv
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzUhPR3AnXgWjI_WlnSEuoBQXD7z5-4NE-Hg&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐", planet family
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  cosmos
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKMls-ng3Utr1dNdUl0nWZjRR02bV2NjO3w&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐", cv peliculas 
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXFvvHTftCp-DCKU7_4hLN9ZVytbGPsE6G0w&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐", cv retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s1600/tn.png  " group-title="NACIONALES",Todo Noticias
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12638.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png " group-title="NACIONALES",La Nacion +
