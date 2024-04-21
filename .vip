@@ -75,7 +75,7 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 https://fm999.info/test/index.m3u8
 
 
-#EXTINF:-1 tvg-logo=" https://www.google.com/imgres?q=logo%20canal%20baby%20first&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F5a%2F5f%2Fc7%2F5a5fc774fb330a9cbea3ea6440a243f5.jpg&imgrefurl=https%3A%2F%2Far.pinterest.com%2Fpin%2F624804148299441405%2F&docid=B1Crh2VDnEBU1M&tbnid=2Hmx6seaFUi6QM&vet=12ahUKEwiQ9NixycuFAxWRqJUCHd0SD0YQM3oECBcQAA..i&w=736&h=552&hcb=2&ved=2ahUKEwiQ9NixycuFAxWRqJUCHd0SD0YQM3oECBcQAA" group-title="INFANTILES",Baby First
+#EXTINF:-1 tvg-logo="https://ar.pinterest.com/pin/374150681560135425/ " group-title="INFANTILES",Baby First
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/39501.m3u8
 #EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-Z-XDlS8Av_4/X8K7b9VV0iI/AAAAAAAA7XI/h22fEYzEg1kC-8naeum_AeLXgoOxUKhjACLcBGAsYHQ/s250/Disney_channel_2019.png " group-title="INFANTILES",Disney Channel
 http://45.166.92.22:58001/play/a04q/index.m3u8
