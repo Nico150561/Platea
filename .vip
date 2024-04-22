@@ -141,7 +141,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713470601/ei/K
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/55619
 #EXTINF:-1 tvg-logo=" https://www.google.com/imgres?q=logos%20de%20tvc%20ecuador&imgurl=https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F1b0798d9a2cd5fa187e16d9b0828acccc3ce9d77cf764c93ead445fdfc23917b.png&imgrefurl=https%3A%2F%2Fchannelstore.roku.com%2Fes-sv%2Fdetails%2F9d46b2bc0a61b1b1cb48919df3c256b1%2Fecuador-tv&docid=qfBesWQ9mZgL5M&tbnid=5E11YTbtGx693M&vet=12ahUKEwio56nQyMqFAxVoqJUCHXtpAvMQM3oFCIQBEAA..i&w=290&h=218&hcb=2&ved=2ahUKEwio56nQyMqFAxVoqJUCHXtpAvMQM3oFCIQBEAA" group-title="INTERNACIONALES",TV Ecuador
 http://177.234.230.226:8010/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logos%20de%20guaro%20tv%20venezuela&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D344881278400378&imgrefurl=https%3A%2F%2Fm.facebook.com%2Fguarotvnet%2F&docid=En021FLyonDVKM&tbnid=BEoFoP059UUIlM&vet=12ahUKEwiZgZaDycqFAxU9pJUCHU_TCjEQM3oECBsQAA..i&w=720&h=514&hcb=2&ved=2ahUKEwiZgZaDycqFAxU9pJUCHU_TCjEQM3oECBsQAA " group-title="INTERNACIONALES",TV Venezuela
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWr9Zd2yz_XQ81AzrPC-RyqyO50NRW2S56nw&s " group-title="INTERNACIONALES",TV Venezuela
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fFOHRBQiuyo/T_5D0vqUh2I/AAAAAAAAUfA/VLnzy7APc40/s320/aztecainternacional.png " group-title="INTERNACIONALES",TV Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
