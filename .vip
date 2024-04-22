@@ -1,3 +1,33 @@
+
+
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",   terror tv
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz6q_ZyjOt5iGLyiDEY6cTrv7SGb5IZ15ig&usqp=CAU " group-title="⭐️ PLATEA VIP ⭐",   +cine
+http://190.102.242.130:25461/multicontenido/1234/31
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwM8S-N0wVb2vOEvK2SqWhwo-2W_zamGS-MA&usqp=CAU  " group-title="⭐️ PLATEA VIP ⭐",moni tv
+http://190.102.242.130:25461/multicontenido/1234/1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTi-2_4-R6Jz5YVfBGu45vTOdbl1KeJ3LeDA&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  planetatv cine
+https://scl.edge.grupoz.cl:443/movie/live/chunklist_w1547890901.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXg5JM3hysWf_DwWf-Tm0LJF_Ab3hUXj95A&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  planetatv family
+https://scl.edge.grupoz.cl/planetatvkids/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA_4VvmDhNVX0Z0QC885BYEZzrwW5gXiUADg&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  cine peliculas 
+https://stmv5.voxtvhd.com.br/chilevisualfilm/chilevisualfilm/playlist.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzOpwx1swZ5ApceGHpAcl2R4ZWGBz3svoxVw&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  cine retro
+https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlcLuKEiPOMbdnJ-2XAZI1C-_LW9mc0YGvmI_VW84YMA&s " group-title="⭐️ PLATEA VIP ⭐",cine kids
+https://stmv5.voxtvhd.com.br/chilevisualkids/chilevisualkids/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://canalesdominicanos.live/template/images/radios/coco-tv.png" group-title="⭐️ PLATEA VIP ⭐",  COCO TV 
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",  nativa tv
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwn8GQPR90HSnCveXHDZ6EZLqxKJPJH0nNw&usqp=CAU  " group-title="⭐️ PLATEA VIP ⭐",animestation 
+https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ PLATEA VIP ⭐",pandamax anime
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4iJcZqJf4BHP2nCrLgNjXIc3C8MaujeY7g&usqp=CAU " group-title="⭐️ PLATEA VIP ⭐",anime tv
+https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkhtWQRKhHzmyZnW1QxlkHoveMPZuZ1WS5Fwygs6Uw8u_9eHlD19Gw32vZEGkuFn6snnSbh4aJh-bOs4oa-7bYOuPNbO0LMOIcLjTh2pNEjnQwN3dR_I0AcG_kMfBV-Lr7V3_B7duviUV8IggtOfsBdfr8tZHEzuvQvaRzlvDF3JAv1TGr6-XOTWcR/s1600/tn.png  " group-title="NACIONALES",Todo Noticias
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12638.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjagOUGI6mYsjfV__VlNxoGT9WD-J-R_VJsryt7qGsrH3W194WLEudyK57rg27s27CpFuBU1U3jI21INplrlw35MRBg7HnoXg0JOwXPejr3x2Q_FyDgVOdDKs7MR40C_TDji7jomapCBybb7OH8D_wS4aDVYj1shi7lJ8DA8hWARu2iZg2sawkdcW7p/s544/LANACION-MAS.png " group-title="NACIONALES",La Nacion +
