@@ -86,7 +86,7 @@ https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LSQX57Pn2DippbeObjS24wcdtYH4SljL1GxEhTdJkn4P27YOEr_2Oyl7ynPCwgFuHRFk=w416-h235-rw " group-title="NACIONALES",Formosa TV
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOzf_iyGta96xKFFOyNG1qFSKD8yJSXje7AxduADVWoX0GC-AjKv-J-CGmBaqAwgwB7fKlS8Fp4bBjY-pTKklee4BlOMJkDlUjljx0RDqD7E2dxM9SVTN2FcQ6mieR7cp6rz06WF9PHm8bJVrbtn8lPPtEAiVVTN_z8LiRdRzYobmZavrqyf6Ha0UI/s1600/tvpp.png " group-title="NACIONALES",La Pampa TV
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-2VtmODd4p8E/WEwlLEflbCI/AAAAAAAABTA/m29OfxW3RnIGnNoh4YOjC1CFFJKWUIvAQCLcB/s1600/canal3-lp.png " group-title="NACIONALES",La Pampa TV
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/sQLUEK_1ZhIHGEIjwTnZ5B-EIFPlykDMptEzXQsHllW8AF1926WRwgpcKcGjvhwMyXqf=w526-h296-rw " group-title="NACIONALES",Neuquen TV
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
@@ -113,7 +113,7 @@ http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12667.m3u8
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNvxoY98qYYwalRYgco8D9zY/m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&s " group-title="INFANTILES",Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20canal%20extrema%20kids&imgurl=https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F685354bd84f85fe39c7ecae45018ccb60011681ba7838fd841e3f2392f4f6249.png&imgrefurl=https%3A%2F%2Fchannelstore.roku.com%2Fdetails%2Fe8042db268c40f3de41559443f40cea1%2Fextrema-kids&docid=9o_hLlm1ph3pCM&tbnid=PXO7hyQm1Ch3-M&vet=12ahUKEwjxxIyD1suFAxXKkpUCHTwMCzcQM3oECGkQAA..i&w=290&h=218&hcb=2&ved=2ahUKEwjxxIyD1suFAxXKkpUCHTwMCzcQM3oECGkQAA " group-title="INFANTILES",Extrema Kids
+#EXTINF:-1 tvg-logo=" https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="INFANTILES",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1586199579.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCtlrUnhZ23c808W8gBOKYt9O1KWW3Bc-JeVq2G1hXz32pHf98nWaBlF_Vwkluy0yNc09qtVy6gEsYmC7dVGPlMfuxaAla40qrkjpNtbCNXD1eA6pmtZygruOuaX10Y0JWhKgyaKbaB9MFOnSRPOFGP1DxTk0IjSyIRyuTGr_0scRGzpGiCCLHnUL0/s358/tooncast.png  " group-title="INFANTILES",Tooncast
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNt8fkeGPKHvCcS923I0EZA8/m3u8
@@ -121,10 +121,18 @@ http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNt8fkeGPKHvCcS923I0EZA8/m3u8
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8_TYJ62TILs/YAJ_Sn7r2iI/AAAAAAAA7xc/p5UKsn8DjwEawWCfd2YAD-BwJyinM5_wwCLcBGAsYHQ/s481/pakapaka-2020.png  " group-title="INFANTILES",Paka Paka 
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/14063.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20canal%20tom%20y%20jerry&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fcartoonnetwork%2Fimages%2F4%2F42%2FTom_y_Jerry_carta.jpg%2Frevision%2Flatest%3Fcb%3D20160203025415%26path-prefix%3Des&imgrefurl=https%3A%2F%2Fcartoonnetwork.fandom.com%2Fes%2Fwiki%2FTom_y_Jerry&docid=sy9E9N8lI0IKvM&tbnid=HW0ZspJpbwz4uM&vet=12ahUKEwimgpHG18mFAxWespUCHacFCegQM3oECFEQAA..i&w=379&h=285&hcb=2&ved=2ahUKEwimgpHG18mFAxWespUCHacFCegQM3oECFEQAA " group-title="INFANTILES",Tom y Jerry
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6mujlq8_eqeQ3L5Bper9xJm6AQvGQ-TdgEPEV3frtU1XgUqPe2X0chi4Wo12JkFoXBt04ZVn9hzAl2DZPfO9qaYR6dp2xG2OOfMYgo6X7-NEIzQT-nFs-PGoMtObrSS0023x_13PHXmM/s1600/TJ+ANMTV.jpg " group-title="INFANTILES",Tom y Jerry
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNpXCsnJAhYCIj2jrv6nRH_4/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20canal%20super%20campeones&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100065056531795&imgrefurl=https%3A%2F%2Fm.facebook.com%2Fp%2FSuper-Campeones-FC-100065056531795%2F%3Flocale%3Dhi_IN&docid=8xu_K6AThYFooM&tbnid=Ec96CUDJlca_yM&vet=12ahUKEwjkqJ_X18mFAxVEqZUCHX7mAocQM3oECFkQAA..i&w=1209&h=1066&hcb=2&ved=2ahUKEwjkqJ_X18mFAxVEqZUCHX7mAocQM3oECFkQAA" group-title="INFANTILES",Super Campeones
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJCaJ_ZhW8JzXM2o3rzB-wdilPbRWScYmgLo7nftVF9dVD_KSApz2uMw1hcvmZYcPYF-fWn2VKkfU0s7fTkY-yX9mU2odlKCfYwF8iuLqXFaNnedSDV_diP4Iz0Ez4ywY1v1Vc-ekIzgI/s1600/Imagen-programa-S%25C3%25BAper-Campeones.png " group-title="INFANTILES",Super Campeones
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNlzuclBA5cYvvIb2NLwQqCc/m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/322/192/png-clipart-alf-television-show-melmac-extraterrestrial-life-frank-always-sunny-television-dog-like-mammal-thumbnail.png " group-title="INFANTILES",Alf
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_-GrcCPVH3PB9_xClTPIg/m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/867/612/png-clipart-simpsons-simpsons-thumbnail.png " group-title="INFANTILES",Los Simpsons
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNnM6xpuw762_6-fxeOP1tYk/m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/348/4/png-clipart-el-chavo-del-ocho-chapulines-mexico-el-chapulin-colorado-chapulin-colorado-computer-wallpaper-fictional-character-thumbnail.png " group-title="INFANTILES",El Chapulin Colorado
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNnsZHB3wK7J2U7bCMMONaws/m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/145/308/png-clipart-el-chavo-del-ocho-la-chilindrina-el-chapulin-colorado-drawing-gc-hand-fictional-character-thumbnail.png " group-title="INFANTILES",El Chavo 
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNsHbqJuG6F-vJiY625J77Yc/m3u8
 
 
 #EXTINF:-1 tvg-logo=" " group-title="⚽ DEPORTIVOS",Dazn Sports
@@ -235,14 +243,6 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/36647
 #EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20de%20los%20tres%20chiflados&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100065366778082&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Felgordomotoneta%2F%3Flocale%3Des_LA&docid=NZlMsvc_mpcVgM&tbnid=GWcaXGNFsDjRRM&vet=12ahUKEwjJjK3n1cqFAxWzqJUCHXRHA9oQM3oECHYQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwjJjK3n1cqFAxWzqJUCHXRHA9oQM3oECHYQAA " group-title="FAMILIAR",Los tres Chiflados
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjACMsnsChH6PbzxVJhR9a4/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20de%20alf&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fvideojuego%2Fimages%2Fe%2Fef%2FALF_saga_logo.gif%2Frevision%2Flatest%2Fthumbnail%2Fwidth%2F360%2Fheight%2F360%3Fcb%3D20180226151313&imgrefurl=https%3A%2F%2Fvideojuegos.fandom.com%2Fes%2Fwiki%2FALF_(saga)&docid=yVy7OChBl6vMjM&tbnid=_M9mDUkzHSHP0M&vet=12ahUKEwihkq6j1sqFAxXLqpUCHWl8AGsQM3oECBkQAA..i&w=304&h=360&hcb=2&ved=2ahUKEwihkq6j1sqFAxXLqpUCHWl8AGsQM3oECBkQAA " group-title="FAMILIAR",Alf
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_-GrcCPVH3PB9_xClTPIg/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=espa%C3%B1ol%20los%20simpson%20logo&imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FT%2Fthe_Simpsons-logo-A045F4872C-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F139132%2Fthe-simpsons&docid=HaHbEriMEw1sMM&tbnid=IZyqduP4_zqWKM&vet=12ahUKEwjR3NS_oMuFAxU5qpUCHe4rCVkQM3oECCQQAA..i&w=256&h=300&hcb=2&ved=2ahUKEwjR3NS_oMuFAxU5qpUCHe4rCVkQM3oECCQQAA  " group-title="FAMILIAR",Los Simpsons
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNnM6xpuw762_6-fxeOP1tYk/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logos%20del%20chapulin%20colorado&imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fprojects%2F404%2F6687a8165459721.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%2Fchapulin%2520colorado&docid=d3-YFWr_k48XGM&tbnid=4qyKaM6qSuvthM&vet=12ahUKEwiHl5K41sqFAxVLqZUCHcTLAQcQM3oECG4QAA..i&w=404&h=316&hcb=2&ved=2ahUKEwiHl5K41sqFAxVLqZUCHcTLAQcQM3oECG4QAA " group-title="FAMILIAR",El Chapulin Colorado
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNnsZHB3wK7J2U7bCMMONaws/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logos%20del%20chavo&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fteniaqueserlawikidelchavo%2Fimages%2F2%2F2a%2FEl_Chavo_del_Ocho_Logo_de_1973.png%2Frevision%2Flatest%3Fcb%3D20130329230548%26path-prefix%3Des&imgrefurl=https%3A%2F%2Felchavo.fandom.com%2Fes%2Fwiki%2FEpisodios_de_El_Chavo_del_Ocho&docid=h0-m3SJcxTHH_M&tbnid=u2wNw9mSpEfKeM&vet=12ahUKEwij1P_N1sqFAxUMppUCHUgOB8IQM3oECDMQAA..i&w=480&h=360&hcb=2&ved=2ahUKEwij1P_N1sqFAxUMppUCHUgOB8IQM3oECDMQAA " group-title="FAMILIAR",El Chavo del ocho
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNsHbqJuG6F-vJiY625J77Yc/m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2L9TNM0_ELs/WEweJPdstDI/AAAAAAAABSo/jPdTSktFguErxrcvVtQyBWUstBPkrZAXQCLcB/w199-h200/ATRESERIES.png " group-title="FAMILIAR",A tres series
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/203657
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mo-B3jG4x8M/WEM9zpX54SI/AAAAAAAABQU/QlinKuWUlNMA-C2prpgTMZenKBuHx-YKwCLcB/s1600/tnt-series-2016.png  " group-title="FAMILIAR",TNT Series
