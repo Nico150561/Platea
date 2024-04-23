@@ -39,7 +39,7 @@ http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/14082.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIpJWGWf4oJtTs2NA-94wWN8XnNbDlAAz-Q&usqp=CAU ",group-title="NACIONALES",Cronica TV
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12658.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcSZs7YhpyoxbhvyWR8j1LVm5Z8Oy64Ci-ivAOriPROclkpleQ1H7DxKXd3g&s" group-title="NACIONALES",C5N Noticias
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/40031.m3u8
+http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/4191
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSmfZcWDSFEt811t7VjNWJKJ1luWCBGaPEmA&usqp=CAU " group-title="NACIONALES",TV Publica
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12623.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJLTMCR-pFAQzKyjoDvCFm2LfbO9ppIEtbDUr4ZtDshQfnGGlwBemRdqIEQJxYWg77PqZPIvnxLaDMcN8ER0ef6r5Ro5iVapq-VGw23x4btvF0KgrztmSmEgE69oxqE4cqSZ_4fFeLBKXOEGrFAOxR5QmaSlRDHwbLzV-PWfifzTZAW99WO0W1-E28/s1313/CANAL9-2017.PNG  " group-title="NACIONALES",Canal 9 Bs As
@@ -57,7 +57,7 @@ https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4Z9idWrF2Zx8EbLD_pb3yTYPVZcjj3S3CHXFZeqnrPff7Lf0mC2atDCe8Tzecq6biNyIpZ735k05tEgKPuJ4menvOBplKhwsqmOWCdljr2oHLDGd4WgzZynvjHdH5kNilDfLfCDUz_iri5DrR53UKe_pfz9LpGILsVueMOeSqnwUqlopFlC_MVjlP/s135/c13-larioja.png  " group-title="NACIONALES",Medios Provincia
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7A7D0J_LhA7-aeQo4Xiy0tm5SNZZe782b5g&usqp=CAU " group-title="NACIONALES",Catamarca TV
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMYkpfao_frCwqaX4smdk_e3QbkHIqtgCbvw&usqp=CAU " group-title="NACIONALES",Tucuman TV
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6HfJdVSoY6c/VpvBVOLh5VI/AAAAAAAAApg/4i-7-4KOyL0/s1600/c7-castv-2015.png  " group-title="NACIONALES",Santiago del Estero TV
@@ -68,12 +68,12 @@ http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIqR3hja_LniiPzY1oCShgRGIsm95hL-JSBQ&usqp=CAU " group-title="NACIONALES",San Juan TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-SycM1oH7OOU/TtwIUM64COI/AAAAAAAARSU/-0hyMJQDl5s/s200/canal7-mendoza.png " group-title="NACIONALES",Mendoza TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713453876/ei/1OYgZvOZDKn31sQPyOuF6Ak/ip/186.109.195.224/id/Vh8xmLBJtR8.135/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/spc/UWF9f1v5DuKTy49PW79KtQQ6NoxmT94wRM_C44CRNjiid_IAOmOB3voR8b-I/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMn6ymSPZJCuF9H--3VkGrflzt_eA_AaRwtQEld-Mc_0CIQDw9G1hrb-BxOv7KPOXZB75v-ZPrrY6u4mzmCU79xf-0A%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo=" https://3.bp.blogspot.com/-qY1HG4TNCuI/UTJC61f9bJI/AAAAAAAAZT0/E5Zs3jT8aus/s320/canal7mendoza-hd.png" group-title="NACIONALES",Mendoza TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713885806/ei/Dn4nZqOTKePx1sQPjL2f0Aw/ip/186.109.195.224/id/Vh8xmLBJtR8.137/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/spc/UWF9f5F-ROd8SF5DFHQLThaauoD-FJWb2Ctc_hiqqgDRJcGVQrX3ONgfpoRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgROI7Jam-p_4jm8AEJ0SsOJ4zsyNBRq3b_HgNWmp2OSkCIQDrZ4vQPYMehQ-5ZydmV-BVr9l_KkclQmzCqWbQkxdLeA%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhW6ssqSIE3VenCPzUZKKEDnfayopWfB44Q&usqp=CAU " group-title="NACIONALES",San Luis TV
-https://stream.arcast.net:4443/sanluismas/ngrp:sanluismas_all/chunklist_w1434238885_b1596000.m3u8
+https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w1298434207.m3u8
 #EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-cyREZtytyok/T1KWUhHxR5I/AAAAAAAASjY/sVBRFlEO6Y4/s1600/eldoce.png " group-title="NACIONALES",Cordoba TV
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNqtb_KpN2J62-SHkc4p5MOE/m3u8
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtSw54lleH_By3oFs74WSRTgZuG0TuU_XFKQ&usqp=CAU " group-title="NACIONALES",Santa Fe TV
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSndHi77cvbBzvkEDAlE0kPbZ309ayaI-mfw&usqp=CAU " group-title="NACIONALES",Entre Rios TV
@@ -110,7 +110,7 @@ http://45.166.92.22:58001/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYWAJ3AOR7Eg3ET4uvmxATXf3NRgARNhL8sT09K3smkD-oe1wyptpZXc-tJm6g4mk0TZR-y49vZULJ6ZGJyGViOGXaNvzf44gTVQWcu5l8i5AoAjIEHkR4Pg99mv_9o7ydZEMKgWyhSKFynbo5F7Wdik5789WSe2KAaSHTOo6KkK3cnWvNnR_BYtJVwfo/s1759/Nickelodeon_2023-svg.png  " group-title="INFANTILES",Nickelodeon
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12667.m3u8
 #EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBqLBv33WolliNZ3MbhYv8dEjnpGe8C5YJGk1SPDOce26RLuZs67ea7xyzlCSLoubXJtrdU8V5t7HC-4hdo7UPXOqO_srGGNqvSdNB-d6gBhOKbYZ0WWwFEPNy32_eOdMMfansh_jFsRcdq5SXkuixQSgahbJrezntkp-dt-dTlL97PTH6bJ4ZiDPd/s1445/cn-2012.png " group-title="INFANTILES",Cartoon Network
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNvxoY98qYYwalRYgco8D9zY/m3u8
+http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/36448
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-TS7q6ii5E570ki-MXurqbh9AKonahFQ5g&s " group-title="INFANTILES",Latino Kids
 https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
 #EXTINF:-1 tvg-logo=" https://cdn-profiles.tunein.com/s281345/images/logod.png?t=638225344170000000" group-title="INFANTILES",Extrema Kids
@@ -136,23 +136,23 @@ http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNsHbqJuG6F-vJiY625J77Yc/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE0lBUQW3Lxg9m-xNy47u3lKE3Zo_xkg2cXg&usqp=CAU " group-title="⚽ DEPORTIVOS",Dazn Sports
-http://185.192.124.243:80/play/TSBZJuoaRC1aJx-zZ4qMVtT6-7IyYw3rmNn3ZHM9aMcJqEf0jJ4zw7Mz-sltzpOf/m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPnqmz_Ta_4HyEfjbGEHRtUEj2yjfIHv8rnNaEzYxdQ&s " group-title="⚽ DEPORTIVOS",Tudn Sports
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNk4ypV2FiQvX9Qec_0n5zKo/m3u8
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhaCC2BKqLesXh0Pox_4C_3nPPhcD5JKVPQkGa3IxtYQ&s" group-title="⚽ DEPORTIVOS",Tudn Sports
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-logo=" " group-title="⚽ DEPORTIVOS",Win Sports
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNhXKDgAalbtNAi7mXnS4cK4/m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPnqmz_Ta_4HyEfjbGEHRtUEj2yjfIHv8rnNaEzYxdQ&s " group-title="⚽ DEPORTIVOS",Win Sports
+http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/12759
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9OZO2aWddd9OZJ8afG2FizfoZgDdF6sWIuve6DRFM6N4N3Z4vj0ewpq5a7DXyCZ55wOfheGewNaslHkpjYMy-ATDF5cBUBT4VPX31ldm-O7klJnXSsWO_Ju73XC5LXh92EolHR-nHjtGX_xA1XZaA1QCRq5GYx2qf_vJmJ2oqCUXTAxMD2Y5ZsTt2/s320/Fox_Sports_Logo-2022.png " group-title="⚽ DEPORTIVOS",Fox Sports 
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/158518
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1zWZDE9OGep4OU4ruK7vFknbWhuoj8UBmqaXmwjtWSR86rZJT3qwg0naxwXjlo-o6QIQupD0DKrXd1JLrt4QWSPzgxzfnNlk2WC71AIOvWcP2QKNxvRFSnqoam3Qy053HvKkWo-zciXLpE07mC5iytupMnFjOKp5OeCqQ_gjPoPvETY3OHOyzVsW/s1600/fsp2-2023.png " group-title="⚽ DEPORTIVOS",Fox Sports 2
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/19652
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXlr-aZPoHcS9gQ_1TQy2O1DXBd9UQxl8_hBU_2V5yaqD_aQE02S5eKKGDJXaIheSUV8lwjH0qOnsURXtvC-rQKMyNCp3kepe8hn37Zr97mNwD_kMveUUfsihWIBwVx-giODw9HttkO0hSRs8c8Fbm38c_lUAwBsRKsTOSQfFu97QX0vEd8yP692f/s1600/fsp3-2023.png " group-title="⚽ DEPORTIVOS",Fox Sports 3
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/19496
+http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/20583.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KW4KmiFhO9sqto_cVwxqdCcJ6lSYwxJTGLyRyjww2f8p4DgOiikQVPDS03SIW79wtMxR=w416-h235-rw " group-title="⚽ DEPORTIVOS",ESPN 
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/219173
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s320/espn2.png " group-title="⚽ DEPORTIVOS",ESPN 2
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/185666
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNuY0GJQ3PKBQi2OR1PqX6Yw/m3u8
 #EXTINF:-1 tvg-logo=" https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-thumbnail.png" group-title="⚽ DEPORTIVOS",ESPN 3
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/21220
+http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNkL8njYdmESih5V-7ggzbcg/m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="⚽ DEPORTIVOS",TyC Sports 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNrhl6tfRFPWIe99IjA0ADec/m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ2jFp1lTcFg8xeUSaoWiY1gh5T7Y6n5CsZc1UGfEdzNW2L5MUKaCjicxcjmeBFaVKP6CHTpeu4f1cowj1nckAxWRcAXz3/s766/espn-premium.png  " group-title="⚽ DEPORTIVOS",ESPN Premium
@@ -172,7 +172,7 @@ http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/12300
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/wa5zDnHfAYNHW6bmBtUhsq_CHg4_mwvTaUtJbuBUA3GbYLhEIPv0mpwjEH9KVoonrCU=w416-h235-rw " group-title="INTERNACIONALES",TV Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3LgWo6COfvE/YazwNaWpyCI/AAAAAAAA-HE/eVRupL6API0n3sNeIrfZ5zwSow9rGV5qwCNcBGAsYHQ/s320/TV_Brasil-logo2019.png " group-title="INTERNACIONALES",TV Brasil
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713470601/ei/KSghZryQEaPy1sQPluOakAc/ip/186.109.195.224/id/Q2tLGjuJ37M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4HUCvB8kX2Gle6rqo9W8arNpWnvDuXPxdRY8zuiqQG90XPOgPAiSPMN/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALtQhvLhuzdihmcKc2JqaefTa8tsPU79k0NkhTUUdH45AiAqerCBUYBcu6gvflta1K0NfX5Z96rEOvVpwcwSBi-aJg%3D%3D/file/index.m3u8
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6kup3OvW-UU/T-YdchitdhI/AAAAAAAAUOM/q7YwHGbJH8w/s320/caracoltvinternacional.png " group-title="INTERNACIONALES",TV Colombia
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/55619
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/iJyze4TfE6m15xF3J6VJeNosfIaTcLlCEEVRdSSYW3aBqaHnbIWmVgJVYDt0wr5NXg=w416-h235-rw " group-title="INTERNACIONALES",TV Ecuador
@@ -184,7 +184,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png " group-title="INTERNACIONALES",TV España
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/54399
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tkp9fgcsHUU/UQUZzGM4J_I/AAAAAAAAYzs/TBelWGLIRo4/s320/raiitalia.png " group-title="INTERNACIONALES",TV Italia
-https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JgprnjibM4U/T0J5JHftjNI/AAAAAAAASTc/SbvUAKwtsh8/s1600/dw-2012.png " group-title="INTERNACIONALES",TV Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/TQOoVRjoB6I/AAAAAAAAPD0/JpfSOiv9jyk/s400/telesur-2010.jpg " group-title="INTERNACIONALES",Telesur
