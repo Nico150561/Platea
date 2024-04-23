@@ -135,11 +135,11 @@ http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNnsZHB3wK7J2U7bCMMONaws/m3u8
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNsHbqJuG6F-vJiY625J77Yc/m3u8
 
 
-#EXTINF:-1 tvg-logo=" " group-title="⚽ DEPORTIVOS",Dazn Sports
+#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/FXBA6qICxFXikPZCw2FrBl-Tckv9Srr65b4aHvaWIsUlTpbSvaRAyW0G5w-Jpw82onw=w416-h235-rw" group-title="⚽ DEPORTIVOS",Dazn Sports
 http://185.192.124.243:80/play/TSBZJuoaRC1aJx-zZ4qMVtT6-7IyYw3rmNn3ZHM9aMcJqEf0jJ4zw7Mz-sltzpOf/m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/imgres?q=logo%20canal%20tudn%20sports&imgurl=https%3A%2F%2Fd1yjjnpx0p53s8.cloudfront.net%2Fstyles%2Flogo-thumbnail%2Fs3%2F092020%2Ftudn_positivo.png%3FGdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU%26itok%3DB_F8-GMs&imgrefurl=https%3A%2F%2Fwww.brandsoftheworld.com%2Flogo%2Ftudn-negativo&docid=dqpthy0qf49IiM&tbnid=2jwBGVDZ271RQM&vet=12ahUKEwjSiK6U2MmFAxUJq5UCHbHQDJkQM3oECFEQAA..i&w=195&h=195&hcb=2&ved=2ahUKEwjSiK6U2MmFAxUJq5UCHbHQDJkQM3oECFEQAA " group-title="⚽ DEPORTIVOS",Tudn Sports
+#EXTINF:-1 tvg-logo="https://play.google.com/store/apps/details?id=com.july.univision " group-title="⚽ DEPORTIVOS",Tudn Sports
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-logo="https://s145.convertio.me/p/k5TODBpeA5mEKBn8iR-cpg/9764399f777ed160a46de759cd3e4076/Win-Sports.svg " group-title="⚽ DEPORTIVOS",Win Sports
+#EXTINF:-1 tvg-logo=" " group-title="⚽ DEPORTIVOS",Win Sports
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNhXKDgAalbtNAi7mXnS4cK4/m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9OZO2aWddd9OZJ8afG2FizfoZgDdF6sWIuve6DRFM6N4N3Z4vj0ewpq5a7DXyCZ55wOfheGewNaslHkpjYMy-ATDF5cBUBT4VPX31ldm-O7klJnXSsWO_Ju73XC5LXh92EolHR-nHjtGX_xA1XZaA1QCRq5GYx2qf_vJmJ2oqCUXTAxMD2Y5ZsTt2/s320/Fox_Sports_Logo-2022.png " group-title="⚽ DEPORTIVOS",Fox Sports 
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/158518
@@ -147,13 +147,13 @@ http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/158518
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/19652
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvXlr-aZPoHcS9gQ_1TQy2O1DXBd9UQxl8_hBU_2V5yaqD_aQE02S5eKKGDJXaIheSUV8lwjH0qOnsURXtvC-rQKMyNCp3kepe8hn37Zr97mNwD_kMveUUfsihWIBwVx-giODw9HttkO0hSRs8c8Fbm38c_lUAwBsRKsTOSQfFu97QX0vEd8yP692f/s1600/fsp3-2023.png " group-title="⚽ DEPORTIVOS",Fox Sports 3
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/19496
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jpH19JGEGY8/X8KfkG0Ta4I/AAAAAAAA7VM/_zzdt60offIOBHVBNAYVJVVY5n2MMAaKwCLcBGAsYHQ/s320/Espn-2020.png " group-title="⚽ DEPORTIVOS",ESPN 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/KW4KmiFhO9sqto_cVwxqdCcJ6lSYwxJTGLyRyjww2f8p4DgOiikQVPDS03SIW79wtMxR=w416-h235-rw " group-title="⚽ DEPORTIVOS",ESPN 
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/219173
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s320/espn2.png " group-title="⚽ DEPORTIVOS",ESPN 2
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/185666
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-18TyLI-odzc/UT53MbXiKnI/AAAAAAAAZUk/xjzgKs3ly60/s1600/ESPN_3.png " group-title="⚽ DEPORTIVOS",ESPN 3
+#EXTINF:-1 tvg-logo=" https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text-thumbnail.png" group-title="⚽ DEPORTIVOS",ESPN 3
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/21220
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-foe0DS2zZnY/YDrPXp6aMNI/AAAAAAAA8N8/FfVmZR62nNwIwBhq6UIN5UU9sgq6KjUjwCLcBGAsYHQ/w400-h88/TyC_Sp.webp " group-title="⚽ DEPORTIVOS",TyC Sports 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/UnFKU4pV6JgckUG9v1f8v6Ka8DOsvQzbt1aw4KyKaXP7_vNTEC6P-dONJ4a_f7HRLqDK=w416-h235-rw" group-title="⚽ DEPORTIVOS",TyC Sports 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNrhl6tfRFPWIe99IjA0ADec/m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbT9nRpjRW1PfZMo0wywvjXVAGOBH_2eWPBF4ScJj3-6QOPm4YIi4JlwAtBrT7F048hsJXf8LSGhC74dS-gT3oD5NMV_DQ2jFp1lTcFg8xeUSaoWiY1gh5T7Y6n5CsZc1UGfEdzNW2L5MUKaCjicxcjmeBFaVKP6CHTpeu4f1cowj1nckAxWRcAXz3/s766/espn-premium.png  " group-title="⚽ DEPORTIVOS",ESPN Premium
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12671.m3u8
