@@ -369,13 +369,13 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CzJP-SEjq6A/Yav7V8hhjpI/AAAAAAAA-Fo/VRa1I8fqq40TWbcF7z_n7zu6yokleBgKQCNcBGAsYHQ/s0/MTV_Live_2021.png " group-title=" Musica",MTV Live
 http://45.166.92.22:58001/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://entertelecomunicaciones.com/images/canales-musicales.jpg " group-title=" Musica",Musica Popular
-http://177.234.230.226:8010/play/a022/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d1aa951c15a8e3b7290cd16188bc65d1559ae3e638e2dca2c59449e293a82977.png" group-title=" Musica",Musica Reggaeton 
-http://177.234.230.226:8010/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo=" https://entertelecomunicaciones.com/images/canales-musicales.jpg" group-title=" Musica",Musica Romantica 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica",Telehit 
+https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp " group-title=" Musica",Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w837188164.m3u8
+#EXTINF:-1 tvg-logo=" " Musica",Musica Romantica 
 http://177.93.45.155:6143/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png " group-title=" Musica",Mi Musica Salsa
+#EXTINF:-1 tvg-logo=" " group-title=" Musica",Mi Musica Salsa
 http://177.234.230.226:8010/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp " group-title=" Musica",Panavision TV 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
