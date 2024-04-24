@@ -359,16 +359,16 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png " group-title=" Musica", El Canal de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/bF51d7.png " group-title=" Musica",MTV Biggest Pop  
-http://185.192.124.243:80/play/TSBZJuoaRC1aJx-zZ4qMVtT6-7IyYw3rmNn3ZHM9aMdEzSUy1f2nGRvUXzPp73PS/m3u
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png " group-title=" Musica",Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/552px-MTV_80s_2022.png " group-title=" Musica",MTV de los 80
 http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiepVpElQOU2ijdew4P0-i4_2e6zPd_fz7Wz9fmqh2Y7SWhoPOcODuJTloEdnw5I_QE30Po2VmbWB7h_ZA7JzIiwcR-I9X9tuX0q8xX9pkLierPRIG7Teotqwfw-JSo5mgGNL7xvK-js_GB4_xezoG9_yxhF9CY5McQpq6pPHZDOusLkf1inkClezKd/s320/mtv-1981.png " group-title=" Musica",MTV Music 
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/01/PARA-VIDEOS-e1707619159474.png " group-title=" Musica",VClassic Music
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://attachment.tapatalk-cdn.com/48241/202308/0_071084afa62bd61bf6647df2ba1ba475.png " group-title=" Musica",Retro Channel Music 
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/the_retro_channel.png " group-title=" Musica",Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-gX0gKXbYF0I/YRAbRbqFcsI/AAAAAAAA9qE/nR5VxSPCEbY5gQMhG0m30Vu6vPflO7Z5wCLcBGAsYHQ/s558/mtv-00s.png " group-title=" Musica",Musica de los 00
-http://167.250.222.35:16000/play/a05j/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CzJP-SEjq6A/Yav7V8hhjpI/AAAAAAAA-Fo/VRa1I8fqq40TWbcF7z_n7zu6yokleBgKQCNcBGAsYHQ/s0/MTV_Live_2021.png " group-title=" Musica",MTV Live
+http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://entertelecomunicaciones.com/images/canales-musicales.jpg " group-title=" Musica",Musica Popular
 http://177.234.230.226:8010/play/a022/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d1aa951c15a8e3b7290cd16188bc65d1559ae3e638e2dca2c59449e293a82977.png" group-title=" Musica",Musica Reggaeton 
