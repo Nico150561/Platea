@@ -373,10 +373,10 @@ http://45.166.92.22:58001/play/a018/index.m3u8
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png " group-title=" Musica",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w837188164.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiepVpElQOU2ijdew4P0-i4_2e6zPd_fz7Wz9fmqh2Y7SWhoPOcODuJTloEdnw5I_QE30Po2VmbWB7h_ZA7JzIiwcR-I9X9tuX0q8xX9pkLierPRIG7Teotqwfw-JSo5mgGNL7xvK-js_GB4_xezoG9_yxhF9CY5McQpq6pPHZDOusLkf1inkClezKd/s320/mtv-1981.png " Musica",MTV Biggest Pop
-https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_420240424T181129_2587206.ts?CMCD=bl%3D18900%2Cbr%3D766%2Cbs%2Cd%3D5000%2Cmtp%3D2800%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22d08eb719-3518-481a-b006-c7eed99a9e34%22%2Csu%2Ctb%3D766
-#EXTINF:-1 tvg-logo=" " group-title=" Musica",Mi Musica Salsa
-https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_520240424T181944_2587309.ts?CMCD=bl%3D3900%2Cbr%3D436%2Cd%3D5000%2Cmtp%3D500%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22701df872-4be2-44a4-83a9-439208a3d2a6%22%2Csu%2Ctb%3D766
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tropical%20Music-%20new%20logo%20yellow.png " Musica",Musica Tropical 
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/95/4e/954e337505aab942e09eeb2b112b3e57.jpg " group-title=" Musica",Musicales
+https://cloudvideo.servers10.com:8081/8120/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp " group-title=" Musica",Panavision TV 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png?resize=218%2C150&ssl=1 " group-title=" Musica",Teleritmo 
