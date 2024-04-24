@@ -175,7 +175,7 @@ https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6kup3OvW-UU/T-YdchitdhI/AAAAAAAAUOM/q7YwHGbJH8w/s320/caracoltvinternacional.png " group-title="INTERNACIONALES",TV Colombia
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/55619
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/ecuador-tv-logo-982D4F750E-seeklogo.com.png " group-title="INTERNACIONALES",TV Ecuador
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1db0c4f5a350af9269a34b28e60f4969.webp " group-title="INTERNACIONALES",TV Ecuador
 http://177.234.230.226:8010/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8Srz2ztbU-lLXm2iCYv56wBxw7XjW9MIdQ&s " group-title="INTERNACIONALES",TV Venezuela
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
@@ -371,12 +371,12 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica",Telehit 
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96f9ace23f67b9e02fa0ec30dd2f756.webp " group-title=" Musica",Top Latino
+#EXTINF:-1 tvg-logo=" " group-title=" Musica",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w837188164.m3u8
-#EXTINF:-1 tvg-logo=" " Musica",Musica Romantica 
-http://177.93.45.155:6143/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiepVpElQOU2ijdew4P0-i4_2e6zPd_fz7Wz9fmqh2Y7SWhoPOcODuJTloEdnw5I_QE30Po2VmbWB7h_ZA7JzIiwcR-I9X9tuX0q8xX9pkLierPRIG7Teotqwfw-JSo5mgGNL7xvK-js_GB4_xezoG9_yxhF9CY5McQpq6pPHZDOusLkf1inkClezKd/s320/mtv-1981.png " Musica",MTV Biggest Pop
+https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_420240424T181129_2587206.ts?CMCD=bl%3D18900%2Cbr%3D766%2Cbs%2Cd%3D5000%2Cmtp%3D2800%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22d08eb719-3518-481a-b006-c7eed99a9e34%22%2Csu%2Ctb%3D766
 #EXTINF:-1 tvg-logo=" " group-title=" Musica",Mi Musica Salsa
-http://177.234.230.226:8010/play/a021/index.m3u8
+https://siloh-ns1.plutotv.net/lilo/production/MTVBlockParty/master_520240424T181944_2587309.ts?CMCD=bl%3D3900%2Cbr%3D436%2Cd%3D5000%2Cmtp%3D500%2Cot%3Dav%2Csf%3Dh%2Csid%3D%22701df872-4be2-44a4-83a9-439208a3d2a6%22%2Csu%2Ctb%3D766
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp " group-title=" Musica",Panavision TV 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png?resize=218%2C150&ssl=1 " group-title=" Musica",Teleritmo 
