@@ -185,7 +185,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/54399
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tkp9fgcsHUU/UQUZzGM4J_I/AAAAAAAAYzs/TBelWGLIRo4/s320/raiitalia.png " group-title="INTERNACIONALES",TV Italia
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-JgprnjibM4U/T0J5JHftjNI/AAAAAAAASTc/SbvUAKwtsh8/s1600/dw-2012.png" group-title="INTERNACIONALES",TV Alemania
+#EXTINF:-1 tvg-logo="https://api.rlaxxtv.com/images/channels/deutschewelle_colour.png " group-title="INTERNACIONALES",TV Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/TQOoVRjoB6I/AAAAAAAAPD0/JpfSOiv9jyk/s400/telesur-2010.jpg " group-title="INTERNACIONALES",Telesur
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/6702.m3u8
