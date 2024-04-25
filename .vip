@@ -351,59 +351,59 @@ http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/47606
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12693.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DJqY08KEda4/VAzcnY5xddI/AAAAAAAAnxg/HBXhp7XABbg/s1600/arg-sat.png " group-title=" Musica-Radios", Argentinisima 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DJqY08KEda4/VAzcnY5xddI/AAAAAAAAnxg/HBXhp7XABbg/s1600/arg-sat.png " group-title=" Musica & Radios", Argentinisima 
 https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzPg5UffjU-Rw6ATn_cQmdCGhNVirb1CISw&s " group-title=" Musica-Radios", Cumbia TV 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzPg5UffjU-Rw6ATn_cQmdCGhNVirb1CISw&s " group-title=" Musica & Radios", Cumbia TV 
 https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png " group-title=" Musica-Radios", El Canal de la Musica 
+#EXTINF:-1 tvg-logo="https://vmlatino.com/wp-content/uploads/2022/03/VM-LATINO-transp.png " group-title=" Musica & Radios", El Canal de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png " group-title=" Musica-Radios",Music Top
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png " group-title=" Musica & Radios",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/552px-MTV_80s_2022.png " group-title=" Musica-Radios",MTV de los 80
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/552px-MTV_80s_2022.png " group-title=" Musica & Radios",MTV de los 80
 http://138.59.177.34:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/01/PARA-VIDEOS-e1707619159474.png " group-title=" Musica-Radios",VClassic Music
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/01/PARA-VIDEOS-e1707619159474.png " group-title=" Musica & Radios",VClassic Music
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/the_retro_channel.png " group-title=" Musica-Radios",Retro Channel
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/the_retro_channel.png " group-title=" Musica & Radios",Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CzJP-SEjq6A/Yav7V8hhjpI/AAAAAAAA-Fo/VRa1I8fqq40TWbcF7z_n7zu6yokleBgKQCNcBGAsYHQ/s0/MTV_Live_2021.png " group-title=" Musica-Radios",MTV Live
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CzJP-SEjq6A/Yav7V8hhjpI/AAAAAAAA-Fo/VRa1I8fqq40TWbcF7z_n7zu6yokleBgKQCNcBGAsYHQ/s0/MTV_Live_2021.png " group-title=" Musica & Radios",MTV Live
 http://45.166.92.22:58001/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica-Radios",Telehit 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica & Radios",Telehit 
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png " group-title=" Musica-Radios",Top Latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png " group-title=" Musica & Radios",Top Latino
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w837188164.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tropical%20Music-%20new%20logo%20yellow.png " Musica-Radios",Musica Tropical 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tropical%20Music-%20new%20logo%20yellow.png " Musica & Radios",Musica Tropical 
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/95/4e/954e337505aab942e09eeb2b112b3e57.jpg " group-title=" Musica-Radios",Musicales
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/95/4e/954e337505aab942e09eeb2b112b3e57.jpg " group-title=" Musica & Radios",Musicales
 https://cloudvideo.servers10.com:8081/8120/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp " group-title=" Musica-Radios",Panavision TV 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/801a44a53c757e515e4814c1e91a65b4.webp " group-title=" Musica & Radios",Panavision TV 
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png?resize=218%2C150&ssl=1 " group-title=" Musica-Radios",Teleritmo 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Teleritmo-en-vivo-Online-1.png?resize=218%2C150&ssl=1 " group-title=" Musica & Radios",Teleritmo 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp " group-title=" Musica-Radios",Vintage Music 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp " group-title=" Musica & Radios",Vintage Music 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e3206b87f45c66fb987b85d97fe94979e93b528e23823eea0445228d315661ec.png " group-title=" Musica-Radios",Memorias TV
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/e3206b87f45c66fb987b85d97fe94979e93b528e23823eea0445228d315661ec.png " group-title="Musica & Radios",Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg " group-title=" Musica-Radios",Musica Reggaeton 
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/mimusica_reggaeton-e1684536394429.jpeg " group-title=" Musica & Radios",Musica Reggaeton 
 http://177.234.230.226:8010/play/a020/index.m3u8
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/LOGO-MIMUSICA-REGIONAL-e1687306108209.png " group-title=" Musica-Radios",Musica Regional
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/LOGO-MIMUSICA-REGIONAL-e1687306108209.png " group-title=" Musica & Radios",Musica Regional
 http://177.234.230.226:8010/play/a023/index.m3u8
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png " group-title=" Musica-Radios",Musica Salsa
+#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/Logo-MiMusica-Salsa-Alpha-AOriginal-e1687304739946.png " group-title="Musica & Radios",Musica Salsa
 http://177.234.230.226:8010/play/a021/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UONCP16V88c/YB7SCWFwP5I/AAAAAAAA8DE/EbeDJobBPbgoNXPllQeG5gjvXTLh_rirQCLcBGAsYHQ/s0/rivadavia-2021.png " group-title="Musica-Radios",Rivadavia 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UONCP16V88c/YB7SCWFwP5I/AAAAAAAA8DE/EbeDJobBPbgoNXPllQeG5gjvXTLh_rirQCLcBGAsYHQ/s0/rivadavia-2021.png " group-title="Musica & Radios",Rivadavia 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Fq0XWJaAkJ0/X1QzUuhsKZI/AAAAAAAA6Y0/ABe681hO5Fg_cnN20ThXuu_Vsa5wN-uHQCLcBGAsYHQ/s0/radio10-2020.png " group-title="Musica-Radios",Radio 10 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Fq0XWJaAkJ0/X1QzUuhsKZI/AAAAAAAA6Y0/ABe681hO5Fg_cnN20ThXuu_Vsa5wN-uHQCLcBGAsYHQ/s0/radio10-2020.png " group-title="Musica & Radios",Radio 10 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ELFv7c9mDUY/X4TpT3g3-iI/AAAAAAAA68Y/oQ0tQcAvyHMLMDQ_khVvS8iodwkmahVkQCLcBGAsYHQ/s1070/radio-mitre-2020.png  " group-title="Musica-Radios",Mitre 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ELFv7c9mDUY/X4TpT3g3-iI/AAAAAAAA68Y/oQ0tQcAvyHMLMDQ_khVvS8iodwkmahVkQCLcBGAsYHQ/s1070/radio-mitre-2020.png  " group-title="Musica & Radios",Mitre 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qgnsLgZYNeE/UBR7iE6xYJI/AAAAAAAAUtI/hnCgTFKjllE/s1600/radiomaria.png " group-title="Musica-Radios",Radio Maria TV
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qgnsLgZYNeE/UBR7iE6xYJI/AAAAAAAAUtI/hnCgTFKjllE/s1600/radiomaria.png " group-title="Musica & Radios",Radio Maria TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdS3k9vSDXQyDy7VY9Hw9kjpv-cpFwRtWq84SR-6JUerCU6PXqJ9S4ys_ww5choZ1jwtqKQNHf-ADrZekS5JzJk6M2e9AIW3r_nBBIQI_mpSakzdQM3239GO56Pa569OOFWWc3AplrXZyfjEHbjJ8Si1j0z0ceqpe136zMBPXewivfcS-z13CgOzfG/s1600/LS42020.png " group-title="Musica-Radios",Continental 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdS3k9vSDXQyDy7VY9Hw9kjpv-cpFwRtWq84SR-6JUerCU6PXqJ9S4ys_ww5choZ1jwtqKQNHf-ADrZekS5JzJk6M2e9AIW3r_nBBIQI_mpSakzdQM3239GO56Pa569OOFWWc3AplrXZyfjEHbjJ8Si1j0z0ceqpe136zMBPXewivfcS-z13CgOzfG/s1600/LS42020.png " group-title="Musica & Radios",Continental 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
-#EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYmbp9lSS6CqrFNn_gK2FrSAluUJq0hDXWIW-Y2LwpModt56n5i7xkEfsxJRAybuI0YXQd28xXyksoRibi5IvgkaOYx4QjeAzd_u_pNhfyg5UwIgI2Yp39549D0amv5HkQ4rozcb2NyMDKC_GEW6bd9uXduX8VnDfMwQ6ruQ4YvHeuqM14cfEfPmNS/s1600/Delplata-2022.png" group-title="Musica-Radios",Del Plata 
+#EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYmbp9lSS6CqrFNn_gK2FrSAluUJq0hDXWIW-Y2LwpModt56n5i7xkEfsxJRAybuI0YXQd28xXyksoRibi5IvgkaOYx4QjeAzd_u_pNhfyg5UwIgI2Yp39549D0amv5HkQ4rozcb2NyMDKC_GEW6bd9uXduX8VnDfMwQ6ruQ4YvHeuqM14cfEfPmNS/s1600/Delplata-2022.png" group-title="Musica & Radios",Del Plata 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
-#EXTINF:-1 tvg-logo=" https://lh5.googleusercontent.com/-ReiROelUBv8/TYI4TXHdhkI/AAAAAAAAPPU/JvWD1s0WDkQ/s1600/la100-2011.png " group-title="Musica-Radios",La 100
+#EXTINF:-1 tvg-logo=" https://lh5.googleusercontent.com/-ReiROelUBv8/TYI4TXHdhkI/AAAAAAAAPPU/JvWD1s0WDkQ/s1600/la100-2011.png " group-title="Musica & Radios",La 100
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0013
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7H7uFr3n9aTylKgoAv4wYpftSkJ3cqWlJ1RzgdTuR3m-cJ4_zyS9HJX0VnEvw1XGdWp2vqlzla9tUeVlQb67IcoSAkzCk11tJVAkFJ6D_jf-fB0gaX_s6U66RWmmNvA3X101x-X-DOrcHlE4hDf9g66_6QgZ8LqLXdi1ZOit9Cxi7xJq7KKMd8tVu/s320/Urbana-2022%20(1).png " group-title="Musica-Radios",Urbana Play 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7H7uFr3n9aTylKgoAv4wYpftSkJ3cqWlJ1RzgdTuR3m-cJ4_zyS9HJX0VnEvw1XGdWp2vqlzla9tUeVlQb67IcoSAkzCk11tJVAkFJ6D_jf-fB0gaX_s6U66RWmmNvA3X101x-X-DOrcHlE4hDf9g66_6QgZ8LqLXdi1ZOit9Cxi7xJq7KKMd8tVu/s320/Urbana-2022%20(1).png " group-title="Musica & Radios",Urbana Play 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
 
 
