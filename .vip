@@ -360,7 +360,7 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png " group-title=" Musica & Radios",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/MTV_80s_2022.png/552px-MTV_80s_2022.png " group-title=" Musica & Radios",MTV de los 80
-http://138.59.177.34:8000/play/a02j/index.m3u8
+http://zeuspro.xyz:8080/artgalindo1/KEt7LWMND2/1323
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/01/PARA-VIDEOS-e1707619159474.png " group-title=" Musica & Radios",VClassic Music
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/the_retro_channel.png " group-title=" Musica & Radios",Retro Channel
@@ -369,8 +369,8 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica & Radios",Telehit 
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/LOGO_TOP_LATINO_PNG_2017_-_500px.png " group-title=" Musica & Radios",Top Latino
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w837188164.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2UbdQWM7iQ-0_0WAPD1NYx7Ndp-FntmJKg&s " group-title=" Musica & Radios",Canela Music
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh48Zwey59VX3DTvkCJXA4/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tropical%20Music-%20new%20logo%20yellow.png " Musica & Radios",Musica Tropical 
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/95/4e/954e337505aab942e09eeb2b112b3e57.jpg " group-title=" Musica & Radios",Musicales
