@@ -368,7 +368,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CzJP-SEjq6A/Yav7V8hhjpI/AAAAAAAA-Fo/VRa1I8fqq40TWbcF7z_n7zu6yokleBgKQCNcBGAsYHQ/s0/MTV_Live_2021.png " group-title=" Musica & Radios",MTV Live
 http://45.166.92.22:58001/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-T0UPSwjXlOY/X07bGQMKRJI/AAAAAAAA6SQ/aDWW9dJ8ubYqfF7JTStyXWr0r7fXrTtEwCLcBGAsYHQ/w184-h290/telehit-2020.png " group-title=" Musica & Radios",Telehit 
-https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3669.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR2UbdQWM7iQ-0_0WAPD1NYx7Ndp-FntmJKg&s " group-title=" Musica & Radios",Canela Music
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh48Zwey59VX3DTvkCJXA4/ts
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4c2862_a8f4a56f03ba4ec0903619a82c19e412~mv2.png/v1/fill/w_100,h_97,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Tropical%20Music-%20new%20logo%20yellow.png " Musica & Radios",Musica Tropical 
@@ -394,15 +394,15 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Fq0XWJaAkJ0/X1QzUuhsKZI/AAAAAAAA6Y0/ABe681hO5Fg_cnN20ThXuu_Vsa5wN-uHQCLcBGAsYHQ/s0/radio10-2020.png " group-title="Musica & Radios",Radio 10 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ELFv7c9mDUY/X4TpT3g3-iI/AAAAAAAA68Y/oQ0tQcAvyHMLMDQ_khVvS8iodwkmahVkQCLcBGAsYHQ/s1070/radio-mitre-2020.png  " group-title="Musica & Radios",Mitre 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716050446/ei/roVIZr_8NtCS-LAPj8aD4Ak/ip/190.30.214.88/id/UuA2PfzB5VU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKAko0a2KZcMtuiXrjSObxJ0FhbTfIIbLZzB2vreqrEACIGLdywD8iSZ_yWUPOztbLPKMpv06T9XiQYW02vYL0AQn/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-qgnsLgZYNeE/UBR7iE6xYJI/AAAAAAAAUtI/hnCgTFKjllE/s1600/radiomaria.png " group-title="Musica & Radios",Radio Maria TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0009
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w931336312_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdS3k9vSDXQyDy7VY9Hw9kjpv-cpFwRtWq84SR-6JUerCU6PXqJ9S4ys_ww5choZ1jwtqKQNHf-ADrZekS5JzJk6M2e9AIW3r_nBBIQI_mpSakzdQM3239GO56Pa569OOFWWc3AplrXZyfjEHbjJ8Si1j0z0ceqpe136zMBPXewivfcS-z13CgOzfG/s1600/LS42020.png " group-title="Musica & Radios",Continental 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
 #EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYmbp9lSS6CqrFNn_gK2FrSAluUJq0hDXWIW-Y2LwpModt56n5i7xkEfsxJRAybuI0YXQd28xXyksoRibi5IvgkaOYx4QjeAzd_u_pNhfyg5UwIgI2Yp39549D0amv5HkQ4rozcb2NyMDKC_GEW6bd9uXduX8VnDfMwQ6ruQ4YvHeuqM14cfEfPmNS/s1600/Delplata-2022.png" group-title="Musica & Radios",Del Plata 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716052271/ei/z4xIZqzvIrfm-LAPuN-ToAc/ip/190.30.214.88/id/ZfJWOyjOB9E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSaGPTClCDvnMZH147756zSLxyLxd3lIRflk7Rz4U4d4CIDOLwfHpmXMwLtzQxmWLEDD4fAxM6bU0ytYSxGgy9aQ7/file/index.m3u8
 #EXTINF:-1 tvg-logo=" https://lh5.googleusercontent.com/-ReiROelUBv8/TYI4TXHdhkI/AAAAAAAAPPU/JvWD1s0WDkQ/s1600/la100-2011.png " group-title="Musica & Radios",La 100
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0013
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716051989/ei/tYtIZoDUMt2Y1sQPuq2_8AI/ip/190.30.214.88/id/sfTAZEZSPYE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgArP2tChTqQ49JZEYtmLweHiWttcz3Zb3d-pOnHoHx1cCIQDd0MK37242-GrIe-MuYJvmL0l1iBLFKmqWJjNAoU_xCw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7H7uFr3n9aTylKgoAv4wYpftSkJ3cqWlJ1RzgdTuR3m-cJ4_zyS9HJX0VnEvw1XGdWp2vqlzla9tUeVlQb67IcoSAkzCk11tJVAkFJ6D_jf-fB0gaX_s6U66RWmmNvA3X101x-X-DOrcHlE4hDf9g66_6QgZ8LqLXdi1ZOit9Cxi7xJq7KKMd8tVu/s320/Urbana-2022%20(1).png " group-title="Musica & Radios",Urbana Play 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
 
