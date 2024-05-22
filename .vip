@@ -188,7 +188,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
 #EXTINF:-1 tvg-logo="https://api.rlaxxtv.com/images/channels/deutschewelle_colour.png " group-title="INTERNACIONALES",TV Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/TQOoVRjoB6I/AAAAAAAAPD0/JpfSOiv9jyk/s400/telesur-2010.jpg " group-title="INTERNACIONALES",Telesur
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/6702.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-G71AMXPWRGM/X87UptDDVkI/AAAAAAAA7iE/-oer-Y3b_3kEiLMlIIU-7VpR0KMeFC2uACLcBGAsYHQ/s0/A%2526E_Mundo_2003-2005.png " group-title="CULTURALES",A&E Mundo
