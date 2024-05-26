@@ -161,33 +161,33 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M3kGbvkCb_H_tk_2hNKz6k/m3u8
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/132285.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWva9RZ0ryDdCQ3bqjVHOyrakhKqwRzR3Qgz2nvw_l6uF-_Wz5702rhk-bjgCZO5RfcdU9DVoAKbkXmkE5Ks-ULlzzAsX4KcznWZx-2cVwKrH-uCBjkzAHqRfkar6thvEOkJ2tIvtYGzP3P0cvmgml_NDgBnC5vbC6-SkIiPxg6HUbgcz6-nF0X4rH/s3840/CNN-2022.png  " group-title="INTERNACIONALES",CNN Español
-http://181.78.105.146:2000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioMxZH005boZkmvgdunEHzEodX4TMBMk7PQK7MXw2iBJ7TnRZYbM_FU3exLkfjIPGw6HWT9iOWZMhRBg_JXobqkgk5NApfQpaL3jx-LASjLaXLBtdjG4tvYycP9PIRRs7KaN4uzgfICfS-Eew7QChrlCmIp5P0S7gsSCXqJsfy1HhFr1detPdC2_qw/s1600/TV_Chile_2020.png " group-title="INTERNACIONALES",TV Chile
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/19336.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/100RCHVPWufumabZ2Rwex9CgNAggGLI7jzTVXX_ubO0MAYUS-7q0UPo_ANyXo1ixwLFl=w416-h235-rw " group-title="INTERNACIONALES",TV Bolivia
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WxPv8N5Bw8YS2KNdSddNHart_iPPn7H5cL6PtauvMYK_GhCR-RZE0JsKd5VFlNFTlC6S=w416-h235-rw " group-title="INTERNACIONALES",TV Peru
-http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/12300
-#EXTINF:-1 tvg-logo="https://redtal.tv/storage/509/001-paraguaytv-h.png " group-title="INTERNACIONALES",TV Paraguay
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gpyhd6qrsmskcllcvf4ie/CNN-Espa-ol.jpg?rlkey=7q7ewlcrs22363j476wb1b3a0&st=waoenb1p&dl=0 " group-title="INTERNACIONALES",CNN Español
+http://45.166.92.22:58001/play/a036/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0yjw3xgn3kbm8y828i78b/TV-Chile.jpg?rlkey=k4m81jyqtt9knln9p1jigndsk&st=6i5wngyh&dl=0 " group-title="INTERNACIONALES",TV Chile
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-IoOqL9k4mpsw64tJyfHZa4/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vpwftp79nujdeaeykk752/TV-Bolivia.jpg?rlkey=8nakaiw3a5wlcrq4tqq47fn5s&st=2js453nl&dl=0 " group-title="INTERNACIONALES",TV Bolivia
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4902.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vq1znqu8v7ltlxz5bkv5z/TV-Peru.jpg?rlkey=ykgnjx4dhagsww084x3f5y7ez&st=vhg8104i&dl=0 " group-title="INTERNACIONALES",TV Peru
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4900.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a6joehjah67hi9vosy3gq/TV-Paraguay.jpg?rlkey=cshdx5zpfx4pcjbez2lhhj4u3&st=jcsgk6q9&dl=0 " group-title="INTERNACIONALES",TV Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3LgWo6COfvE/YazwNaWpyCI/AAAAAAAA-HE/eVRupL6API0n3sNeIrfZ5zwSow9rGV5qwCNcBGAsYHQ/s320/TV_Brasil-logo2019.png " group-title="INTERNACIONALES",TV Brasil
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/fxkmgorfeury6n1847rgo/TV-Brasil.jpg?rlkey=je0ixo3uirv3i5b68hl9hk1ms&st=3xloyz0q&dl=0" group-title="INTERNACIONALES",TV Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6kup3OvW-UU/T-YdchitdhI/AAAAAAAAUOM/q7YwHGbJH8w/s320/caracoltvinternacional.png " group-title="INTERNACIONALES",TV Colombia
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/55619
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1db0c4f5a350af9269a34b28e60f4969.webp " group-title="INTERNACIONALES",TV Ecuador
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ggg1nsy84466461dy81v8/TV-Colombia.jpg?rlkey=ydk7pgfz927sejl0iuk1nfwty&st=1bygm5lq&dl=0 " group-title="INTERNACIONALES",TV Colombia
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CIjtYRlqfSHZlRqnI6jrH0/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9kvd05grqa1yay49q7xpt/TV-Ecuador.jpg?rlkey=vhvgshox5nw531gbyji8od1xk&st=xx38mzyi&dl=0 " group-title="INTERNACIONALES",TV Ecuador
 http://177.234.230.226:8010/play/a028/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8Srz2ztbU-lLXm2iCYv56wBxw7XjW9MIdQ&s " group-title="INTERNACIONALES",TV Venezuela
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s0s3fxa09ln6ru05dxet6/TV-Venezuela.jpg?rlkey=cd8z8ftj3lcw4esssvdvkx52d&st=a6hcq8j0&dl=0 " group-title="INTERNACIONALES",TV Venezuela
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fFOHRBQiuyo/T_5D0vqUh2I/AAAAAAAAUfA/VLnzy7APc40/s320/aztecainternacional.png " group-title="INTERNACIONALES",TV Mexico
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t1p4018x40az4b0s03xnd/TV-Mexico.jpg?rlkey=7tis7l4h4m3lp14t2rk53bzdd&st=wmkrqaml&dl=0 " group-title="INTERNACIONALES",TV Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nE8GHczwIAc/TqWTiWZ-YLI/AAAAAAAAQlo/Xiavj_oeqKA/s1600/tve-2010.png " group-title="INTERNACIONALES",TV España
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/54399
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-tkp9fgcsHUU/UQUZzGM4J_I/AAAAAAAAYzs/TBelWGLIRo4/s320/raiitalia.png " group-title="INTERNACIONALES",TV Italia
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
-#EXTINF:-1 tvg-logo="https://api.rlaxxtv.com/images/channels/deutschewelle_colour.png " group-title="INTERNACIONALES",TV Alemania
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/liei7aeuqxotlw7n8bf4s/TV-Espa-a.jpg?rlkey=u33vhxbvuon1ed6vrftfxtpfi&st=tx9wj1z8&dl=0 " group-title="INTERNACIONALES",TV España
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/acfcpvw5udughi1jw353m/TV-Italia.jpg?rlkey=jxdkjjmcaay07q5bpngfodnyw&st=oxw0zwhs&dl=0 " group-title="INTERNACIONALES",TV Italia
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CF4d4u9o3K7yDniXIa_G28/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bn8d4z597wcqxoled6trq/TV-Alemana.jpg?rlkey=f100r8wmtfvgmqxkcnlxqv3kk&st=xyz2cb6m&dl=0 " group-title="INTERNACIONALES",TV Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/_YkZZPo1aKZU/TQOoVRjoB6I/AAAAAAAAPD0/JpfSOiv9jyk/s400/telesur-2010.jpg " group-title="INTERNACIONALES",Telesur
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0bzjfi43snt2p687l7kyy/Telesur.jpg?rlkey=0y1kgf797ackifwbb0uee0mqf&st=gert9am8&dl=0 " group-title="INTERNACIONALES",Telesur
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
 
 
