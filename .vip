@@ -233,48 +233,48 @@ http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4791.m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-McJ-iTRE74S34OwjRyZeEk/m3u8
 
 
-#EXTINF:-1 tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/02.Logo-Cine-Familiar-Alpha-AOriginal-1024x576.png " group-title="FAMILIAR",Cine Familiar
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/9492
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NW83CT_5StM/UPrUgaG6tKI/AAAAAAAAYlM/Iu1a164OB4k/s320/comedycentral.png " group-title="FAMILIAR",Comedy Central
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNiJgTpTm74C2fIXHLM52prE/m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibfF2tUMF6eR6hgZm5gWLWpmQuNHQ_UifxM3qxar3-g4GkeMEAnEVaiD624j9C9XkcbIJJ3moK37mZgYtznO-sEzCTEU1-idtxsvTBUqHYDxqT8R-CvWMVBNCkpDuPR_PrtAckxnFkAGtx9vpaBqk--X7nlrMS6v7fvDEReEgqz9SSkbERbNqWqY3w/s320/DistritoComedia-02.png " group-title="FAMILIAR",Distrito Comedia
-https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQf38EC1TuTGx9pHLFDneMm-lRaZj4h3ftQ&s " group-title="FAMILIAR",Super Agente 86
-http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/36647
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/i1gTzpKv4mfCgND027Ppvzl6OjZeD6V1BdoyChWKHsKpKzR-TM3iCsM4IVi9QlDmUDs=s64-rw " group-title="FAMILIAR",Los tres Chiflados
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjACMsnsChH6PbzxVJhR9a4/m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2L9TNM0_ELs/WEweJPdstDI/AAAAAAAABSo/jPdTSktFguErxrcvVtQyBWUstBPkrZAXQCLcB/w199-h200/ATRESERIES.png " group-title="FAMILIAR",A tres series
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/203657
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-mo-B3jG4x8M/WEM9zpX54SI/AAAAAAAABQU/QlinKuWUlNMA-C2prpgTMZenKBuHx-YKwCLcB/s1600/tnt-series-2016.png  " group-title="FAMILIAR",TNT Series
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12037.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/qzVSmfnpopcDc3nQXTBaHD0V-8z_PQdBWpGDiZWOMu7R5h1EeY_sJyfbssqCtFiy7d0=w416-h235-rw " group-title="FAMILIAR",AXN Channel
-http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4844.m3u8
-#EXTINF:-1 tvg-logo="https://online-television.net/uploads/posts/2023-02/thumbs/angelus-tv.webp " group-title="FAMILIAR",Angelus TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fhu8pac0zob2hly4t6sfv/Cine-Familiar.jpg?rlkey=ws162tbch0yzs8cw187sm2065&st=a3pipd4b&dl=0 " group-title="FAMILIAR",Cine Familiar
+http://177.234.230.226:8010/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xwlzax9gyf0xhrbmvthp1/Comedy-Central.jpg?rlkey=l9gzym9lgch22f51xhu1lhle7&st=k41lf5ee&dl=0 " group-title="FAMILIAR",Comedy Central
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/2805.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4qctkewaida3lx1ksudye/Distrito-Comedia.jpg?rlkey=d6twdum4lvq7denvj2mrhjspy&st=wi545eh6&dl=0 " group-title="FAMILIAR",Distrito Comedia
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4783.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q27kskz713irirswrrmox/Super-Agente-86.jpg?rlkey=e6y99d9fyridjwqsu90x7l904&st=xctvjuua&dl=0 " group-title="FAMILIAR",Super Agente 86
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M66lrdg__8AFcRn4_0dWcE/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8vnqa4gp5u616am12hr5v/Los-3-Chiflados.jpg?rlkey=rr1p411re3brjo2qkqg0pbj9l&st=6aez0p3p&dl=0 " group-title="FAMILIAR",Los tres Chiflados
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K___2JJlwsZkUmIu3zLSas/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f2o69bmach4fwik88hdf7/A-tres-Series.jpg?rlkey=1yfs93ierwzaut6ipqnkt4atp&st=t79eoljl&dl=0 " group-title="FAMILIAR",A 3 series
+http://177.234.230.226:8010/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gv84y7areuyschs5a1569/TNT-Series.jpg?rlkey=q26k18mm99upjhiw71scc33oy&st=6tm4abot&dl=0" group-title="FAMILIAR",TNT Series
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3644.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hkflsarlpwmpgkkvd21io/AXN-Channel.jpg?rlkey=zd4g15cgoz3bed5e4ibubqjki&st=qxsg7qq0&dl=0 " group-title="FAMILIAR",AXN Channel
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4912.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jsbrmpm9ur24c2f7v3bc1/Angelus-TV.jpg?rlkey=dbanthcu44wnqy0kvbt34e2og&st=5bcvsiw4&dl=0 " group-title="FAMILIAR",Angelus TV
 https://transmisiuni.ro/media/oracatolica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png " group-title="FAMILIAR",Enlace TV 
-http://138.59.177.34:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/v3jJV024XxjLo0z5VzMBY6Ja-y94Q13JR5IF9jtrEFZDGzIGCbdvGVJqfaMFtTwxed4=w416-h235-rw " group-title="FAMILIAR",EWTN TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8m12nsuxi012shcjok1it/Enlace-TV.jpg?rlkey=0kyl82jsrmb9ipu5jxk8wgzde&st=37vz6lra&dl=0 " group-title="FAMILIAR",Enlace TV 
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4937.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d7phs6h0p64vm3wzu6760/EWTN-TV.jpg?rlkey=7yecpxt4jou2xlmd4k8b08a8n&st=lxcb9byy&dl=0 " group-title="FAMILIAR",EWTN TV 
 http://45.166.92.22:58001/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/plxVqeHa3lhnrWeUyxdnCVB8h7lw0-4IelFnVcR7cZPpyCAmdWoGr_eEaQ8MFKQDaSKG=w416-h235-rw " group-title="FAMILIAR",Jehova TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gz1ppjebkxuebylwphlik/Jehova-TV.jpg?rlkey=bbck3o5syanap4mieazo9kqku&st=6gdd478h&dl=0 " group-title="FAMILIAR",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-PX05J-PXgDk/V_E3RSJer8I/AAAAAAAABDk/JBHXpksrZNkCVQramobdh2qMRTPaQniZQCLcB/s320/xew-estrellas.png " group-title="FAMILIAR", Canal de las Estrellas 
-http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/12697
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kC5BWfnrUNg/X9TRpVx6nZI/AAAAAAAA7mQ/pk0fZyjcHJsekshekBGm8lCpaiuqWGDTACLcBGAsYHQ/s170/volver-2016.png  " group-title="FAMILIAR", Canal Volver 
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/19983
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a92c2108c2636d87761afe4902bfe3d4.webp " group-title="FAMILIAR", Canela TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u05nbv4pqq7pqvj3s6dva/Ch-de-las-Estrellas.jpg?rlkey=epkwjjih4zn1rf6s7dpviapsd&st=tia5dimu&dl=0 " group-title="FAMILIAR", Canal de las Estrellas 
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OD61kK_h-yVh-6fjhluxPg/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zi9x5k3p40x40ybjbgau6/Canal-Volver.jpg?rlkey=khi9pqhlz0wkyhuqjfr58ofxb&st=vlr3duzz&dl=0 " group-title="FAMILIAR", Canal Volver 
+http://sdmx.vip:8080/Cambiosfenix/JqwBarVH6xyx/210868
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ypprh6b8o9p9xc3fzduyg/Canela-TV.jpg?rlkey=vd4exr4jxqnaebffyshlgxmt3&st=4kp2l932&dl=0 " group-title="FAMILIAR", Canela TV 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglTfUW47hMH4tH9UsQcLaI5b2gqwXgOA1Aad0DOl7P4echUQrwuOZuR5sG-RXekCu7D6-BrZ9SSGTQQ-EHhGfhouyTDTOdntDHfCzxCeddsQrkv0bHzxok5BYrdrW4ob-3FJ_57eLrZBwLtI188NzzrL7aeDeASAewkNgPkgGArFZUDyFUHksSmdZr/s1600/az-corazon.png " group-title="FAMILIAR", Corazon TV 
-http://home-playtv.com:8080/Flacotv@7/DvbnBw2N5n2d/53052
-#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-MVllyyaD5eA/VmeAPllfR6I/AAAAAAAAAVs/N-vjvpl1EUY/s320/PASIONES.png" group-title="FAMILIAR", Pasiones
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNstmbsT1Vgun9s-8u_OWLl0/m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif5MS1hnnWx6PyG4MygBgM66REf3XDCwf8d7ggY6EcWQW392ROIE5NjWW1p_Nhza-KgOKYa_Mjs8V1xvbFCq_bDZC02rfVvX4IUbPcN63sSie-qSypIPbO7LBAyeuU-CNm_jHxbUMBcypynBt18ewStTVd5LhNbAYbZBPNGOgOtXy-Tkeur60w1ire/s320/1200px-RCN_Novelas_logo.png " group-title="FAMILIAR", RCN Novelas 
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/8nvrvi7jr824imlnrupzi/Corazon-TV.jpg?rlkey=vpr4a682adakathpl9gxmnd6e&st=3ohp04n5&dl=0" group-title="FAMILIAR", Corazon TV 
+http://45.166.92.22:58001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/p21vnmqw3wxv1qowtzn74/Pasiones.jpg?rlkey=hewx8rsbyzglxea9eacg8znxu&st=xjv3se5k&dl=0 " group-title="FAMILIAR", Pasiones
+http://45.166.92.22:58001/play/a01q/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9w2lra0acol3zyk4ocmlx/RCN-Novelas.jpg?rlkey=in0ps1w2eaocsj6eribyzp3df&st=hocllsjg&dl=0 " group-title="FAMILIAR", RCN Novelas 
 http://177.234.230.226:8010/play/a01w/index.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MN8np2ZQRRQ/X1vHFZsygKI/AAAAAAAA6iA/Vec9_WSCS50D2lOpcx-NUX6P8d-Vb2wywCLcBGAsYHQ/s340/TelemundoInternacional-2018.png  " group-title="FAMILIAR", Telemundo 
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/39628.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PEYfFS-_GqI/X9UMM3pfydI/AAAAAAAA7n8/MCUXE1tqrVM8SGAS3Y7ym4Gueh56E_C_ACLcBGAsYHQ/s320/tlnovelas_2020.png " group-title="FAMILIAR", Telenovelas 
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNqS77WCqWw04zPpaG02ijn4/m3u8
-#EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixDbMG-mUGWT-aosM9xztsLmBpVSmbv2Ua2epBG4xT9YZYDXgosNj49inET7o3Pou4CY9AwprcXIvT2YL7NNeOSDxIwaC5OX_ZcZxgslSeS6qSUMBILjhRUIxrXxHodChHEhJ8s3iwZ72VNR7x8uI0HP_GUJoci4b6SMEBIjug839Z4GdpRMCBGqXo/s252/tnt-novelas-logo.png " group-title="FAMILIAR", TNT Novelas
-http://54.39.51.30:25461/Nicolas_/s2URqdwSrc/12041
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/da23jj52z6ncge0vywewc/Telemundo.jpg?rlkey=ifkrn7c4rwvdog9o5edmlfgzy&st=mn48t8rq&dl=0 " group-title="FAMILIAR", Telemundo 
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3024.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/o74huok4uw3k5m4pqnuk8/Telenovelas.jpg?rlkey=xwkdb740add49cobs9nwvpgci&st=9t600fnn&dl=0" group-title="FAMILIAR", Telenovelas 
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-HEr8wWC17GQOk4Y40MiSAQ/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pb0miyt4cdv3fh4lnmqn1/TNT-Novelas.jpg?rlkey=zl61j0teclzyfk3dl2ek51hss&st=9qro0b8u&dl=0 " group-title="FAMILIAR", TNT Novelas
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NqZUpQNs7LuyZGjLS_PDhA/m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://blogger.googleusercontent.com/img/a/AVvXsEidcDRsiGdAztCZGVk1FvwSUkU1sOYf9pK4cFXCAXQHGdLqSLR0MmJLAlaPx6entdLOIfx6JNxpS9kdktzFECRxa29usDglYDS5R55ovWpcrkFC7ywamurROwAVupJ_6R7ewUE9LGsX9bUYNfY0hfB9-al6M-qSuYtDQKOpa72j49oz6Mv7cZ3FQnwA=s800 " group-title="CINE",Space
