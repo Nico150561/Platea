@@ -299,7 +299,7 @@ http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4804.m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-L_jRqbkSAT2CJL7rnNzK0k/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kzeitkje81ukd1sfm8wf1/DHE-Channel.jpg?rlkey=sn2zbje2wtbyz6ri7urjgi4t6&st=d5mhomi4&dl=0 " group-title="CINE",DHE Channel
 http://177.234.230.226:8010/play/a01c/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxsuperconten.com/scl/fi/jyie4dr4covbkqwd4rwtp/Golden.jpg?rlkey=lpy7lgeib5trcram5s1b5avrn&st=ks5rmda4&dl=0 " group-title="CINE",Golden Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jyie4dr4covbkqwd4rwtp/Golden.jpg?rlkey=lpy7lgeib5trcram5s1b5avrn&st=ks5rmda4&dl=0 " group-title="CINE",Golden Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K1YwDepzeWtd_GgHV6b42Q/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f6wkovh0y593r9jhpoekh/Warner-Channel.jpg?rlkey=cqy2bkfrf83i11clmdema1abr&st=n2p5l2jd&dl=0 " group-title="CINE",Warner Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Dyl4tUGDnsHngSZyDF8_VY/m3u8
