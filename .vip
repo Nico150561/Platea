@@ -281,7 +281,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NqZUpQNs7LuyZGjLS_PDhA/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-AwSlm7jPzlki_MxilCA_HY/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eyrykc75sill2j7ykjecz/Star-Channel.jpg?rlkey=73a5a514n0nplkw68glhsk4tw&st=kz4pl5ii&dl=0 " group-title="CINE",Star Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-L9Nc9JM4J1R1x0pmwKIbeE/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/au4ltbgflba91ecnzxu7c/AMC-Channel.jpg?rlkey=kkmw15mopxifebs4bg4pco9dg&st=6tggs2r1&dl=0 " group-title="CINE",AMC Channel
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/m46wourm2ne7fiiydivvs/AMC-Channel.jpg?rlkey=yhjk2vs5mjrvxdnw7nqarm0v8&st=knua6cmk&dl=0" group-title="CINE",AMC Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-LDBldxleYRGJGOxEweSjIM/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2xsssvzjtiuxztsznum6b/Cinecanal.jpg?rlkey=svcqt9nehpo87g1bin5znzisr&st=nf425qu0&dl=0 " group-title="CINE",Cinecanal
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CwNyBYGY-M6nNYNJ7LTDfk/m3u8
