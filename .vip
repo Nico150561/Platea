@@ -320,35 +320,35 @@ https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ubb9k7oxbigwa4x195o63/Studio-Universal.jpg?rlkey=crigt4rh16cqr55cf5vsgo6cr&st=ix1thjsa&dl=0 " group-title="PACK UNIVERSAL",Studio Universal
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjHIhWSv6j0Nd-CJ0iEHY94/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eudaxfve336ww4gncg744/Universal-Channel.jpg?rlkey=2zddvhwm1luqgho6cvb0rjcuo&st=rr1ad9en&dl=0 " group-title="PACK UNIVERSAL",Universal Channel
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNsCA829qEvFa5g5ORYkAuZM/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OU7MCNw63To3ZdYKPymkdA/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/jnp44nytuqiwhc9x0b51w/Universal-Premiere.jpg?rlkey=4jj9st0rylxu70f5chb5gkdi1&st=17f6u70j&dl=0" group-title="PACK UNIVERSAL",Universal Premier
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNpAQthVzKbtlvphY9stG5pM/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Gqm8-4fpTzSlUwY4jWIbbQ/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hhhtrm5x6wjbmi12v0jl2/Universal-Cinema.jpg?rlkey=yy1ik9guac8duenviph8spnv7&st=xrrqrf3a&dl=0 " group-title="PACK UNIVERSAL",Universal Cinema
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Oo4HwLgtqQGGA_DDCu_hpI/ts
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Oo4HwLgtqQGGA_DDCu_hpI/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/3jged4s42yzm2a29m9lti/Universal-Crimenes.jpg?rlkey=8bz72ihv6dnxeu1b5da1molqf&st=265r4jmk&dl=0" group-title="PACK UNIVERSAL",Universal Crimenes
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNj2i29S9aBdA2ELn3vigBaY/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PlMwg5PtVOUrOQW-fpQO2g/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q6of7ohno3vg14xsj270a/Universal-Comedy.jpg?rlkey=m6m4xg7tylr2g3q4petniu8u0&st=8dqmx9yx&dl=0 " group-title="PACK UNIVERSAL",Universal Comedy
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKbp_L-Sld1MfqC0Bg4qEk/ts
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKbp_L-Sld1MfqC0Bg4qEk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lvm29ejjjafcx5v8hksko/Universal-Reality.jpg?rlkey=q8p9ezap8au0p0flid1ccn7hg&st=piqvxbhs&dl=0 " group-title="PACK UNIVERSAL",Universal Reality
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNgsn0ohUVLhRJ3d59h5fsdQ/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BaBY2AU0l3iktFLjg3V-Aw/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4thxa1d0kb49gtm5kva79/HBO.jpg?rlkey=ayt17l1fmtuiz8g976xxqe07o&st=pu5fquje&dl=0 " group-title="PACK HBO",HBO
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4961.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t6tebi198qqb1xbsxmyx9/HBO-2.jpg?rlkey=32qlcsf9e61mxdo91qp4zdeq7&st=wzjww5i4&dl=0 " group-title="PACK HBO",HBO 2
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjHbVBaVtHl-EwqouD81QSc/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GW6gjBYqq5aNM6AzhW-ajs/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q0b67qff22oyazjrii8cm/HBO-Family.jpg?rlkey=pgrmrex6sx6atohq53raysl6p&st=ng3u54rl&dl=0 " group-title="PACK HBO",HBO Family
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PMu0Ip6FfJd5y4DSVs446o/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/61li1l4lufmz5h3uw5d96/HBO-Mundi.jpg?rlkey=elkfojcf21bxuuj31bz959h4j&st=ro3of1v9&dl=0 " group-title="PACK HBO",HBO Mundi
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4800.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa92gjuubfydgrwt27rsu/HBO-Pop.jpg?rlkey=k8utwnqpkbpsxp0zxhei29udx&st=t2eycfjr&dl=0 " group-title="PACK HBO",HBO Pop
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNo-YKr8xGK79HdUEV-Gh5wc/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-EVqlGaTf3JAfV8QvWtNNyU/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s1k3py2c8r4mh94m3q8l5/HBO-Plus.jpg?rlkey=1gb0g0gd65z1j8xm8asnfg5fh&st=i4diwlvq&dl=0 " group-title="PACK HBO",HBO Plus
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNmQOo1vdhgcPAYlpSWCSg9o/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CuKjCVyicR9yHkYtKzPqOU/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5m06jvkw54ha7cbsrum47/HBO-Signature.jpg?rlkey=w0ck935jh4atwyd6mlan2tyri&st=h34e3v7p&dl=0 " group-title="PACK HBO",HBO Signature
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/2794.m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/4xqf82hkrjim88n2g4mrn/HBO-Xtreme.jpg?rlkey=4t881mw94mbd19ajk25amqlp9&st=5xs00j1e&dl=0" group-title="PACK HBO",HBO Xtreme
-http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/12693.m3u8
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/2794.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-DJqY08KEda4/VAzcnY5xddI/AAAAAAAAnxg/HBXhp7XABbg/s1600/arg-sat.png " group-title=" Musica & Radios", Argentinisima 
