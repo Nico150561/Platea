@@ -28,78 +28,77 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8wynty4zoynm5ou5ehe4v/Todo-Noticias.jpg?rlkey=x4mirmdls1lhn9o3dyf9fa4ig&st=d65579x7&dl=0 " group-title="NACIONALES",Todo Noticias
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=qiazs7sr&dl=0 " group-title="NACIONALES",Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j5j4xtd5t1lswaadd4ggf/La-Nacion.jpg?rlkey=jkknfc3nin6kgqdw1pv6b8286&st=7osg8liv&dl=0 " group-title="NACIONALES",La Nacion +
-http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4905.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4hgjqmldd4620k22rrw2r/Canal-26.jpg?rlkey=vvhp7old1svt46gd0kvcpr9k5&st=bg3xcab4&dl=0 " group-title="NACIONALES",Canal 26 Noticias
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mukl85xdlrh1rqp12g18l/La-Nacion.jpg?rlkey=iaix1veyzf4c7vpm1qxph4v22&st=zlucnov4&dl=0 " group-title="NACIONALES",La Nacion +
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4905.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=wadzx2mq&dl=0 " group-title="NACIONALES",Canal 26 Noticias
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3543.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ljmoffqu45y94rqjj1an2/America-24.jpg?rlkey=bixiz43o14f1s1ekoe9v9f2vt&st=uhtgptjz&dl=0 " group-title="NACIONALES",America 24
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8hwoiddvkm1s6wieay7h2/America-24.jpg?rlkey=b9grskux2wozuurmp1nhck212&st=plssol0y&dl=0 " group-title="NACIONALES",America 24
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4906.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1d9vxekt4phkkg240ng78/Cronica-TV.jpg?rlkey=gop282v6v5w1ez92mcd3bkrai&st=fk4x6qdx&dl=0 ",group-title="NACIONALES",Cronica TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ojmaxjyk1kx6idzik8t3l/Cronica-TV.jpg?rlkey=wa5ikx2hl10ww3fxxukljs1h3&st=gf3zsa8t&dl=0 ",group-title="NACIONALES",Cronica TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716400211/ei/89tNZv2-DeCD-LAP2r2--As/ip/190.30.214.88/id/avly0uwZzOE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgR2Oy_Jwkd-ZEvQIVR8gpEhQKYHmddLWlh_JTQOhQK0UCIQD7FRU08PPonjygtHbT5J6EXhKbf53_Ag064NUDHTGqsQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8rj7htka5wl0wly9ynubo/C5N-Noticias.jpg?rlkey=6tlnazljnsydqxzagvqje2aof&st=g11gm03w&dl=0 " group-title="NACIONALES",C5N Noticias
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/z5uswiudz62etsc6xsc5d/C5N-Noticias.jpg?rlkey=33adflhnv7zntyn2srjcpg2mf&st=s132bbyp&dl=0 " group-title="NACIONALES",C5N Noticias
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716399409/ei/0dhNZqOrMZ-b1sQPvpWV8A8/ip/190.30.214.88/id/Hy4UCfsE6Yk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNOD-a1ctzNKAuMLsN7OWEZFyxjZtJvNstRPeKaPqTi0CIFqwVzmPadok5zZyVOJ_qOVmPHIfjrSiSJBEq9lJQ2MA/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gykkyylm82v5mje1ljffe/TV-Publica.jpg?rlkey=7infjgg7a1ptpqro6dsez51ed&st=m6zjf27i&dl=0 " group-title="NACIONALES",TV Publica
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hm2n99a8wbzhyzu25sf9t/TV-Publica.jpg?rlkey=ugpeye22xjsr26o2kgpg7f919&st=p0b1eehi&dl=0 " group-title="NACIONALES",TV Publica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716399660/ei/zNlNZr--OcS51sQP9sGvsAY/ip/190.30.214.88/id/uc4lMimbYj0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY8Mq4dBWoRi-b5k5o9X7Ry1DKZU7QtyXwErpkorKCM8CIQDxrVyFUk-5jYhzmOg0LVK9xE7CfyvEg5aIfDHa0uOywg%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jzc34afwdu8jfl5s3a5wz/Ch-9-Bs-As.jpg?rlkey=0kamwso1m8egxeamevk5t0pwf&st=l4dma7dc&dl=0 " group-title="NACIONALES",Canal 9 Bs As
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yw7kpbhrdb2hudy7co87l/Ch-9-Bs-As.jpg?rlkey=5sbdrni626bkv0puaig3bso7v&st=169x7t3y&dl=0 " group-title="NACIONALES",Canal 9 Bs As
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3542.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q7p5u06oum5xb8ig1y48i/America-TV.jpg?rlkey=y8jf7yr98zqdcltuc51alovt5&st=gyheeb8l&dl=0 " group-title="NACIONALES",America TV
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/5883upqzbcr4g7l1iisxa/America-TV.jpg?rlkey=d5h0ci89ki2h68218h00ykdau&st=w4nr6qp3&dl=0" group-title="NACIONALES",America TV
 http://54.39.51.30:25461/live/Nicolas_/s2URqdwSrc/40026.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qf9ln7cufbenlrpsg5rdk/Telefe.jpg?rlkey=9vis0v8yg0nhp98e5xgwphdvb&st=lpm8ucc1&dl=0 " group-title="NACIONALES",Telefe
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ins9ut3ai8iz8mfc70oj3/Telefe.jpg?rlkey=dfhl9cao182q5iukx4fgoww29&st=69wxdpat&dl=0 " group-title="NACIONALES",Telefe
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716402219/ei/y-NNZuGADvud-LAPuciz4Ag/ip/190.30.214.88/id/8gs-9lsfVQU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgDHCuh-cHLMi5BeVtAMhvud7h7RvHvI1jB26C-DUV2H8CIQCfkJOFocFjxO3mlyaEa1dZJNDQ6birRtK8P_qd8goF1Q%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/caqgxaw05aupz3yqlig55/Ch-13-Bs-As.jpg?rlkey=ulqhg2piraz982tg02062u66j&st=rfxr7yz6&dl=0 " group-title="NACIONALES",Canal 13 Bs As
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8v6dpi9e7mbqn8t7ot712/Ch-13-Bs-As.jpg?rlkey=k5mywfmmun9niyhfylo9jfxj2&st=8ox12uky&dl=0 " group-title="NACIONALES",Canal 13 Bs As
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r8zpdrkm8hxwo6unc177s/Fenix-TV.jpg?rlkey=k22j0wwwby1ew10cwgrs0ln3k&st=hx671kjb&dl=0 " group-title="NACIONALES",Fenix TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o6epxs5u8tls2ehj9lz2j/Fenix-TV.jpg?rlkey=ges0ykrx03c0qjr2inixxhu91&st=178en5xy&dl=0 " group-title="NACIONALES",Fenix TV 
 https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/chunklist_w1379006936.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kr9w0ytz87d588azhdpnv/Ch-9-La-Rioja.jpg?rlkey=d7caiol6eych4hcl5up85h4w8&st=6imtzjve&dl=0 " group-title="NACIONALES",Canal 9 La Rioja
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0hl1inu4dfazvatv3ca3f/Ch-9-La-Rioja.jpg?rlkey=x855ag6lvocs59f6v0a1gta83&st=liln5r5m&dl=0 " group-title="NACIONALES",Canal 9 La Rioja
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/lr9n5x13o9qosp6kq2skq/Medios-Provincia.jpg?rlkey=s06wn3s57pmef12hjdd754g28&st=u4gpfzdi&dl=0" group-title="NACIONALES",Medios Provincia
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1wr5sc12ex1vc1iab1zi0/Medios-Provincia.jpg?rlkey=0xzxe0q8s6x6qdrkgff3roddf&st=o7nfwgec&dl=0 " group-title="NACIONALES",Medios Provincia
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rb9dmkp87la5tl7kae2p0/Catamarca-TV.jpg?rlkey=wvc01qekz5zxnfsglblipuyk1&st=gym4w35w&dl=0 " group-title="NACIONALES",Catamarca TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fkb02g64mfn8ovjfi76jb/Catamarca-TV.jpg?rlkey=tikg2f4cp7i9518cil0azh9a2&st=u6mgb28i&dl=0 " group-title="NACIONALES",Catamarca TV
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0192
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g4sddh8y2sue1y7zk89cw/TV-Tucuman.jpg?rlkey=cz4q4javp784n6plcjdl93l0h&st=klh4npkm&dl=0 " group-title="NACIONALES",Tucuman TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wciftpeuizhcj0pkfjqy8/TV-Tucuman.jpg?rlkey=kp1fg6zl0o9f1eo194w45b0sw&st=fq2hzlof&dl=0 " group-title="NACIONALES",Tucuman TV
 https://srv3.zcast.com.br/lavozdetucumanhd/lavozdetucumanhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/x9rosft7iz4lmo1e8z2sn/TV-Sgo-del-Estero.jpg?rlkey=2ibucj09ygn1xfsyupf2ulfk7&st=8td877rx&dl=0 " group-title="NACIONALES",Santiago del Estero TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/47c4jjel4rpua3bcdl8cj/TV-Sgo-del-Estero.jpg?rlkey=wuzxqfl65f1c1w9ys88f26up0&st=geigmqc3&dl=0 " group-title="NACIONALES",Santiago del Estero TV
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/va1z8ox4s2zrvugdf5gcs/TV-Salta.jpg?rlkey=lbgiyg0bqu7u20k1j6m2jczg4&st=jne7bka7&dl=0 " group-title="NACIONALES",Salta TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4pvonrjz3mh9ravf06omn/TV-Salta.jpg?rlkey=54qrff5rx8o29aoetletcho0w&st=6cd32iiv&dl=0 " group-title="NACIONALES",Salta TV
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/noctbt34ar1ysjqd2em7d/TV-Jujuy.jpg?rlkey=mwnaw7pqr4my62inhmy83gmow&st=03sq1ctl&dl=0 " group-title="NACIONALES",Jujuy TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4ro1ntene98qqqeaz24jk/TV-Jujuy.jpg?rlkey=ad4pzottxmn401wkdrd0olq64&st=8hxsm3f9&dl=0 " group-title="NACIONALES",Jujuy TV
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ucdj9rp43fr2yjd18wkqr/TV-San-Juan.jpg?rlkey=gqwlo6kk2x8u56vd6eddbocdi&st=kb60n7cv&dl=0 " group-title="NACIONALES",San Juan TV
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/vj4h2i1yw8uj5s2mlfrha/TV-San-Juan.jpg?rlkey=qz0z3sx6ikgcd4zx55rnemtqr&st=ccsgwx2k&dl=0" group-title="NACIONALES",San Juan TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ng2nbyup8v59s1ge7otnz/TV-Mendoza.jpg?rlkey=edho831bkb2xldkedzfqh5pqf&st=0czkh3t5&dl=0 " group-title="NACIONALES",Mendoza TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1jhlzkxbbycmuknn3nu97/TV-Mendoza.jpg?rlkey=3sh8n8u064qmrtcqacu8an9rj&st=a0la6tsr&dl=0 " group-title="NACIONALES",Mendoza TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713885806/ei/Dn4nZqOTKePx1sQPjL2f0Aw/ip/186.109.195.224/id/Vh8xmLBJtR8.137/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/spc/UWF9f5F-ROd8SF5DFHQLThaauoD-FJWb2Ctc_hiqqgDRJcGVQrX3ONgfpoRQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgROI7Jam-p_4jm8AEJ0SsOJ4zsyNBRq3b_HgNWmp2OSkCIQDrZ4vQPYMehQ-5ZydmV-BVr9l_KkclQmzCqWbQkxdLeA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/szkiiy49wkj4hrbhqjcvs/TV-San-Luis.jpg?rlkey=mxk9g7wljhc1851dpq6tgx2rh&st=8wwtw15p&dl=0 " group-title="NACIONALES",San Luis TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tbawktb7lcckmhrrhue0w/TV-San-Luis.jpg?rlkey=lpkafwr27cn6rey4yxyh58rr5&st=umfvuh0b&dl=0 " group-title="NACIONALES",San Luis TV
 https://stream.arcast.net:4443/sanluisctv/sanluisctv/chunklist_w1298434207.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hhf0mc72zpathulytnaep/TV-Cordoba.jpg?rlkey=65n5a1a686wocsfa3iknhg3mb&st=y2iicza2&dl=0 " group-title="NACIONALES",Cordoba TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63sn3m9bo7d2eqz4duolx/TV-Cordoba.jpg?rlkey=2afvpow5r27wtnhfvzxnqx3za&st=7q6c8niy&dl=0 " group-title="NACIONALES",Cordoba TV
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srvc72v1wzai7r0xlpv67/TV-Santa-Fe.jpg?rlkey=e6azhbwqk5anv27zm34wcykym&st=h5mc87z7&dl=0 " group-title="NACIONALES",Santa Fe TV
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/fpfj754im5x4dm1uyffav/TV-Santa-Fe.jpg?rlkey=gsc0bbjpbvkvmhqfjs363ik2j&st=mq2h8rje&dl=0" group-title="NACIONALES",Santa Fe TV
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nfn4xp6373ykk2pkrrgwr/TV-Entre-Rios.jpg?rlkey=4fc7kzhgp8si2xp3y0u0u6dis&st=ahjfk3tf&dl=0 " group-title="NACIONALES",Entre Rios TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i3sa0u1gskn6ruwfjr9c7/TV-Entre-Rios.jpg?rlkey=oo0rpkcnjt2iif3omh67ju0fv&st=8orn8otu&dl=0 " group-title="NACIONALES",Entre Rios TV
 https://ythls.armelin.one/channel/UCgj6Vesuxfr_fVEp-rG5sxQ.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9pjq7qmp272ra9n17db2b/TV-Chaco.jpg?rlkey=3jy8u07k6r3tj1s49uiaklhlp&st=y5q7duem&dl=0 " group-title="NACIONALES",Chaco TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gcgda58fg8a7pgzeh69c1/TV-Chaco.jpg?rlkey=zpma92z308y3p0rpwqg2yqflg&st=isbu3mdb&dl=0 " group-title="NACIONALES",Chaco TV
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gk4t17zacn2anxera7ve3/TV-Corrientes.jpg?rlkey=0i7s241s4skk4vyo5mwmq02ug&st=ctgsh43j&dl=0 " group-title="NACIONALES",Corrientes TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/07xrxpkbg294m17uhxlp9/TV-Corrientes.jpg?rlkey=nj9s74f58e3yjvuzkwm7ec724&st=3w4okrbd&dl=0 " group-title="NACIONALES",Corrientes TV
 https://tv.t5satelital.com/tvhls/streamcorrientes.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8dq4y2ifkbhvdnxlia0w1/TV-Misiones.jpg?rlkey=9at1jgmhsd86kpt5j5de47652&st=sp0vmfws&dl=0 " group-title="NACIONALES",Misiones TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t4wcwdqube4v8da8ol5e3/TV-Misiones.jpg?rlkey=zl61z5rlv60ndoowy2b4rk46a&st=ujnqt09n&dl=0 " group-title="NACIONALES",Misiones TV
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/of0uxs00si3tpbexhngmc/TV-Formosa.jpg?rlkey=159sem692z3gm3t9k7ygfr2dd&st=9c5ebc6p&dl=0 " group-title="NACIONALES",Formosa TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srjwryart5g35t8ifdsyd/TV-Formosa.jpg?rlkey=ju1qu8mjyp3aw2ubnvv4sdmoi&st=d6p4q0op&dl=0 " group-title="NACIONALES",Formosa TV
 https://stmvideo2.livecastv.com/agenfor/agenfor/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lez2d4mxue63bnplejsfc/TV-La-Pampa.jpg?rlkey=dsilec9pnb4daaqkguel5g8h4&st=iamarv7y&dl=0 " group-title="NACIONALES",La Pampa TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hit1mnlnfmvj75wyz9m0r/TV-La-Pampa.jpg?rlkey=9tim77paez5n6cs4i5os7yqfq&st=b3t7jsyu&dl=0 " group-title="NACIONALES",La Pampa TV
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vf8ld4t41epxjd33regk3/TV-Neuquen.jpg?rlkey=3kl74c5o53lltugxhl69gs24m&st=1uvcgl2c&dl=0 " group-title="NACIONALES",Neuquen TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m65xsutton57a04jh5s8d/TV-Neuquen.jpg?rlkey=xm4ixictigri5whhm527fvtip&st=yuctppu2&dl=0 " group-title="NACIONALES",Neuquen TV
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uzpagytt01wpoden74e2q/TV-Chubut.jpg?rlkey=4bm0zy6mlz19ld3723l3gan4v&st=4eo6d3ud&dl=0 " group-title="NACIONALES",Chubut TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dpeu0dnx2v553v3mkgnpu/TV-Chubut.jpg?rlkey=fkoox1pgy32knj0h3lkuihmjt&st=o0sjsi7v&dl=0 " group-title="NACIONALES",Chubut TV 
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1ad7ixq0tk095xaid7ag1/TV-Rio-Negro.jpg?rlkey=m661qbyftegmiyobho0imrrkn&st=68lhhmye&dl=0 " group-title="NACIONALES",Rio Negro TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/evn812w6gjec298rzerqf/TV-Rio-Negro.jpg?rlkey=4y42oo6vrdj31rvkghimbpcqw&st=3zzenagk&dl=0 " group-title="NACIONALES",Rio Negro TV
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kf41wi8qjg0lc32bk16lw/TV-Santa-Cruz.jpg?rlkey=0bw4mow79tiad5zbp78nribab&st=rye7c7uj&dl=0 " group-title="NACIONALES",Santa Cruz TV
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/oe9g8cmbltxcjm6w1li0l/TV-Santa-Cruz.jpg?rlkey=v4nqhkdilyqmdfmvzxq7ja441&st=ek3eei6t&dl=0" group-title="NACIONALES",Santa Cruz TV
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713469658/ei/eiQhZvegG8n21sQP2rKy0Ak/ip/186.109.195.224/id/bjAUJHPoxCs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6oCvXbcqGws3nTtoJ-3qjVWJZBDYzpfsjPGvP8tdALNJu423s-eqMUy/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSV3e7WnFrnNSE9NzSqfv5t2-WLLN4Wz3oRP8tr6UzsQCIBqmCSiMa8fy0I54vXkP_nd11_AxipYxXtmagqMSsA6V/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/44z5rmb8w27m6wpdn3l30/TV-T-del-Fuego.jpg?rlkey=dwdifno0nt7755xsly4o4vzy1&st=3asb8a69&dl=0 " group-title="NACIONALES",Tierra del Fuego TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vqd65slhsefd7wk9te5an/TV-T-del-Fuego.jpg?rlkey=aioc9j84ch98arirq8xz4aqvf&st=8y4xzkez&dl=0 ",Tierra del Fuego TV
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zqpnt5fxp5zf2sjvocqnn/TV-Mar-del-Plata.jpg?rlkey=f98o53e95snxihi1gc1763ewo&st=jhzv7eqt&dl=0 " group-title="NACIONALES",Mar del Plata TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6cocyly47zw19yd2qabzd/TV-Mar-del-Plata.jpg?rlkey=s995o308vryl3tlqb1dcp7z97&st=fbyruumc&dl=0 " group-title="NACIONALES",Mar del Plata TV
 https://fm999.info/test/index.m3u8
 
 
