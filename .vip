@@ -102,35 +102,35 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 https://fm999.info/test/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1ru40c80pw2tfk8ynuynh/Baby-TV.jpg?rlkey=x59zpbstuz9zzj0ytzmgbanc7&st=i4igwayc&dl=0 " group-title="INFANTILES",Baby First
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hn3ynoe9oad7ayoia279s/Baby-TV.jpg?rlkey=6bbso1p8o7q9qnel29x8dkuym&st=0mi8auh0&dl=0 " group-title="INFANTILES",Baby First
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BkjC6z7A8WdFOZEGvDIf0w/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q6a1gdnlbrpv8ypu4q14o/Disney-Channel.jpg?rlkey=cff7ykhojyrry6gq7fowztp4z&st=zgnsb84k&dl=0 " group-title="INFANTILES",Disney Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7kv8exo8nwy02n2pcbkm/Disney-Channel.jpg?rlkey=e3bh1pval56yfau7y48o47fzw&st=m1g4dppq&dl=0 " group-title="INFANTILES",Disney Channel
 http://45.166.92.22:58001/play/a04q/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n5waln5v1ez00xiy89cbg/Nickelodeon.jpg?rlkey=8l1hku97w77l7fwno4tlhzk38&st=2hk2aijz&dl=0 " group-title="INFANTILES",Nickelodeon
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co8n1py5hc5jj1wxmv66e/Nickelodeon.jpg?rlkey=se797cdfa5qaq27bqu6ifqd8r&st=1dxqhsvr&dl=0 " group-title="INFANTILES",Nickelodeon
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BPEU-G8jQS2HGAHJlw17IA/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ao8o9sr8mcokhwerxo5ww/Cartoon-Network.jpg?rlkey=suq9j9ij5jp5n7shc6igevrlt&st=1zucx5ef&dl=0 " group-title="INFANTILES",Cartoon Network
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dti45aa0w9az4p3q9yyik/Cartoon-Network.jpg?rlkey=401dii4f98hryayihov11d0v1&st=y94hkjc0&dl=0 " group-title="INFANTILES",Cartoon Network
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4850.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dqmstznfpndpgxf7ez076/Latino-Kids.jpg?rlkey=k0p8p9aqlv5jdvynvdt6r1u8c&st=2r4gcval&dl=0 " group-title="INFANTILES",Latino Kids
-https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3yuevva60ksq5e5ccbisq/Extrema-Kids.jpg?rlkey=ehjbpnjd1813zitrrza59jeri&st=m9w8v0rv&dl=0 " group-title="INFANTILES",Extrema Kids
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4vmrl20duopvulb39zkzy/Discovery-Kids.jpg?rlkey=vbkhlcrkgnef5q9r4knvsm1fp&st=p2o492ty&dl=0 " group-title="INFANTILES",Discovery Kids
+http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4791.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5dwxe782wwss48tdt81oi/Extrema-Kids.jpg?rlkey=467yfzhiexflwstjob6ijaqh6&st=egeqxlhh&dl=0 " group-title="INFANTILES",Extrema Kids
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1586199579.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qqkdsmgwp71acg5add6cs/Tooncast.jpg?rlkey=0spz7m8e71rggl012bnxrjcgq&st=97k2i63w&dl=0 " group-title="INFANTILES",Tooncast
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cmqogq2v1h1a7f6p3n55f/Tooncast.jpg?rlkey=gg7lxxetptp1d563w58xt47wy&st=9r0kpjlg&dl=0 " group-title="INFANTILES",Tooncast
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Az7OIBI09eIFGaJ1logi_A/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/w2pdd0qo53mgkblkacsqj/Magic-Kids.jpg?rlkey=aj7jik3oaemkytrmcmxlwzrbj&st=dqijxd7p&dl=0 " group-title="INFANTILES",Magic Kids
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h17hllh5qxeja5ajp4pmo/Magic-Kids.jpg?rlkey=27ewxt2h2f5omad97kpmd7w3v&st=eds177xn&dl=0 " group-title="INFANTILES",Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vjguv9xe9hj0hf5nkncio/Paka-Paka.jpg?rlkey=rsdfl4amkdiq9u2pfthkc69zk&st=ysrbg28p&dl=0 " group-title="INFANTILES",Paka Paka 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xh9m7k6nrhbz8fhgcbffk/Paka-Paka.jpg?rlkey=rla2jkuo8krvzb7kdsmxogsid&st=5tq0vnfm&dl=0 " group-title="INFANTILES",Paka Paka 
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3537.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vov4o139nk3ot4e85znuz/Tom-y-Jerry.jpg?rlkey=3at1qdtbdv2mmxmqbsrm6464i&st=7rrwo8os&dl=0 " group-title="INFANTILES",Tom y Jerry
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v4t1ui3ep9tvsn2sy1s7t/Tom-y-Jerry.jpg?rlkey=ygohelsqcfnbw3wkspmdtr7zt&st=ghvlh9le&dl=0" group-title="INFANTILES",Tom y Jerry
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NYj3yujMVptyqKkFhLAjPE/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dzvw4e0gc3mevp4wuw25h/Super-Campeones.jpg?rlkey=1sq977josra2trm6btfaxm93k&st=v77a5jqf&dl=0 " group-title="INFANTILES",Super Campeones
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o1ppfjp7qbbycl5g36phj/Super-Campeones.jpg?rlkey=j7hsk2ammqnawqcw9w3jbd0r0&st=x4wmdk6f&dl=0 " group-title="INFANTILES",Super Campeones
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-J3eNrVTVeVhCbrhPgQFrKE/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ip2hho5kvn91lfxrn0xv/Alf.jpg?rlkey=9h3zrpbv9fkmhj9et7u5f9hco&st=v5pfym3l&dl=0 " group-title="INFANTILES",Alf
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/axlqag3mttd72vm9t6wpm/Alf.jpg?rlkey=27uqfvkgdmjj8kj4bk0faeobc&st=43xzf59y&dl=0 " group-title="INFANTILES",Alf
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-AaO6fnjh1tYh_Tsb56-boo/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/88u5lao1fv8oggazwa611/Los-Simpsons.jpg?rlkey=7zwtgbeqeufmvbi8ogvdoyos8&st=0nkkwcbm&dl=0 " group-title="INFANTILES",Los Simpsons
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7b7manilag2dgiztmeww8/Los-Simpsons.jpg?rlkey=aivk3takdnktefsr7g32wcwi2&st=g99sl3w7&dl=0 " group-title="INFANTILES",Los Simpsons
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-AszwV2yz2b9isL-ESy6RM4/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0w4em1gu6faptvi0uwxg5/Chapulin-colorado.jpg?rlkey=nw1w6cg5qtsn3rit8dqe7g813&st=wkqu211a&dl=0 " group-title="INFANTILES",El Chapulin Colorado
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kkbmtxf2xsabirhuebk8j/Chapulin-colorado.jpg?rlkey=nxm7fl7118fdgqmkuo0fmabzi&st=gzv954u9&dl=0 " group-title="INFANTILES",El Chapulin Colorado
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ENv-6DyRVY9VyW6nersYqI/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6zqnu3lhin0s2ot3bcz03/El-Chavo.jpg?rlkey=exy1ega0cuumoj1nuappuhcox&st=rt3nldlu&dl=0 " group-title="INFANTILES",El Chavo 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m4g3p4yl7a2vwe4gfbdzd/El-Chavo.jpg?rlkey=rbfnkfjy7pkrdjpvpc9washdy&st=cobth2mp&dl=0 " group-title="INFANTILES",El Chavo 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-I8SK29ePkI2Phi_BJRajR8/m3u8
 
 
