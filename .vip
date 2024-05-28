@@ -168,7 +168,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-IoOqL9k4mpsw64tJyfHZa4/m3u8
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4902.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/26b0y3wiqpqqr16jfszal/TV-Peru.jpg?rlkey=cv0ssjdx98y6jit8km5zdy9m1&st=3tpdjv5p&dl=0 " group-title="INTERNACIONALES",TV Peru
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4900.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yosbpdeagr79op0g27b41/TV.Paraguay.jpg?rlkey=hgacorlkw5uiljh8lgj791thc&st=z0ym3a31&dl=0 " group-title="INTERNACIONALES",TV.Paraguay
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v64xgiow7ky1w7kd76mc6/Paraguay.TV.jpg?rlkey=q0j9qypguw3p94m9fvoc0s889&st=j9xlnrg5&dl=0" group-title="INTERNACIONALES",TV.Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/03a2aksdety2tylo3xq8r/TV-Brasil.jpg?rlkey=8e9nkaz9ocefr0aga4s2mzk3p&st=omkttrqh&dl=0 " group-title="INTERNACIONALES",TV Brasil
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
@@ -184,7 +184,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0 " group-title="INTERNACIONALES",TV Italia
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CF4d4u9o3K7yDniXIa_G28/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3t5t44odhd92cn16qnaj9/TV.Alemana.jpg?rlkey=i37x63l1bq6vu17mum3xniofc&st=sgzc4w8i&dl=0 " group-title="INTERNACIONALES",TV.Alemania
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="INTERNACIONALES",TV.Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="INTERNACIONALES",Telesur
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
@@ -238,7 +238,7 @@ http://177.234.230.226:8010/play/a00v/index.m3u8
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/2805.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f3d0yrtmb1r0s55bqjtl0/Distrito-Comedia.jpg?rlkey=c664fse6hjzaad6quqv25zin5&st=rbjd9d3g&dl=0 " group-title="FAMILIAR",Distrito Comedia
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4783.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/93ur9yrmbz11u2mm8aolw/Super-Agente-86.jpg?rlkey=gzlivr9z1q3aaeawaj4pwdsjl&st=q4gxpebt&dl=0 " group-title="FAMILIAR",Super Agente 86
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/93ur9yrmbz11u2mm8aolw/Super-Agente-86.jpg?rlkey=gzlivr9z1q3aaeawaj4pwdsjl&st=td3q3qnj&dl=0 " group-title="FAMILIAR",Super Agente 86
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M66lrdg__8AFcRn4_0dWcE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/br34igcudk4fw896z5fkc/Los-3-Chiflados.jpg?rlkey=upjphmmnkwy9sl6uab0oj9pt0&st=vsczj2xs&dl=0 " group-title="FAMILIAR",Los tres Chiflados
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K___2JJlwsZkUmIu3zLSas/m3u8
