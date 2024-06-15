@@ -380,9 +380,9 @@ http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=" Musica & Radios",Vintage Music 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/kdujy2s1q9ojbfs0xoas3/Memorias-TV.jpg?rlkey=xro7te73alozo89f2mtjzpeqb&st=1oe5dw5b&dl=0 " group-title="Musica & Radios",Memorias TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kdujy2s1q9ojbfs0xoas3/Memorias-TV.jpg?rlkey=xro7te73alozo89f2mtjzpeqb&st=1oe5dw5b&dl=0 " group-title="Musica & Radios",Memorias TV
 https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" " group-title=" Musica & Radios",Musica Reggaeton 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwnl6tgkc1xf3z8t789rr/Mi-Musica-Reggaeton.jpg?rlkey=uyz2g3kaz41oe2kept6v1dl09&st=odff7x8k&dl=0 " group-title=" Musica & Radios",Musica Reggaeton 
 http://177.234.230.226:8010/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title=" Musica & Radios",Musica Regional
 http://177.234.230.226:8010/play/a023/index.m3u8
