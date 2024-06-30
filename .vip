@@ -1,6 +1,6 @@
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title="FAMILIAR",Cine Familiar
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title=" ⭐️ PLATEA VIP ⭐",Cine Familiar
 http://177.234.230.226:8010/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="⭐️ PLATEA VIP ⭐",   Cine Argentino
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OpvlKSDpzAM7GilKKKEyV8/m3u8
@@ -50,11 +50,11 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-LpyGsXKNyJD2uMzJHScilU/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GugOKoN6SHoUvZ8s4ulJQA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/odmdiokwiyal0xl2fxmip/Cine-20.jpg?rlkey=zh3e4dw8e0pk4b1yw2xltwqez&st=2cvb9c3u&dl=0 " group-title="⭐️ PLATEA VIP ⭐",Cine 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MzVmjmGi7RAju3-qepSbyQ/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q72wk55dzmiuq5u8zcu45/Cine-Premium.jpg?rlkey=6444kmwgak7t5r9qeivl0jiqz&st=5t7bozkz&dl=0 " group-title="CINE",Cine Premium
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q72wk55dzmiuq5u8zcu45/Cine-Premium.jpg?rlkey=6444kmwgak7t5r9qeivl0jiqz&st=5t7bozkz&dl=0 " group-title="⭐️ PLATEA VIP ⭐ ",Cine Premium
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="CINE",Cine Latino
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="⭐️ PLATEA VIP ⭐ ",Cine Latino
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4921.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title="CINE",Cine Real
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title=" ⭐️ PLATEA VIP ⭐",Cine Real
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 
@@ -260,13 +260,13 @@ http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/3011.m3u8
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4791.m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/2vf67cmsara8cklu9l11c/Discovery-Investigation.jpg?rlkey=4fwouf5j6p360cqmdnj7sgy8w&st=b4xunykb&dl=0" group-title="CULTURALES",Discovery Investigation
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-McJ-iTRE74S34OwjRyZeEk/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/97d2x14d9ye5kc11ka4vp/Angelus-TV.jpg?rlkey=b1on3kebm6gnuq2oj8gbytsko&st=j5fn8wej&dl=0 " group-title="FAMILIAR",Angelus TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/97d2x14d9ye5kc11ka4vp/Angelus-TV.jpg?rlkey=b1on3kebm6gnuq2oj8gbytsko&st=j5fn8wej&dl=0 " group-title="CULTURALES",Angelus TV
 https://transmisiuni.ro/media/oracatolica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5k9fw9ycx7nshft5x6ie/Enlace-TV.jpg?rlkey=ut47gsbzfaas9sf2r0glp0lcq&st=iqz40zhw&dl=0 " group-title="FAMILIAR",Enlace TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5k9fw9ycx7nshft5x6ie/Enlace-TV.jpg?rlkey=ut47gsbzfaas9sf2r0glp0lcq&st=iqz40zhw&dl=0 " group-title="CULTURALES",Enlace TV 
 http://31.42.185.216:8000/live/BDRestream/Bj160IlIlIlSTQVaCE/4937.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iosw4938b6fv8vtf3gft8/EWTN-TV.jpg?rlkey=fvbvs2yrf9lpq6u0surx95j80&st=n7iowtm4&dl=0 " group-title="FAMILIAR",EWTN TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iosw4938b6fv8vtf3gft8/EWTN-TV.jpg?rlkey=fvbvs2yrf9lpq6u0surx95j80&st=n7iowtm4&dl=0 " group-title="CULTURALES",EWTN TV 
 http://45.166.92.22:58001/play/a050/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/flhu8ebpcaacdsyth3v90/Jehova-TV.jpg?rlkey=9e38tw90oi2t9hmns5g8vu9v7&st=flus0nhp&dl=0 " group-title="FAMILIAR",Jehova TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/flhu8ebpcaacdsyth3v90/Jehova-TV.jpg?rlkey=9e38tw90oi2t9hmns5g8vu9v7&st=flus0nhp&dl=0 " group-title="CULTURALES",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
 
