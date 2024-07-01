@@ -220,7 +220,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 ",A&E Mundo
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="CULTURALES",A&E Mundo
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-J0CK9uLXtbVwSB5Xnh0Lzc/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/xxxys6q8vw2aivt00m00t/Film-Arts.jpg?rlkey=u65yfbibu49zgiq8ypca39rgc&st=51n4wh9u&dl=0" group-title="CULTURALES",Film & Arts
 http://181.78.105.146:2000/play/a08i/index.m3u8
@@ -338,37 +338,35 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-EjNZFaPaCRsp9I75BG7_4E/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GV2-Skm7wYalBWp5luFvr8/m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3qyhl00gck8qp8nsb33s5/Studio-Universal.jpg?rlkey=irrb3bf37jpryk67bdjkfv001&st=4t1rkkj9&dl=0 " group-title="PACK UNIVERSAL",Studio Universal
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3qyhl00gck8qp8nsb33s5/Studio-Universal.jpg?rlkey=irrb3bf37jpryk67bdjkfv001&st=4t1rkkj9&dl=0 " group-title="PACK UNIVERSAL & HBO",Studio Universal
 http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjHIhWSv6j0Nd-CJ0iEHY94/m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/lzzl4qj5sv6b832osggwc/Universal-Channel.jpg?rlkey=i89nylwkchaotct1fkbbje2e9&st=3i8eiz0c&dl=0" group-title="PACK UNIVERSAL",Universal Channel
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/lzzl4qj5sv6b832osggwc/Universal-Channel.jpg?rlkey=i89nylwkchaotct1fkbbje2e9&st=3i8eiz0c&dl=0" group-title="PACK UNIVERSAL & HBO",Universal Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OU7MCNw63To3ZdYKPymkdA/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/isg1pgytp2at7w17li9kw/Universal-Premiere.jpg?rlkey=squb6p3z7h65xu5rorbqw9fpg&st=9922wnv2&dl=0 " group-title="PACK UNIVERSAL",Universal Premier
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/isg1pgytp2at7w17li9kw/Universal-Premiere.jpg?rlkey=squb6p3z7h65xu5rorbqw9fpg&st=9922wnv2&dl=0 " group-title="PACK UNIVERSAL & HBO",Universal Premier
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Gqm8-4fpTzSlUwY4jWIbbQ/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q6g9gf89kg6j5xrl52ag6/Universal-Cinema.jpg?rlkey=tv6hxsgauqcejpmgzeazgjkfv&st=bf4ngp4s&dl=0 " group-title="PACK UNIVERSAL",Universal Cinema
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q6g9gf89kg6j5xrl52ag6/Universal-Cinema.jpg?rlkey=tv6hxsgauqcejpmgzeazgjkfv&st=bf4ngp4s&dl=0 " group-title="PACK UNIVERSAL & HBO",Universal Cinema
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Oo4HwLgtqQGGA_DDCu_hpI/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gh6lw0wcwlwk2wszn377h/Universal-Crimenes.jpg?rlkey=ktbn58w7v4rgobe99qhp7pi96&st=xyhzhzui&dl=0 " group-title="PACK UNIVERSAL",Universal Crimenes
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gh6lw0wcwlwk2wszn377h/Universal-Crimenes.jpg?rlkey=ktbn58w7v4rgobe99qhp7pi96&st=xyhzhzui&dl=0 " group-title="PACK UNIVERSAL & HBO",Universal Crimenes
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PlMwg5PtVOUrOQW-fpQO2g/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0divoa8np1mbexkvhaba/Universal-Comedy.jpg?rlkey=5p554i9n0y7u6s018s9ygos1o&st=hp1mfz34&dl=0 " group-title="PACK UNIVERSAL",Universal Comedy
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0divoa8np1mbexkvhaba/Universal-Comedy.jpg?rlkey=5p554i9n0y7u6s018s9ygos1o&st=hp1mfz34&dl=0 " group-title="PACK UNIVERSAL & HBO",Universal Comedy
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKbp_L-Sld1MfqC0Bg4qEk/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lpx1u8e8l2431vdbbmtaq/Universal-Reality.jpg?rlkey=j23n5op5f028axi2pdyzs2rmo&st=tjjgdm1j&dl=0 " group-title="PACK UNIVERSAL",Universal Reality
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lpx1u8e8l2431vdbbmtaq/Universal-Reality.jpg?rlkey=j23n5op5f028axi2pdyzs2rmo&st=tjjgdm1j&dl=0 " group-title="PACK UNIVERSAL & HBO",Universal Reality
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BaBY2AU0l3iktFLjg3V-Aw/m3u8
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2gxs0x3sv398wtl16ov6/HBO.jpg?rlkey=4irk3o3fvxs31rihg561frmug&st=lkxdstzd&dl=0 " group-title="PACK HBO",HBO
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2gxs0x3sv398wtl16ov6/HBO.jpg?rlkey=4irk3o3fvxs31rihg561frmug&st=lkxdstzd&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GlnsmbeDEEumZ2RcdRsoU4/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a4kcakjfvd38cetee8ody/HBO-2.jpg?rlkey=aca4zd5jgn8019wyubpkaxb97&st=e7prfq35&dl=0 " group-title="PACK HBO",HBO 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a4kcakjfvd38cetee8ody/HBO-2.jpg?rlkey=aca4zd5jgn8019wyubpkaxb97&st=e7prfq35&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO 2
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GW6gjBYqq5aNM6AzhW-ajs/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/20wj0tk65wdqzonsm5x1d/HBO-Family.jpg?rlkey=npormq2cgsrhz16xlyutk7u5n&st=xxmdso6m&dl=0 " group-title="PACK HBO",HBO Family
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/20wj0tk65wdqzonsm5x1d/HBO-Family.jpg?rlkey=npormq2cgsrhz16xlyutk7u5n&st=xxmdso6m&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Family
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PMu0Ip6FfJd5y4DSVs446o/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bemwlpnpnpqdfgs3qrhy5/HBO-Mundi.jpg?rlkey=p1nhg8mnd56hy1m4xij8hs0r3&st=05ywbvge&dl=0 " group-title="PACK HBO",HBO Mundi
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bemwlpnpnpqdfgs3qrhy5/HBO-Mundi.jpg?rlkey=p1nhg8mnd56hy1m4xij8hs0r3&st=05ywbvge&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Mundi
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BH6gvLkMCazZ7x1Za5pGdo/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/agz4o55yxizop19oti0kh/HBO-Pop.jpg?rlkey=80j0c9ju0ys118jz4m8le4ops&st=g5fmec0u&dl=0 " group-title="PACK HBO",HBO Pop
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/agz4o55yxizop19oti0kh/HBO-Pop.jpg?rlkey=80j0c9ju0ys118jz4m8le4ops&st=g5fmec0u&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Pop
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-EVqlGaTf3JAfV8QvWtNNyU/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tm0zin5x0amoa3r5az5ip/HBO-Plus.jpg?rlkey=sril27dai8ih6odu67umay7n2&st=imb1rtjr&dl=0 " group-title="PACK HBO",HBO Plus
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tm0zin5x0amoa3r5az5ip/HBO-Plus.jpg?rlkey=sril27dai8ih6odu67umay7n2&st=imb1rtjr&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Plus
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CuKjCVyicR9yHkYtKzPqOU/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ez1otuis235ao2xhty5id/HBO-Signature.jpg?rlkey=lb1lt2pm1jn9fmxx5lfzzubyg&st=spt1csje&dl=0 " group-title="PACK HBO",HBO Signature
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ez1otuis235ao2xhty5id/HBO-Signature.jpg?rlkey=lb1lt2pm1jn9fmxx5lfzzubyg&st=spt1csje&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Signature
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-HEXvyia1wSbl9T-fkggxoY/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yjyodju3jk2wj40656qj6/HBO-Xtreme.jpg?rlkey=8d6stcmy483zi2jgs4op0alb1&st=4ssuwhvz&dl=0 " group-title="PACK HBO",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yjyodju3jk2wj40656qj6/HBO-Xtreme.jpg?rlkey=8d6stcmy483zi2jgs4op0alb1&st=4ssuwhvz&dl=0 " group-title="PACK UNIVERSAL & HBO",HBO Xtreme
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NUuK80GfDG74HhpZSmULN8/m3u8
 
 
