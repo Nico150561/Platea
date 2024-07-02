@@ -1,15 +1,5 @@
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title=" ⭐️ PLATEA VIP ⭐",Cine Familiar
-http://177.234.230.226:8010/play/a00v/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="⭐️ PLATEA VIP ⭐",   Cine Argentino
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OpvlKSDpzAM7GilKKKEyV8/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyisjd0lkwrd0dci1hgmw/Cine-Mas.jpg?rlkey=zstfmw4o6odlf43vb4ap4ozoi&st=syxusk2f&dl=0 " group-title="⭐️ PLATEA VIP ⭐",   +cine
-http://190.102.242.130:25461/multicontenido/1234/31
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/hlvwja5se2gede8p0sk55/Az-Cinema.jpg?rlkey=h262jj3fi11afnksbg0gplg89&st=gje12y1z&dl=0" group-title="⭐️ PLATEA VIP ⭐",AZ Cinema
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-I-7NPZ88HrvdExVdaKT4qw/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eyrs3jj0jlu2dm95cxg7i/Cine-Dinamita.jpg?rlkey=6gruww58iurmesgfqmcd71qad&st=45ntpsol&dl=0 " group-title="⭐️ PLATEA VIP ⭐",  Cinema Dinamita
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NwvRNNiDjbuUai6zsKoXw8/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zbc84u629pac2xgzn2o8e/Cine-01.jpg?rlkey=ek87ax3w6k9bw32j5bn2lheyb&st=kpq337d2&dl=0" group-title="⭐️ PLATEA VIP ⭐",  Cine Fantastico
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-AtApC_Sr3sfXOs58pVsaTA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b9n8y9r54v0fepjok5fho/Cine-02.jpg?rlkey=4ig49ife5nnzsqnek0kcveb5m&st=nf3myhka&dl=0 " group-title="⭐️ PLATEA VIP ⭐",  cine Espectacular
@@ -50,12 +40,6 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-LpyGsXKNyJD2uMzJHScilU/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GugOKoN6SHoUvZ8s4ulJQA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/odmdiokwiyal0xl2fxmip/Cine-20.jpg?rlkey=zh3e4dw8e0pk4b1yw2xltwqez&st=2cvb9c3u&dl=0 " group-title="⭐️ PLATEA VIP ⭐",Cine 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MzVmjmGi7RAju3-qepSbyQ/m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/s39sx8c470r5fmves5bzf/Claro-Cinema.jpg?rlkey=w5o00aosoix1rw9ix3w8azb66&st=cq02pqg0&dl=0" group-title="⭐️ PLATEA VIP ⭐ ",Claro Cinema
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MR-O6rau4C_r39TzwXE0aw/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="⭐️ PLATEA VIP ⭐ ",Cine Latino
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PSHl_0ZwzfC1hFfrC5eMUM/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title=" ⭐️ PLATEA VIP ⭐",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=qiazs7sr&dl=0 " group-title="NACIONALES",Todo Noticias
@@ -341,6 +325,22 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Nw9tlCAyUdLb0cMaNEtWgg/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-EjNZFaPaCRsp9I75BG7_4E/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egpdw8s7gofe9niop6ccm/Europa-Europa.jpg?rlkey=tre4mazbf082gt3prg6hqn478&st=hwjt1iyt&dl=0 " group-title="FAMILIAR & CINE",Europa Europa
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GV2-Skm7wYalBWp5luFvr8/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title="FAMILIAR & CINE",Cine Familiar
+http://177.234.230.226:8010/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="FAMILIAR & CINE",   Cine Argentino
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OpvlKSDpzAM7GilKKKEyV8/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyisjd0lkwrd0dci1hgmw/Cine-Mas.jpg?rlkey=zstfmw4o6odlf43vb4ap4ozoi&st=syxusk2f&dl=0 " group-title="FAMILIAR & CINE",   + cine
+http://190.102.242.130:25461/multicontenido/1234/31
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/hlvwja5se2gede8p0sk55/Az-Cinema.jpg?rlkey=h262jj3fi11afnksbg0gplg89&st=gje12y1z&dl=0" group-title="FAMILIAR & CINE",AZ Cinema
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-I-7NPZ88HrvdExVdaKT4qw/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eyrs3jj0jlu2dm95cxg7i/Cine-Dinamita.jpg?rlkey=6gruww58iurmesgfqmcd71qad&st=45ntpsol&dl=0 " group-title="FAMILIAR & CINE",  Cinema Dinamita
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NwvRNNiDjbuUai6zsKoXw8/m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/s39sx8c470r5fmves5bzf/Claro-Cinema.jpg?rlkey=w5o00aosoix1rw9ix3w8azb66&st=cq02pqg0&dl=0" group-title="FAMILIAR & CINE",Claro Cinema
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MR-O6rau4C_r39TzwXE0aw/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="FAMILIAR & CINE",Cine Latino
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PSHl_0ZwzfC1hFfrC5eMUM/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title="FAMILIAR & CINE",Cine Real
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3qyhl00gck8qp8nsb33s5/Studio-Universal.jpg?rlkey=irrb3bf37jpryk67bdjkfv001&st=4t1rkkj9&dl=0 " group-title="PACK UNIVERSAL & HBO",Studio Universal
