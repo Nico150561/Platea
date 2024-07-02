@@ -218,18 +218,20 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CIjtYRlqfSHZlRqnI6jrH0/m3u8
 http://177.234.230.226:8010/play/a028/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="INTERNACIONALES",TV Venezuela
 https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="INTERNACIONALES",Telesur
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="INTERNACIONALES",TV Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="INTERNACIONALES", Telemundo 
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M3mT6GufIdwOH2XQZ5VqIk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="INTERNACIONALES",TV España
 https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0" group-title="INTERNACIONALES",TV Italia
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CF4d4u9o3K7yDniXIa_G28/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="INTERNACIONALES",TV.Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="INTERNACIONALES",Telesur
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="INTERNACIONALES", Telemundo 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M3mT6GufIdwOH2XQZ5VqIk/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wtyuresya0phx4b5qfbho/France-24.jpg?rlkey=pjegcamp4o26r33w82ixz64ha&st=83ny4oji&dl=0 " group-title="INTERNACIONALES",TV Francia
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159078
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="CULTURALES",A&E Mundo
@@ -320,6 +322,8 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CwNyBYGY-M6nNYNJ7LTDfk/m3u8
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Mnalms18OrLj8jxWBtV4Mo/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vmzfn7ncyhxgf6emnwov4/TNT-Channel.jpg?rlkey=gnpdla718w9yqr0lx7bv1ujgg&st=v5ej357x&dl=0 " group-title="FAMILIAR & CINE",TNT Channel 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-B-NVxr_Kf0B3Fg8gUqD8p0/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0wc5ylbxvzv17ytmc4u3/SyFy-Channel.jpg?rlkey=lkz00pawsd5zxs4qs8vbl3ue4&st=msl66xot&dl=0 " group-title="FAMILIAR & CINE",SyFy Channel
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-L9QzJGiKlvq2fHtrvU77k4/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u04pv5obtek2khag2psqn/Paramount.jpg?rlkey=x0z9t9llho09z9twqxqajrrwm&st=kac3p04g&dl=0 " group-title="FAMILIAR & CINE",Paramount Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-JsyILrz28eji_VpwOIt5w0/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/m3h0oablw37ftet6w7uqg/Fox-Channel.jpg?rlkey=e2opiq0veh9n2wvnbdi2kacfk&st=kdvcq4qo&dl=0" group-title="FAMILIAR & CINE",Fox Channel
