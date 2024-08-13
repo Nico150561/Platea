@@ -43,7 +43,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MzVmjmGi7RAju3-qepSbyQ/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=ri5ba5hg&dl=0 " group-title="NACIONALES",Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723589966/ei/7pC7Zs7EA_K4-LAP6srWuQM/ip/186.109.155.86/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9ucoM4UZgwnS5kGcfeRY5GGs4ak-rDhDpSYY01QEGummObpYCnBCRLkrvRM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFoJzfDcIWs9s1ISDMnNPUvzSdIxn-aPRDPE4KdxrzEMCICDfHN0xrwkHOsJCrIzBP4-vRvRRqxyYjvVaPcMmY8DR/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mukl85xdlrh1rqp12g18l/La-Nacion.jpg?rlkey=iaix1veyzf4c7vpm1qxph4v22&st=3h3rwmmo&dl=0 " group-title="NACIONALES",La Nacion +
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Lxx57KYv_93ipkK0Pv9XMs/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=aqeq7756&dl=0 " group-title="NACIONALES",Canal 26 
