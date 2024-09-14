@@ -1,4 +1,5 @@
 
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zbc84u629pac2xgzn2o8e/Cine-01.jpg?rlkey=ek87ax3w6k9bw32j5bn2lheyb&st=f7qtxwx9&dl=0" group-title="⭐️ PLATEA VIP ⭐",  Cine Premium
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-AtApC_Sr3sfXOs58pVsaTA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b9n8y9r54v0fepjok5fho/Cine-02.jpg?rlkey=4ig49ife5nnzsqnek0kcveb5m&st=7hhbzrby&dl=0" group-title="⭐️ PLATEA VIP ⭐",  Cine Premium
@@ -42,11 +43,11 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MzVmjmGi7RAju3-qepSbyQ/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=ri5ba5hg&dl=0 " group-title="NACIONALES",Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723699592/ei/KD29Zr-mJ6WT4dUP9tDAqA0/ip/186.109.155.86/id/cb12KmMMDJA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9maJZbbkfuXAHvEoKL9jAbTP4eY8NC54ImWYXOmDpJN4h3SrpltAXeTnWv8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIfE8M20wp1tx_3iaMhdulLOhl4kKXZGHXW_XssaOPthwIhAPZKp15LTjtcEXpSgbSutiDS8Dgk4EOIbOQeqI07VRfU/file/index.m3u8
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqUaXK5jm8_mUF6RXUUtblkkACprza_988lVYc5B8k0No/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mukl85xdlrh1rqp12g18l/La-Nacion.jpg?rlkey=iaix1veyzf4c7vpm1qxph4v22&st=3h3rwmmo&dl=0 " group-title="NACIONALES",La Nacion +
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Lxx57KYv_93ipkK0Pv9XMs/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=aqeq7756&dl=0 " group-title="NACIONALES",Canal 26 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723590192/ei/0JG7Zqv6BNjX-LAPgKaj2A8/ip/186.109.155.86/id/MS0QdZ5zvn8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9qwHnY8gwdODgh8IudE8u9wmwT_WObdAKhUl2nAScn1M9N9DetHMA_spH88/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNH0sAdTvvS1-exLdu1BBq2HzplspRsJJpWPJWmSvWGgCIDAe4RLX7rS8qp3V8G1-Y4dsDxGpPo5lEteO_tAr5hx8/file/index.m3u8
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqUaXK5jm8_mUF6RXUUtblkny0blW-QoLjdUVQWIfT_n2/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8hwoiddvkm1s6wieay7h2/America-24.jpg?rlkey=b9grskux2wozuurmp1nhck212&st=w9t2awbh&dl=0 " group-title="NACIONALES",America 24
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-DsxmPg08LG6A_EMdxsA_Kk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ojmaxjyk1kx6idzik8t3l/Cronica-TV.jpg?rlkey=wa5ikx2hl10ww3fxxukljs1h3&st=xarr2qmb&dl=0 ",group-title="NACIONALES",Cronica TV
@@ -60,7 +61,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MUNTWzWioNHPTNTgQNXzd8/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/5883upqzbcr4g7l1iisxa/America-TV.jpg?rlkey=d5h0ci89ki2h68218h00ykdau&st=06cgwj9a&dl=0 " group-title="NACIONALES",America TV
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BdsIGB3q6bhuxIFYJqAXvk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ins9ut3ai8iz8mfc70oj3/Telefe.jpg?rlkey=dfhl9cao182q5iukx4fgoww29&st=ye9oz9r8&dl=0 " group-title="NACIONALES",Telefe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723592046/ei/Dpm7ZtvSEI-G1sQPu439gAQ/ip/186.109.155.86/id/8gs-9lsfVQU.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/Mv1m9s09QrzABhrQ9_EwUju1ghhLOKEXycn_UoOGDfxSsvOjDXTBoCE9h0Vxuqk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMt-wlLJfNYn3dfiUFWiMIVwcsfwsEOUs30hYo2dxqzwAiAMw_EXakOXg4-dWMJ8XnZrXJRWeu2k5gnDSAmriQPNJA%3D%3D/file/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NvZX-sYp30nKvyELzCkIbg/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8v6dpi9e7mbqn8t7ot712/Ch-13-Bs-As.jpg?rlkey=k5mywfmmun9niyhfylo9jfxj2&st=8w8dz4hw&dl=0" group-title="NACIONALES",Canal 13 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ETTrwWLrrFFoRGbQzNzslw/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o6epxs5u8tls2ehj9lz2j/Fenix-TV.jpg?rlkey=ges0ykrx03c0qjr2inixxhu91&st=kbq2hsqk&dl=0 " group-title="NACIONALES",Fenix TV 
@@ -166,15 +167,15 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Fuapm9Un5blZqDdER71vOE/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTIVOS",Bein Sports
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-LQSwanyrzk5dVDXbEDQIQI/m3u8
+http://bboxstream.com:8080/juanvera/9171142413/20/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eg16lo8ses48hwuiv3ecn/Dazn-Sports.jpg?rlkey=tagailyahv5kqxdx3wubvmdod&st=rga918lu&dl=0 " group-title="⚽ DEPORTIVOS",Dazn Sports
-http://832954110526165257.ofgh525.xyz:80/live/mi124038/hTm@RgHdMJBF/165257.m3u8
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqS6FYlDMvgCXzcJI4wY1x4Y_8fGeJRo41csHPS37sjYR/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6t3kno9asikznl5hdx99m/Tigo-Sports.jpg?rlkey=dk53ohkitn46lqkp1s8bfq4ci&st=9z9w808m&dl=0 " group-title="⚽ DEPORTIVOS",Tigo Sports
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-FA56fOtyhVd_yMomV_Q7eE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTIVOS",Tudn Sports
-http://sdmx.vip:8080/Cambiosfenix/JqwBarVH6xyx/10955
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqY_rulv0F8DxU2ikCobtiDRW7oLQ0f4IIebvSgmhfZde/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jwsj31nfp9um2g8ncgklc/Win-Sports.jpg?rlkey=i2pazaw3u03uvj8jtvgf7nxe6&st=oh5dyzw9&dl=0 " group-title="⚽ DEPORTIVOS",Win Sports
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKAUO8ZmcS0m5omyXCZe0k/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Ffe-G6OkC_JgmqBgRi5NpA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTIVOS",DeporTV
 https://www.youtube.com/watch?v=fbWvjhqom-w
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mshnen19f7z5zvef5gbgj/TyC-Sports.jpg?rlkey=ph8wsay1i5ofolwj2gg6ig3h3&st=gqm5stip&dl=0 " group-title="⚽ DEPORTIVOS",TyC Sports 
@@ -182,13 +183,13 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M-4PamvZE2ykI9Zwzl1Veo/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r7oat3w83sfwmwt9hux3s/Eventos-Sports.jpg?rlkey=v279djtx5sg21hxs9ku4o5rv9&st=0wfphst6&dl=0 " group-title="⚽ DEPORTIVOS",Eventos 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K523tKKMA3bW5sdKbIIEkI/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwrnrpluwmatzcyndyp2l/Fox-Sports.jpg?rlkey=gh6crm735gmbyoogiscnkpf75&st=9iufpehl&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Fi_rSzzLCdxXpUTLNaQIpE/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1sj60rmh80dqbwa9fblkl/Fox-Sports-2.jpg?rlkey=ns3e74wperlweafu8sfov446u&st=whj1o6j9&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 2
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-KKZ2vVuchCpvy05jAxFDRE/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1sj60rmh80dqbwa9fblkl/Fox-Sports-2.jpg?rlkey=ns3e74wperlweafu8sfov446u&st=whj1o6j9&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 2
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqe7Qlsonf9KTOwkZlyKOCikGxn6Ms-hDyJAN7Rhd0zOY/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h075xgjkuscp5pkied5qu/Fox-Sports-3.jpg?rlkey=azpx3vo32uqvm44g9yb9omnd2&st=25czdash&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 3
-http://832954110526828499.ofgh525.xyz:80/live/mi124038/hTm@RgHdMJBF/828499.m3u8
+http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqUjueyXdnu2J0vg8bSxXltuI2lIpXfnvONWXDMdVRK6t/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pif79kihn8xjz7wdtxcyf/ESPN.jpg?rlkey=g8ozwwi5oag828ur8lwdmz8ps&st=unp3pvrg&dl=0 " group-title="⚽ DEPORTIVOS",ESPN 
-http://tecnozone.site:8090/comandoalmache/almache2022../57807
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-O46ypVyUZJberlKjYilan4/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zhhi3ni5a5o3leec80tpg/ESPN-2.jpg?rlkey=tb4qc4pqztc0632asbugj47xy&st=4zhv73ar&dl=0" group-title="⚽ DEPORTIVOS",ESPN 2
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PKiZ7wFIJl-0rCFDiNSWQk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tyre4u3ihz83todra18h7/ESPN-3.jpg?rlkey=9guenm7bmbclvxa7bedj6tp6t&st=h2tfl4xn&dl=0 " group-title="⚽ DEPORTIVOS",ESPN 3
