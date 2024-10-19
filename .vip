@@ -119,7 +119,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PtUYQPLoRNgYwnl8SiG64Y/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hn3ynoe9oad7ayoia279s/Baby-TV.jpg?rlkey=6bbso1p8o7q9qnel29x8dkuym&st=0mi8auh0&dl=0 " group-title="INFANTILES",Baby First
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BkjC6z7A8WdFOZEGvDIf0w/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/j7kv8exo8nwy02n2pcbkm/Disney-Channel.jpg?rlkey=e3bh1pval56yfau7y48o47fzw&st=m1g4dppq&dl=0 " group-title="INFANTILES",Disney Channel
-http://45.166.92.22:58001/play/a04q/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ISXf3QMRfpgBMQ5W5O14rc/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co8n1py5hc5jj1wxmv66e/Nickelodeon.jpg?rlkey=se797cdfa5qaq27bqu6ifqd8r&st=1dxqhsvr&dl=0 " group-title="INFANTILES",Nickelodeon
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BPEU-G8jQS2HGAHJlw17IA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dti45aa0w9az4p3q9yyik/Cartoon-Network.jpg?rlkey=401dii4f98hryayihov11d0v1&st=y94hkjc0&dl=0 " group-title="INFANTILES",Cartoon Network
@@ -131,9 +131,9 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1586
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cmqogq2v1h1a7f6p3n55f/Tooncast.jpg?rlkey=gg7lxxetptp1d563w58xt47wy&st=9r0kpjlg&dl=0 " group-title="INFANTILES",Tooncast
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Az7OIBI09eIFGaJ1logi_A/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h17hllh5qxeja5ajp4pmo/Magic-Kids.jpg?rlkey=27ewxt2h2f5omad97kpmd7w3v&st=eds177xn&dl=0 " group-title="INFANTILES",Magic Kids
-https://magicstream.ddns.net:443/magicstream/stream.m3u8?PlaylistM3UCL
+https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xh9m7k6nrhbz8fhgcbffk/Paka-Paka.jpg?rlkey=rla2jkuo8krvzb7kdsmxogsid&st=5tq0vnfm&dl=0 " group-title="INFANTILES",Paka Paka 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Eo_T2RTC65RWwu3nfucjK8/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/61601
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mqgg8zh7h46dkfaqq011j/bitMe-Channel.jpg?rlkey=9hrgykr0s7s0ixid20lj95b38&st=745abbtu&dl=0 " group-title="INFANTILES",bit Me
 http://tecnozone.site:8090/comandoalmache/almache2022../130
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v4t1ui3ep9tvsn2sy1s7t/Tom-y-Jerry.jpg?rlkey=ygohelsqcfnbw3wkspmdtr7zt&st=ghvlh9le&dl=0" group-title="INFANTILES",Tom y Jerry
@@ -167,7 +167,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Fuapm9Un5blZqDdER71vOE/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTIVOS",Bein Sports
-http://bboxstream.com:8080/juanvera/9171142413/19
+http://bboxstream.com:8080/juanvera/9171142413/20
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eg16lo8ses48hwuiv3ecn/Dazn-Sports.jpg?rlkey=tagailyahv5kqxdx3wubvmdod&st=rga918lu&dl=0 " group-title="⚽ DEPORTIVOS",Dazn Sports
 http://fastream.xyz:8080/998184829tv/wz5304/12397
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6t3kno9asikznl5hdx99m/Tigo-Sports.jpg?rlkey=dk53ohkitn46lqkp1s8bfq4ci&st=9z9w808m&dl=0 " group-title="⚽ DEPORTIVOS",Tigo Sports
@@ -175,19 +175,19 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-FA56fOtyhVd_yMomV_Q7eE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTIVOS",Tudn Sports
 http://fastream.xyz:8080/998184829tv/wz5304/552
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jwsj31nfp9um2g8ncgklc/Win-Sports.jpg?rlkey=i2pazaw3u03uvj8jtvgf7nxe6&st=oh5dyzw9&dl=0 " group-title="⚽ DEPORTIVOS",Win Sports
-http://papus.pro:2082/IPTV.2208/gH32dyG9n7tR/482080
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Gl9xgZJMZE3fDB1N0TzUQA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTIVOS",DeporTV
-http://bboxstream.com:8080/juanvera/9171142413/28
+http://bboxstream.com:8080/juanvera/9171142413/4714
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mshnen19f7z5zvef5gbgj/TyC-Sports.jpg?rlkey=ph8wsay1i5ofolwj2gg6ig3h3&st=gqm5stip&dl=0 " group-title="⚽ DEPORTIVOS",TyC Sports 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M-4PamvZE2ykI9Zwzl1Veo/m3u8
+http://bboxstream.com:8080/juanvera/9171142413/4718
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r7oat3w83sfwmwt9hux3s/Eventos-Sports.jpg?rlkey=v279djtx5sg21hxs9ku4o5rv9&st=0wfphst6&dl=0 " group-title="⚽ DEPORTIVOS",Eventos 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-DiK0G2PizO1sQRewJIOGgc/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwrnrpluwmatzcyndyp2l/Fox-Sports.jpg?rlkey=gh6crm735gmbyoogiscnkpf75&st=9iufpehl&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-KKZ2vVuchCpvy05jAxFDRE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1sj60rmh80dqbwa9fblkl/Fox-Sports-2.jpg?rlkey=ns3e74wperlweafu8sfov446u&st=whj1o6j9&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 2
-http://daleplay.club:80/play/SLkwuFt_TEHM9XUyvjLpqUaXK5jm8_mUF6RXUUtblkncZ3gVkPP6BrMuZKafAkG6/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-KKZ2vVuchCpvy05jAxFDRE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h075xgjkuscp5pkied5qu/Fox-Sports-3.jpg?rlkey=azpx3vo32uqvm44g9yb9omnd2&st=25czdash&dl=0 " group-title="⚽ DEPORTIVOS",Fox Sports 3
-http://fastream.xyz:8080/998184829tv/wz5304/538/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/537
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pif79kihn8xjz7wdtxcyf/ESPN.jpg?rlkey=g8ozwwi5oag828ur8lwdmz8ps&st=unp3pvrg&dl=0 " group-title="⚽ DEPORTIVOS",ESPN 
 http://fastream.xyz:8080/998184829tv/wz5304/502
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zhhi3ni5a5o3leec80tpg/ESPN-2.jpg?rlkey=tb4qc4pqztc0632asbugj47xy&st=4zhv73ar&dl=0" group-title="⚽ DEPORTIVOS",ESPN 2
