@@ -201,37 +201,37 @@ http://bboxstream.com:8080/juanvera/9171142413/4717
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="INTERNACIONALES",CNN Español
-http://45.166.92.22:58001/play/a036/index.m3u8
+http://190.0.241.181:8000/play/a06n/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/decwgkcyxo9tw8ai5samx/TV-Chile.jpg?rlkey=d5a4sz74t6ubzcjvws3hwlyqc&st=ve5z6imi&dl=0 " group-title="INTERNACIONALES",TV Chile
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-IoOqL9k4mpsw64tJyfHZa4/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-C0XGpT4A3k2nsDbbeNI7pQ/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/3k622mgnh0mauvf3wvxg0/TV-Bolivia.jpg?rlkey=dkm28vd6udl9ufei642r4z3zm&st=cptmmgvp&dl=0" group-title="INTERNACIONALES",TV Bolivia
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-IaILmLUTmm1_5ZESiJxKDc/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/26b0y3wiqpqqr16jfszal/TV-Peru.jpg?rlkey=cv0ssjdx98y6jit8km5zdy9m1&st=3tpdjv5p&dl=0 " group-title="INTERNACIONALES",TV Peru
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OOoSMGaTeUTJa_X5IDDSAo/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v64xgiow7ky1w7kd76mc6/Paraguay.TV.jpg?rlkey=q0j9qypguw3p94m9fvoc0s889&st=j9xlnrg5&dl=0" group-title="INTERNACIONALES",TV.Paraguay
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/03a2aksdety2tylo3xq8r/TV-Brasil.jpg?rlkey=8e9nkaz9ocefr0aga4s2mzk3p&st=omkttrqh&dl=0 " group-title="INTERNACIONALES",TV Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1541752656.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jo4ttxqblpw8pqpm9llch/TV-Colombia.jpg?rlkey=6w6id8j5tq91nhjtd49iocm8z&st=kokwqwux&dl=0 " group-title="INTERNACIONALES",TV Colombia
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CIjtYRlqfSHZlRqnI6jrH0/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5ndyvxha3gnnslfrlud2s/TV-Ecuador.jpg?rlkey=lol3bgfpf5tpkyog5kgovykms&st=qkwwzeay&dl=0 " group-title="INTERNACIONALES",TV Ecuador
-http://177.234.230.226:8010/play/a028/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NoBFeDX0OQVuA1AXp_7LqE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="INTERNACIONALES",TV Venezuela
-https://streamtv.intervenhosting.net:3061/hybrid/play.m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/23174
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="INTERNACIONALES",Telesur
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh0Nzk2Jan6VJQfJhpXqgo/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="INTERNACIONALES",TV Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="INTERNACIONALES", Telemundo 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M3mT6GufIdwOH2XQZ5VqIk/m3u8
+http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="INTERNACIONALES",TV España
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-M787DPzrI7FICptnTwEbXE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0" group-title="INTERNACIONALES",TV Italia
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-CF4d4u9o3K7yDniXIa_G28/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="INTERNACIONALES",TV.Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wtyuresya0phx4b5qfbho/France-24.jpg?rlkey=pjegcamp4o26r33w82ixz64ha&st=83ny4oji&dl=0 " group-title="INTERNACIONALES",TV Francia
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/159078
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-IlmPNDURxehVzZqIGYoWms/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="CULTURALES",A&E Mundo
@@ -243,7 +243,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MdiS7PSKwAygnFB8v8zDCs/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mm54l9pcafmpb297ck22x/El-Gourmet.jpg?rlkey=2q4x03le8t0xnf1d852wo4f9p&st=7pqjr48j&dl=0 " group-title="CULTURALES",El Gourmet 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Pn4bIQDF7a-RrZxOrJ6FEM/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8wjxqpru32jkxitkxyyr5/Nat-Geo.jpg?rlkey=6pqo2xucaexpxuy3j7jnxmbx8&st=8lhxcjmr&dl=0 " group-title="CULTURALES",Nat Geo
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ClpBJNv7UeRjSlyYdk8JYE/m3u8
+http://190.0.241.181:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=ipkgbg78&dl=0 " group-title="CULTURALES",History Channel 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OSgi5LA0h7PbiijLRvF1WM/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7xdu2hk8sfrd24s5ds9h/Encuentro-TV.jpg?rlkey=d26ies0bwy0alkhyr5i2vq1ry&st=7yrbkabh&dl=0 " group-title="CULTURALES",Encuentro TV
@@ -257,7 +257,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-KreAOOq5Jd6o65TysB6fI0/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gid0pc4hm5sk89heh86fh/Discovery-Channel.jpg?rlkey=rjrctzf0pg9u4o4nnwset7q98&st=ij9x6dnn&dl=0 " group-title="CULTURALES",Discovery Channel
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NFW0CccbV36fP_9LniBhdE/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t4j8ts5afrzvvi4fale6n/Discovery-HGTV.jpg?rlkey=1mwywx3zwzv4dbcssqth2441g&st=2vbryr7j&dl=0 " group-title="CULTURALES",Discovery HGTV
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Pu1uMNxJnGizcWTFK5sqvE/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/409
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vl93epce641b7wzw023rr/Home-Health.jpg?rlkey=01b8cv4wc7phbo2hh0b9811ht&st=tlje8zeg&dl=0 " group-title="CULTURALES",Home & Health
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PS8dZ2Do-7qJ1WyPReCpm8/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/515m8zs1vc82dkxwox03l/Discovery-Science.jpg?rlkey=4jx0i4ayexjmydr6dmwczigsy&st=vgslm9zs&dl=0 " group-title="CULTURALES",Discovery Science
@@ -277,9 +277,9 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-McJ-iTRE74S34OwjRyZeEk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/97d2x14d9ye5kc11ka4vp/Angelus-TV.jpg?rlkey=b1on3kebm6gnuq2oj8gbytsko&st=5fyuvwxo&dl=0 " group-title="CULTURALES",Angelus TV
 https://transmisiuni.ro/media/oracatolica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5k9fw9ycx7nshft5x6ie/Enlace-TV.jpg?rlkey=ut47gsbzfaas9sf2r0glp0lcq&st=iqz40zhw&dl=0 " group-title="CULTURALES",Enlace TV 
-http://tecnozone.site:8090/comandoalmache/almache2022../18193
+http://190.0.241.181:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iosw4938b6fv8vtf3gft8/EWTN-TV.jpg?rlkey=fvbvs2yrf9lpq6u0surx95j80&st=n7iowtm4&dl=0 " group-title="CULTURALES",EWTN TV 
-http://45.166.92.22:58001/play/a050/index.m3u8
+http://190.0.241.181:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/flhu8ebpcaacdsyth3v90/Jehova-TV.jpg?rlkey=9e38tw90oi2t9hmns5g8vu9v7&st=flus0nhp&dl=0 " group-title="CULTURALES",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
