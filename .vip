@@ -17,13 +17,13 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-L9QzJGiKlvq2fHtrvU77k4/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u04pv5obtek2khag2psqn/Paramount.jpg?rlkey=x0z9t9llho09z9twqxqajrrwm&st=9rqv282s&dl=0 " group-title="PLATEA VIP",Paramount
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-JsyILrz28eji_VpwOIt5w0/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m3h0oablw37ftet6w7uqg/Fox-Channel.jpg?rlkey=e2opiq0veh9n2wvnbdi2kacfk&st=td91ayqa&dl=0 " group-title="PLATEA VIP",Fox Channel
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PONvmmIi5Qkd2hK-WMrfBE/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OuwXVsv-XH8dvoDQwhhz5s/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8dv9lg3w3d94cpmmsl2lt/TCM-Channel.jpg?rlkey=kvc7pzhnyvho0luzk6vvd9yb1&st=jbnmvd7n&dl=0 " group-title="PLATEA VIP",TCM Channel 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-C6dQawg6cKv5TvuF7y_2D8/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/pvxt6t3a5xdcm15t00fgp/Lifetime.jpg?rlkey=tj0y7ti4y44p4qrm1gs3y9qfy&st=r9go3afn&dl=0 " group-title="PLATEA VIP",Lifetime
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-L_jRqbkSAT2CJL7rnNzK0k/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/exwfwbkxuc3vx2ravky5p/DHE-Channel.jpg?rlkey=hp2powqf6y5ow4y97akrkwg6j&st=jazz93ol&dl=0 " group-title="PLATEA VIP",DHE Channel
-http://177.234.230.226:8010/play/a01c/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-B7q7k41QnO7PTBr1bRghRk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mi7jweur60425j7jrxjb1/Golden.jpg?rlkey=uj1jc1xayg1zjeikf90f3fin4&st=ghp8lpif&dl=0 " group-title="PLATEA VIP",Golden
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K1YwDepzeWtd_GgHV6b42Q/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/83byqj2rd5nymzurwkh70/Warner-Channel.jpg?rlkey=i0b6t8e9y9w9ovfz7ldukjeuh&st=xpsawhi1&dl=0 " group-title="PLATEA VIP",Warner
@@ -31,13 +31,13 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Dyl4tUGDnsHngSZyDF8_VY/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5s4jbl1frpxcelh6esgn5/Sony-Channel.jpg?rlkey=gh5vuz8z984cm7lsqojzomlz9&st=kr1cue4l&dl=0 " group-title="PLATEA VIP",Sony
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Nw9tlCAyUdLb0cMaNEtWgg/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/tqovlljuamh9nda3kru8r/De-Pelicula.jpg?rlkey=ud8v19rs9gnk46267hob9u312&st=uggzg0de&dl=0" group-title="PLATEA VIP",De Pelicula
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-EjNZFaPaCRsp9I75BG7_4E/m3u8
+http://190.0.241.181:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egpdw8s7gofe9niop6ccm/Europa-Europa.jpg?rlkey=tre4mazbf082gt3prg6hqn478&st=hwjt1iyt&dl=0 " group-title="PLATEA VIP",Europa
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-GV2-Skm7wYalBWp5luFvr8/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title="PLATEA VIP",Familiar
-http://177.234.230.226:8010/play/a00v/index.m3u8
+http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="PLATEA VIP",Argentino
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OpvlKSDpzAM7GilKKKEyV8/m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472090
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyisjd0lkwrd0dci1hgmw/Cine-Mas.jpg?rlkey=zstfmw4o6odlf43vb4ap4ozoi&st=syxusk2f&dl=0 " group-title="PLATEA VIP",+ cine
 http://190.102.242.130:25461/multicontenido/1234/31
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/hlvwja5se2gede8p0sk55/Az-Cinema.jpg?rlkey=h262jj3fi11afnksbg0gplg89&st=gje12y1z&dl=0" group-title="PLATEA VIP",AZ Cinema
@@ -49,7 +49,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-MR-O6rau4C_r39TzwXE0aw/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="PLATEA VIP",Cine Latino
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PSHl_0ZwzfC1hFfrC5eMUM/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title="PLATEA VIP",Cine Real
-https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/469560
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=ri5ba5hg&dl=0 " group-title="NACIONALES",T N
