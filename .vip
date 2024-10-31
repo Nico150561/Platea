@@ -259,17 +259,17 @@ http://190.0.241.181:8000/play/a07x/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=ipkgbg78&dl=0 " group-title="CULTURALES",History 
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OSgi5LA0h7PbiijLRvF1WM/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7xdu2hk8sfrd24s5ds9h/Encuentro-TV.jpg?rlkey=d26ies0bwy0alkhyr5i2vq1ry&st=7yrbkabh&dl=0 " group-title="CULTURALES",Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+http://bboxstream.com:8080/juanvera/9171142413/4670
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7gng9uo6adkz6zwaiw0eb/Canal-Rural.jpg?rlkey=z4tdfc1ui741tktrdihuow6d7&st=9yim757n&dl=0 " group-title="CULTURALES",Rural
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ITpYF17tvcrH7werwmJqo4/m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1730431293/ei/3fQjZ5O2DaiL-LAPvsWw8As/ip/190.230.44.59/id/TFYv5NUESws.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/qtApAdqQIsDzj98ukwq1XGQ8t4wf9oRlrGMyjiOsMnTBXWt3PiDNTrL0MxxH5hU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51312688%2C51326932%2C51331020/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIcn_O-hk1Uz3FW9X51wyes7N6ks0EwqDEaJXJFg-c1gCIEv8cD9PKFglT5031q_3Z9X12Jm23OAk3ca9Tkd_873v/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/crev6gcg0wutfn57ambtm/Chacra-TV.jpg?rlkey=bvmhym8eifamx4sghgm7qmcil&st=wnf8a2vx&dl=0 " group-title="CULTURALES",Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+http://fastream.xyz:8080/998184829tv/wz5304/620
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/97d2x14d9ye5kc11ka4vp/Angelus-TV.jpg?rlkey=b1on3kebm6gnuq2oj8gbytsko&st=5fyuvwxo&dl=0 " group-title="CULTURALES",Angelus TV
-https://transmisiuni.ro/media/oracatolica/playlist.m3u8
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a5k9fw9ycx7nshft5x6ie/Enlace-TV.jpg?rlkey=ut47gsbzfaas9sf2r0glp0lcq&st=iqz40zhw&dl=0 " group-title="CULTURALES",Enlace TV 
 http://190.0.241.181:8000/play/a06f/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iosw4938b6fv8vtf3gft8/EWTN-TV.jpg?rlkey=fvbvs2yrf9lpq6u0surx95j80&st=n7iowtm4&dl=0 " group-title="CULTURALES",EWTN TV 
-http://190.0.241.181:8000/play/a087/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-C5a33Gxcy-lAwpeQG1zqwU/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/flhu8ebpcaacdsyth3v90/Jehova-TV.jpg?rlkey=9e38tw90oi2t9hmns5g8vu9v7&st=flus0nhp&dl=0 " group-title="CULTURALES",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
@@ -299,35 +299,35 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-McJ-iTRE74S34OwjRyZeEk/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/18ktk6wkitl0prau2v7zy/Comedy-Central.jpg?rlkey=d0x505ouznos9wff881epixkn&st=xlex9p02&dl=0 " group-title="NOVELAS & SERIES",Com. Central
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-P2yI1KesQrEK0IEbgJMFbY/m3u8
+http://190.0.241.181:8000/play/a04q/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f3d0yrtmb1r0s55bqjtl0/Distrito-Comedia.jpg?rlkey=c664fse6hjzaad6quqv25zin5&st=xvle9v79&dl=0 " group-title="NOVELAS & SERIES",Distrito Com.
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Gk4iSVtXjyGsx3AhiTNQhY/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/roeli1gvrof2dpvjtbvv1/Canal-Volver.jpg?rlkey=rzasafw9cqyqiw0w2i8k5f4fm&st=qgpq1tt1&dl=0 " group-title="NOVELAS & SERIES",Volver 
-http://sdmx.vip:8080/Cambiosfenix/JqwBarVH6xyx/210868
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472096
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vf2e9rqu7qsoxdxnjt8nf/Ch-de-las-Estrellas.jpg?rlkey=ao5tyi56y4ikmwk43w67mm91r&st=q61nb93a&dl=0 " group-title="NOVELAS & SERIES",Las Estrellas
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OD61kK_h-yVh-6fjhluxPg/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/o1aavyp0leyt4b6474pyy/Canela-TV.jpg?rlkey=sil4odufkxuh4xh7hdnon53va&st=sb4hwtso&dl=0 " group-title="NOVELAS & SERIES",Canela TV 
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9gk3rufisftbnzigmjivb/Corazon-TV.jpg?rlkey=p1hzxmczlqb1baxmllch1p9z7&st=wh3z3o0q&dl=0 " group-title="NOVELAS & SERIES",Corazon TV 
-http://45.166.92.22:58001/play/a02z/index.m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/372618
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rcxuao5eq4knyxany15i/Pasiones.jpg?rlkey=jxc0brctrzab1by9asi0vestr&st=9i7928pv&dl=0 " group-title="NOVELAS & SERIES",Pasiones
-http://45.166.92.22:58001/play/a01q/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-G65dZmmtp-ia1A3XWJJ4qU/m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ng3hiroxod1gtb4qub0id/RCN-Novelas.jpg?rlkey=16snojrwy1cz4hzsryske2ix6&st=geighn8y&dl=0 " group-title="NOVELAS & SERIES",RCN Novelas 
-http://177.234.230.226:8010/play/a01w/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-DQo_U37MpMgjVnLZhOz7L4/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ab7iy55hkt5xzmdz7l12/Telenovelas.jpg?rlkey=s5mc0z6mo6mu1n3lzmodq5idq&st=nay3zeij&dl=0 " group-title="NOVELAS & SERIES",Telenovelas 
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-HEr8wWC17GQOk4Y40MiSAQ/m3u8
+http://190.0.241.181:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hgji48zxxghyiofcbk6s/TNT-Novelas.jpg?rlkey=615ecqfig2kz149o5z24t4pis&st=9dbsfvnz&dl=0 " group-title="NOVELAS & SERIES",TNT Novelas
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NqZUpQNs7LuyZGjLS_PDhA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k90j87iiwpx9b5kubi19e/TNT-Series.jpg?rlkey=lbpvzkh3f2yr8ekt2gw2pynia&st=8lmr4soh&dl=0/ " group-title="NOVELAS & SERIES",TNT Series
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-JFQOUFpsCXzQq0ZbP5y1jI/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bacpa5onzd7rx8308nvz2/A-tres-Series.jpg?rlkey=5uirmerdjgea07jlpp0xi5pjy&st=xlqqul0d&dl=0 " group-title="NOVELAS & SERIES",A 3 series
-http://177.234.230.226:8010/play/a041/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Aq3Cdk-LYbVtWIHfgMp4fc/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mfmm3q486upuwt90lmz5n/AXN-Channel.jpg?rlkey=8utc7nbm6z9c5zsoh252irt93&st=ab9eorue&dl=0 " group-title="NOVELAS & SERIES",AXN Channel
 http://190.0.241.181:8000/play/a04m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3qyhl00gck8qp8nsb33s5/Studio-Universal.jpg?rlkey=irrb3bf37jpryk67bdjkfv001&st=4t1rkkj9&dl=0 " group-title="PACK UNIVERSAL",Studio
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNjHIhWSv6j0Nd-CJ0iEHY94/m3u8
+http://190.0.241.181:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/lzzl4qj5sv6b832osggwc/Universal-Channel.jpg?rlkey=i89nylwkchaotct1fkbbje2e9&st=3i8eiz0c&dl=0" group-title="PACK UNIVERSAL",Universal
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OU7MCNw63To3ZdYKPymkdA/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/isg1pgytp2at7w17li9kw/Universal-Premiere.jpg?rlkey=squb6p3z7h65xu5rorbqw9fpg&st=9922wnv2&dl=0 " group-title="PACK UNIVERSAL",Premier
@@ -339,7 +339,7 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PlMwg5PtVOUrOQW-fpQO2g/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0divoa8np1mbexkvhaba/Universal-Comedy.jpg?rlkey=5p554i9n0y7u6s018s9ygos1o&st=hp1mfz34&dl=0 " group-title="PACK UNIVERSAL",Comedy
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKbp_L-Sld1MfqC0Bg4qEk/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lpx1u8e8l2431vdbbmtaq/Universal-Reality.jpg?rlkey=j23n5op5f028axi2pdyzs2rmo&st=tjjgdm1j&dl=0 " group-title="PACK UNIVERSAL",Reality
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-BaBY2AU0l3iktFLjg3V-Aw/m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472097
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2gxs0x3sv398wtl16ov6/HBO.jpg?rlkey=4irk3o3fvxs31rihg561frmug&st=lkxdstzd&dl=0 " group-title="PACK HBO",HBO
