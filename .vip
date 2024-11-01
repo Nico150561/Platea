@@ -330,14 +330,14 @@ http://190.0.241.181:8000/play/a04m/index.m3u8
 http://190.0.241.181:8000/play/a07f/index.m3u8
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/lzzl4qj5sv6b832osggwc/Universal-Channel.jpg?rlkey=i89nylwkchaotct1fkbbje2e9&st=3i8eiz0c&dl=0" group-title="PACK UNIVERSAL",Universal
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-OU7MCNw63To3ZdYKPymkdA/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/isg1pgytp2at7w17li9kw/Universal-Premiere.jpg?rlkey=squb6p3z7h65xu5rorbqw9fpg&st=9922wnv2&dl=0 " group-title="PACK UNIVERSAL",Premier
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/isg1pgytp2at7w17li9kw/Universal-Premiere.jpg?rlkey=squb6p3z7h65xu5rorbqw9fpg&st=9922wnv2&dl=0 " group-title="PACK UNIVERSAL",Premiere
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Gqm8-4fpTzSlUwY4jWIbbQ/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q6g9gf89kg6j5xrl52ag6/Universal-Cinema.jpg?rlkey=tv6hxsgauqcejpmgzeazgjkfv&st=bf4ngp4s&dl=0 " group-title="PACK UNIVERSAL",Cinema
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Oo4HwLgtqQGGA_DDCu_hpI/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gh6lw0wcwlwk2wszn377h/Universal-Crimenes.jpg?rlkey=ktbn58w7v4rgobe99qhp7pi96&st=xyhzhzui&dl=0 " group-title="PACK UNIVERSAL",Crimenes
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-PlMwg5PtVOUrOQW-fpQO2g/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0divoa8np1mbexkvhaba/Universal-Comedy.jpg?rlkey=5p554i9n0y7u6s018s9ygos1o&st=hp1mfz34&dl=0 " group-title="PACK UNIVERSAL",Comedy
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NKbp_L-Sld1MfqC0Bg4qEk/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/54465
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lpx1u8e8l2431vdbbmtaq/Universal-Reality.jpg?rlkey=j23n5op5f028axi2pdyzs2rmo&st=tjjgdm1j&dl=0 " group-title="PACK UNIVERSAL",Reality
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472097
 
@@ -361,43 +361,43 @@ http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-NUuK80GfDG74HhpZSmULN8/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7s4tceljzfjpq3xbvfaz/Argentinisima.jpg?rlkey=rb498zaev94y0x6g4g572xj1t&st=w2kvecs4&dl=0 " group-title="Musica",Argentinisima
-https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
+https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ow4hhjd0s4gafgr8zmc0y/Cumbia-TV.jpg?rlkey=stawhlloemgz8jatd8nu40lfc&st=hhbxiu98&dl=0 " group-title="Musica",Cumbia TV 
-https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
+https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=190.230.44.59&token=78a9fa6d8b07addac4ea437f081d6ef7919e4750-ac324c5e8b05a47bf3cd4038bee7fa74-1730467706-1730456906
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3m6lxd0afvjuy0b5gnt2i/Ch-de-la-Musica.jpg?rlkey=5d2mvgs21sj767dbe0nqlrv2r&st=wiekny6x&dl=0 " group-title="Musica",CH de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mh4tezieadvj06r4fuc9m/Music-Top.jpg?rlkey=j7qbcb0led11nakq3sxds3xbc&st=erqixoyw&dl=0 " group-title="Musica",Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfe9h0qcrwufse1t9ja38/MTV-80s.jpg?rlkey=hlw6pohuirs6a5317ra6khocn&st=018et8a4&dl=0 " group-title="Musica",MTV '80s
-http://zeuspro.xyz:8080/artgalindo1/KEt7LWMND2/1323
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Kgi89GJeo-QlNZBPTmocwg/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9bx3r1mqp1t5enfedf7x9/VClassic-Music.jpg?rlkey=qpx5144rut63wshcpdpbru4nf&st=dfqg1czg&dl=0 " group-title="Musica",VClassic
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cuxbusb6ab44028qrc8yn/Retro-Channel.jpg?rlkey=slczf394aojm2k4o2x5mllsrb&st=9rhzad5i&dl=0 " group-title="Musica",Retro
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsjl3efhmuestsxdg6w2m/MTV-Live.jpg?rlkey=s49cjniuq5frc5ganhl0vci3c&st=db44nbm9&dl=0 " group-title="Musica",MTV Live
-http://45.166.92.22:58001/play/a018/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ENytpnfVlNNrD3hUbUCQMQ/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wsq8l53cs62rukvjow1br/Telehit-Musica.jpg?rlkey=qynn7y8goqep8uyzwosl2z6p5&st=38xomqbx&dl=0 " group-title="Musica",Telehit
-http://tecnozone.site:8090/comandoalmache/almache2022../2237
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/473940
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c06gyzsztftp8vbhb9odg/Canela-Hits.jpg?rlkey=biyem0j87frdzrjkd6392xwkw&st=gec0o483&dl=0 " group-title="Musica",Canela
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh48Zwey59VX3DTvkCJXA4/ts
+https://cnm-cc-ch.otteravision.com/cnm/ch/ch_540p/00173/ch_540p_00998.ts?device_model=&device_type=desktop&device_manufacturer=&device_id=&partner=internal&platform=web
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wr94rz7c2z4xf4281qrz8/Tropical-Music.jpg?rlkey=ji2vmekxqplpgjeknz54gnwan&st=ajsqy6jy&dl=0 "Musica",Tropical 
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/knbrzet6pw51dntz0llca/Tu-Ritmo.jpg?rlkey=z7dysvf3b7jts6xgdyn4wvoai&st=315w5md9&dl=0 " group-title="Musica",Musicales
-https://cloudvideo.servers10.com:8081/8120/index.m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226471
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/akd0376zwtupoplt3vnsq/Panavision.jpg?rlkey=3rztr2tdw6a9xmxl56kzy135l&st=m1i5qi7m&dl=0 " group-title="Musica",Panavision  
-http://54.39.51.30:25461/play/8gqkSXhlrG_0ntuOMLRcNq_2b2NpIOsD6EWP6TSVOwg/m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Jh48Zwey59VX3DTvkCJXA4/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f0p5kkgcz79px9hq9z7w9/Teleritmo.jpg?rlkey=fsruoa95v2l6b7rdgpzw8res6&st=r1he7vp2&dl=0 " group-title="Musica",Teleritmo 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5p3lq8tpjql7vzijkpv9l/Vintage-Music.jpg?rlkey=kiibse1dl8z9ial60ous8dxtf&st=i2yyr448&dl=0 " group-title="Musica",Vintage 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kdujy2s1q9ojbfs0xoas3/Memorias-TV.jpg?rlkey=xro7te73alozo89f2mtjzpeqb&st=1oe5dw5b&dl=0 " group-title="Musica",Memorias TV
-https://stmv6.voxtvhd.com.br/memoriastv/memoriastv/playlist.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Hjj2JJYQtd6DgM_A8Vh37o/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwnl6tgkc1xf3z8t789rr/Mi-Musica-Reggaeton.jpg?rlkey=uyz2g3kaz41oe2kept6v1dl09&st=odff7x8k&dl=0 " group-title="Musica",Reggaeton 
-http://177.234.230.226:8010/play/a020/index.m3u8
+http://190.0.241.181:8000/play/MUSICAREGGAETON/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d3bp6y68yafb05bcs1rw1/Mi-Musica-Regional.jpg?rlkey=53e5za8x257vo1v4b6x38uj31&st=aoev6zrd&dl=0 " group-title="Musica",Regional
-http://177.234.230.226:8010/play/a023/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-If56QoS1plpd9QsorHCNwo/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vg2elgeq0xj7ve7861xvn/Mi-Musica-Salsa.jpg?rlkey=192q0hrx67bk65wv2nmm3p57a&st=197v4g58&dl=0 " group-title="Musica",Salsa
-http://177.234.230.226:8010/play/a021/index.m3u8
+http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-K6ZpoLv437InX6HobcAOeI/m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t23c7oky22j7pnb9ru3vb/Radio-Rivadavia.jpg?rlkey=czuczvh3wllt1wultk9ogjghy&st=37hfbxuc&dl=0 " group-title="Radios",Rivadavia 
@@ -405,14 +405,14 @@ http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y012dvgm7li6sdge1522z/Radio-10.jpg?rlkey=eidaqvbz0qkh1p6tsjbbr7mub&st=gdeqtn8r&dl=0 " group-title="Radios",Radio 10 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4l8h785fb1y036djsb8ri/Radio-Mitre.jpg?rlkey=y17cy9sbihabloszgy0f1tubg&st=qlerhb7h&dl=0  " group-title="Radios",Mitre 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716050446/ei/roVIZr_8NtCS-LAPj8aD4Ak/ip/190.30.214.88/id/UuA2PfzB5VU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgKAko0a2KZcMtuiXrjSObxJ0FhbTfIIbLZzB2vreqrEACIGLdywD8iSZ_yWUPOztbLPKMpv06T9XiQYW02vYL0AQn/file/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ccpmkn8mjbmonycqxary/Radio-Maria.jpg?rlkey=6p0wwqot138ixs44y4fcuqjak&st=jnzl26qa&dl=0 " group-title="Radios",Radio Maria
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w931336312_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ti4ql6cxhtlxgrxyvjrq8/Radio-Continental.jpg?rlkey=3apahfk2pc4bgo2299qwx8qu2&st=r9in8kjo&dl=0 " group-title="Radios",Continental 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/xegjnmaj3l5uv5jmkzp75/Radio-del-Plata.jpg?rlkey=9vr3tjmhyu3eqhs0undidb7tk&st=timvvm58&dl=0" group-title="Radios",Del Plata 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716052271/ei/z4xIZqzvIrfm-LAPuN-ToAc/ip/190.30.214.88/id/ZfJWOyjOB9E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSaGPTClCDvnMZH147756zSLxyLxd3lIRflk7Rz4U4d4CIDOLwfHpmXMwLtzQxmWLEDD4fAxM6bU0ytYSxGgy9aQ7/file/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7dh5z2i4g7umj7doeq7t8/Radio-La-100.jpg?rlkey=fxhu9b5q9y74ldfxn70t7aj47&st=ol99cmds&dl=0 " group-title="Radios",La 100
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716051989/ei/tYtIZoDUMt2Y1sQPuq2_8AI/ip/190.30.214.88/id/sfTAZEZSPYE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgArP2tChTqQ49JZEYtmLweHiWttcz3Zb3d-pOnHoHx1cCIQDd0MK37242-GrIe-MuYJvmL0l1iBLFKmqWJjNAoU_xCw%3D%3D/file/index.m3u8
+https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xhddku9v2pwqytllscb1w/Urbana-Play.jpg?rlkey=hbstl24it0f45e9qemhob75na&st=l6tfje84&dl=0 " group-title="Radios",Urbana Play 
 http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0016
