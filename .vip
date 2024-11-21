@@ -13,7 +13,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/119
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vmzfn7ncyhxgf6emnwov4/TNT-Channel.jpg?rlkey=gnpdla718w9yqr0lx7bv1ujgg&st=pl0z8hnt&dl=0 " group-title="PLATEA VIP",TNT 
 http://fastream.xyz:8080/998184829tv/wz5304/169
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0wc5ylbxvzv17ytmc4u3/SyFy-Channel.jpg?rlkey=lkz00pawsd5zxs4qs8vbl3ue4&st=7z2fr1zk&dl=0 " group-title="PLATEA VIP",SyFy 
-http://fastream.xyz:8080/998184829tv/wz5304/224
+http://bboxstream.com:8080/juanvera/9171142413/345
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u04pv5obtek2khag2psqn/Paramount.jpg?rlkey=x0z9t9llho09z9twqxqajrrwm&st=9rqv282s&dl=0 " group-title="PLATEA VIP",Paramount
 http://190.0.241.181:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m3h0oablw37ftet6w7uqg/Fox-Channel.jpg?rlkey=e2opiq0veh9n2wvnbdi2kacfk&st=td91ayqa&dl=0 " group-title="PLATEA VIP",Fox 
@@ -33,11 +33,11 @@ http://fastream.xyz:8080/998184829tv/wz5304/200
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/tqovlljuamh9nda3kru8r/De-Pelicula.jpg?rlkey=ud8v19rs9gnk46267hob9u312&st=uggzg0de&dl=0" group-title="PLATEA VIP",De Pelicula
 http://190.0.241.181:8000/play/a06s/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egpdw8s7gofe9niop6ccm/Europa-Europa.jpg?rlkey=tre4mazbf082gt3prg6hqn478&st=hwjt1iyt&dl=0 " group-title="PLATEA VIP",Europa
-http://fastream.xyz:8080/998184829tv/wz5304/188
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59593
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title="PLATEA VIP",Familiar
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="PLATEA VIP",Argentino
-http://twomonkeys.live/live/Victor1234/Victor1234/1070126.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyisjd0lkwrd0dci1hgmw/Cine-Mas.jpg?rlkey=zstfmw4o6odlf43vb4ap4ozoi&st=syxusk2f&dl=0 " group-title="PLATEA VIP",+ Cine
 http://190.102.242.130:25461/multicontenido/1234/31
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/hlvwja5se2gede8p0sk55/Az-Cinema.jpg?rlkey=h262jj3fi11afnksbg0gplg89&st=gje12y1z&dl=0" group-title="PLATEA VIP",AZ Cinema
