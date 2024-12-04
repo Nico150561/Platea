@@ -5,7 +5,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/204
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/od7x4rjdxs3btc2uhevgv/Star-Channel.jpg?rlkey=gyswes690b4gixvxkvdomo210&st=v0l8mfu0&dl=0" group-title="PLATEA VIP",Star
 http://190.0.241.181:8000/play/a07a/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m46wourm2ne7fiiydivvs/AMC-Channel.jpg?rlkey=yhjk2vs5mjrvxdnw7nqarm0v8&st=kiublhil&dl=0  " group-title="PLATEA VIP",AMC
-http://190.0.241.181:8000/play/a07k/index.m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/105
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/g142qyxxzovg0vshadmt3/Cinecanal.jpg?rlkey=4xm7n0ux95lj9rr69umserj6z&st=6g2xhj1x&dl=0 " group-title="PLATEA VIP",Cinecanal
 http://fastream.xyz:8080/998184829tv/wz5304/114
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/dkha2l7ncx64qs1cglm1f/Cinemax.jpg?rlkey=xt2v5xthnkyaxo5nad6dymuqh&st=obexiugx&dl=0 " group-title="PLATEA VIP",Cinemax
@@ -21,7 +21,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/124
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8dv9lg3w3d94cpmmsl2lt/TCM-Channel.jpg?rlkey=kvc7pzhnyvho0luzk6vvd9yb1&st=jbnmvd7n&dl=0 " group-title="PLATEA VIP",TCM  
 http://fastream.xyz:8080/998184829tv/wz5304/231
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/pvxt6t3a5xdcm15t00fgp/Lifetime.jpg?rlkey=tj0y7ti4y44p4qrm1gs3y9qfy&st=r9go3afn&dl=0 " group-title="PLATEA VIP",Lifetime
-http://190.0.241.181:8000/play/a054/index.m3u8
+https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/exwfwbkxuc3vx2ravky5p/DHE-Channel.jpg?rlkey=hp2powqf6y5ow4y97akrkwg6j&st=jazz93ol&dl=0 " group-title="PLATEA VIP",DHE 
 http://fastream.xyz:8080/998184829tv/wz5304/121
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mi7jweur60425j7jrxjb1/Golden.jpg?rlkey=uj1jc1xayg1zjeikf90f3fin4&st=ghp8lpif&dl=0 " group-title="PLATEA VIP",Golden
@@ -31,25 +31,25 @@ http://fastream.xyz:8080/998184829tv/wz5304/238
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5s4jbl1frpxcelh6esgn5/Sony-Channel.jpg?rlkey=gh5vuz8z984cm7lsqojzomlz9&st=kr1cue4l&dl=0 " group-title="PLATEA VIP",Sony
 http://fastream.xyz:8080/998184829tv/wz5304/200
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/tqovlljuamh9nda3kru8r/De-Pelicula.jpg?rlkey=ud8v19rs9gnk46267hob9u312&st=uggzg0de&dl=0" group-title="PLATEA VIP",De Pelicula
-http://190.0.241.181:8000/play/a06s/index.m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/183
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egpdw8s7gofe9niop6ccm/Europa-Europa.jpg?rlkey=tre4mazbf082gt3prg6hqn478&st=hwjt1iyt&dl=0 " group-title="PLATEA VIP",Europa
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59593
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/188
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q3urjfha5bjp32tmzlhbm/Cine-Familiar.jpg?rlkey=joqcue8lh3nfxgqbskfg38ept&st=2i5n3vsc&dl=0 " group-title="PLATEA VIP",Familiar
 http://190.0.241.181:8000/play/CINEFAMILIAR/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6862e0f02vdeor8z8cjkf/Cine-Argentino.jpg?rlkey=5p9zlauormfbathngrud5l933&st=ilw4jsa5&dl=0 " group-title="PLATEA VIP",Argentino
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/aeref5bggdrbn0yk3l9qy/Cine-Estelar.jpg?rlkey=22dsfgjh0i4m1z5sa0lxp8xb3&st=xajbx9no&dl=0 " group-title="PLATEA VIP",Argentino
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uyisjd0lkwrd0dci1hgmw/Cine-Mas.jpg?rlkey=zstfmw4o6odlf43vb4ap4ozoi&st=syxusk2f&dl=0 " group-title="PLATEA VIP",+ Cine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oxqvf1eakn81bjqoxdffd/Cine.jpg?rlkey=22e0ky6m209ccsz0ebx40muxm&st=ga4smubm&dl=0 " group-title="PLATEA VIP",+ Cine
 http://190.102.242.130:25461/multicontenido/1234/31
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/hlvwja5se2gede8p0sk55/Az-Cinema.jpg?rlkey=h262jj3fi11afnksbg0gplg89&st=gje12y1z&dl=0" group-title="PLATEA VIP",AZ Cinema
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/372617
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eyrs3jj0jlu2dm95cxg7i/Cine-Dinamita.jpg?rlkey=6gruww58iurmesgfqmcd71qad&st=45ntpsol&dl=0 " group-title="PLATEA VIP",Dinamita
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472090
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/s39sx8c470r5fmves5bzf/Claro-Cinema.jpg?rlkey=w5o00aosoix1rw9ix3w8azb66&st=cq02pqg0&dl=0" group-title="PLATEA VIP",Claro
-https://minerva-cinemasegreto-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dts7ytftztzrhshxcb3g1/Be-Mad.jpg?rlkey=vtsoz8ynxy1roksfdvruq3jyi&st=54sj5qss&dl=0 " group-title="PLATEA VIP",Be Mad
+http://fastream.xyz:8080/998184829tv/wz5304/12423
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6svnw34me4ykgh9jyvi7x/Starz.jpg?rlkey=9t880d2y0ra2t5mifw0r0sazt&st=xap3sm3x&dl=0 " group-title="PLATEA VIP",Claro
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/215
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/95p3aa4y4rh3iezt8ec9u/Cine-Latino.jpg?rlkey=h33xg2oaxlstajwmhepa4crqv&st=wn9so27n&dl=0 " group-title="PLATEA VIP",Cine Latino
-http://fastream.xyz:8080/998184829tv/wz5304/110
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/111
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ja4j9uotyavw5dyrsnlc2/Cine-Real.jpg?rlkey=2qzm6ufinviocmy5l6vv6g3ds&st=6kya44hc&dl=0 " group-title="PLATEA VIP",Cine Real
-https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=ri5ba5hg&dl=0 " group-title="NACIONALES",T N
