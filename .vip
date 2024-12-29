@@ -116,11 +116,11 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 http://fastream.xyz:8080/998184829tv/wz5304/15817
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3cqbhzjltxb2zmg8y4z7o/Net-TV.jpg?rlkey=2sv99yn02gif46vh4brszxtrq&st=9wem9s7a&dl=0 " group-title="NACIONALES",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="EXTRANJEROS",CNN Español
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="NACIONALES",CNN Español
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/24801
-#EXTINF:-1 tvg-logo="" group-title="EXTRANJEROS",Perfil TV
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q51y5momh0pk61dy4qat2/Perfil-TV.jpg?rlkey=0hbijlqnpobd0b8b5zf3jm21d&st=zsiykuab&dl=0" group-title="NACIONALES",Perfil TV
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" " group-title="EXTRANJEROS",RT Noticias
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qzalpcpv03ataxktkydy2/RT-Noticias.jpg?rlkey=jod2f0dqclikgjcwgy92dqyry&st=kohe1f05&dl=0 " group-title="NACIONALES",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
