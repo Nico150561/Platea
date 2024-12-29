@@ -116,70 +116,80 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0087
 http://fastream.xyz:8080/998184829tv/wz5304/15817
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3cqbhzjltxb2zmg8y4z7o/Net-TV.jpg?rlkey=2sv99yn02gif46vh4brszxtrq&st=9wem9s7a&dl=0 " group-title="NACIONALES",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="EXTRANJEROS",CNN Español
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/24801
+#EXTINF:-1 tvg-logo="" group-title="EXTRANJEROS",Perfil TV
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="EXTRANJEROS",RT Noticias
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o6epxs5u8tls2ehj9lz2j/Fenix-TV.jpg?rlkey=ges0ykrx03c0qjr2inixxhu91&st=kbq2hsqk&dl=0 " group-title="INTERIOR",Fenix TV 
-https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/chunklist_w691539989.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0hl1inu4dfazvatv3ca3f/Ch-9-La-Rioja.jpg?rlkey=x855ag6lvocs59f6v0a1gta83&st=tee7czno&dl=0 " group-title="INTERIOR",Canal 9 
-https://inliveserver.com:1936/12014/12014/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1wr5sc12ex1vc1iab1zi0/Medios-Provincia.jpg?rlkey=0xzxe0q8s6x6qdrkgff3roddf&st=cia7zwmp&dl=0 " group-title="INTERIOR",Canal 13
-http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fkb02g64mfn8ovjfi76jb/Catamarca-TV.jpg?rlkey=tikg2f4cp7i9518cil0azh9a2&st=zfxqf2xj&dl=0" group-title="INTERIOR",Catamarca
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wciftpeuizhcj0pkfjqy8/TV-Tucuman.jpg?rlkey=kp1fg6zl0o9f1eo194w45b0sw&st=5auzxwak&dl=0 " group-title="INTERIOR",Tucuman
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0403
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/47c4jjel4rpua3bcdl8cj/TV-Sgo-del-Estero.jpg?rlkey=wuzxqfl65f1c1w9ys88f26up0&st=w70lrqyg&dl=0 " group-title="INTERIOR",Sgo del Estero
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4pvonrjz3mh9ravf06omn/TV-Salta.jpg?rlkey=54qrff5rx8o29aoetletcho0w&st=ci5oyt7h&dl=0 " group-title="INTERIOR",Salta
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0316
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4ro1ntene98qqqeaz24jk/TV-Jujuy.jpg?rlkey=ad4pzottxmn401wkdrd0olq64&st=ejvias0k&dl=0 " group-title="INTERIOR",Jujuy
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/vj4h2i1yw8uj5s2mlfrha/TV-San-Juan.jpg?rlkey=qz0z3sx6ikgcd4zx55rnemtqr&st=oc0gva6t&dl=0/ " group-title="INTERIOR",San Juan
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0335
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1jhlzkxbbycmuknn3nu97/TV-Mendoza.jpg?rlkey=3sh8n8u064qmrtcqacu8an9rj&st=j0lsquyw&dl=0 " group-title="INTERIOR",Mendoza
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0273
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tbawktb7lcckmhrrhue0w/TV-San-Luis.jpg?rlkey=lpkafwr27cn6rey4yxyh58rr5&st=ugffivnt&dl=0 " group-title="INTERIOR",San Luis
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0344
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63sn3m9bo7d2eqz4duolx/TV-Cordoba.jpg?rlkey=2afvpow5r27wtnhfvzxnqx3za&st=iu6b04wz&dl=0 " group-title="INTERIOR",Cordoba
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0211
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/fpfj754im5x4dm1uyffav/TV-Santa-Fe.jpg?rlkey=gsc0bbjpbvkvmhqfjs363ik2j&st=2qd2wubj&dl=0 " group-title="INTERIOR",Santa Fe
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i3sa0u1gskn6ruwfjr9c7/TV-Entre-Rios.jpg?rlkey=oo0rpkcnjt2iif3omh67ju0fv&st=hddxvndk&dl=0 " group-title="INTERIOR",Entre Rios
-https://stream.arcast.live/ahora/ahora/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gcgda58fg8a7pgzeh69c1/TV-Chaco.jpg?rlkey=zpma92z308y3p0rpwqg2yqflg&st=lxxj39of&dl=0 " group-title="INTERIOR",Chaco
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0199
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/07xrxpkbg294m17uhxlp9/TV-Corrientes.jpg?rlkey=nj9s74f58e3yjvuzkwm7ec724&st=k40wv7d4&dl=0/ " group-title="INTERIOR",Corrientes
-https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t4wcwdqube4v8da8ol5e3/TV-Misiones.jpg?rlkey=zl61z5rlv60ndoowy2b4rk46a&st=lvsxseig&dl=0 " group-title="INTERIOR",Misiones
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srjwryart5g35t8ifdsyd/TV-Formosa.jpg?rlkey=ju1qu8mjyp3aw2ubnvv4sdmoi&st=0jfn3j8s&dl=0 " group-title="INTERIOR",Formosa
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0253
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hit1mnlnfmvj75wyz9m0r/TV-La-Pampa.jpg?rlkey=9tim77paez5n6cs4i5os7yqfq&st=zj83n31r&dl=0 " group-title="INTERIOR",La Pampa
-https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m65xsutton57a04jh5s8d/TV-Neuquen.jpg?rlkey=xm4ixictigri5whhm527fvtip&st=v3a7o2qd&dl=0 " group-title="INTERIOR",Neuquen
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
+https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dpeu0dnx2v553v3mkgnpu/TV-Chubut.jpg?rlkey=fkoox1pgy32knj0h3lkuihmjt&st=jwm1cdjy&dl=0 " group-title="INTERIOR",Chubut
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63sn3m9bo7d2eqz4duolx/TV-Cordoba.jpg?rlkey=2afvpow5r27wtnhfvzxnqx3za&st=iu6b04wz&dl=0 " group-title="INTERIOR",Cordoba
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/07xrxpkbg294m17uhxlp9/TV-Corrientes.jpg?rlkey=nj9s74f58e3yjvuzkwm7ec724&st=k40wv7d4&dl=0/ " group-title="INTERIOR",Corrientes
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/15812
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i3sa0u1gskn6ruwfjr9c7/TV-Entre-Rios.jpg?rlkey=oo0rpkcnjt2iif3omh67ju0fv&st=hddxvndk&dl=0 " group-title="INTERIOR",Entre Rios
+https://stream.arcast.live/ahora/ahora/playlist.m3u8?TecnoPlaylist
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srjwryart5g35t8ifdsyd/TV-Formosa.jpg?rlkey=ju1qu8mjyp3aw2ubnvv4sdmoi&st=0jfn3j8s&dl=0 " group-title="INTERIOR",Formosa
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4ro1ntene98qqqeaz24jk/TV-Jujuy.jpg?rlkey=ad4pzottxmn401wkdrd0olq64&st=ejvias0k&dl=0 " group-title="INTERIOR",Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hit1mnlnfmvj75wyz9m0r/TV-La-Pampa.jpg?rlkey=9tim77paez5n6cs4i5os7yqfq&st=zj83n31r&dl=0 " group-title="INTERIOR",La Pampa
+https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0hl1inu4dfazvatv3ca3f/Ch-9-La-Rioja.jpg?rlkey=x855ag6lvocs59f6v0a1gta83&st=tee7czno&dl=0 " group-title="INTERIOR",La Rioja CH 9
+https://inliveserver.com:1936/12014/12014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o6epxs5u8tls2ehj9lz2j/Fenix-TV.jpg?rlkey=ges0ykrx03c0qjr2inixxhu91&st=kbq2hsqk&dl=0 " group-title="INTERIOR",La Rioja Fenix
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/chunklist_w691539989.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1wr5sc12ex1vc1iab1zi0/Medios-Provincia.jpg?rlkey=0xzxe0q8s6x6qdrkgff3roddf&st=cia7zwmp&dl=0 " group-title="INTERIOR",La Rioja CH 13
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6cocyly47zw19yd2qabzd/TV-Mar-del-Plata.jpg?rlkey=s995o308vryl3tlqb1dcp7z97&st=v8cpdlor&dl=0 " group-title="INTERIOR",Mar del Plata 
+https://fm999.info/test/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1jhlzkxbbycmuknn3nu97/TV-Mendoza.jpg?rlkey=3sh8n8u064qmrtcqacu8an9rj&st=j0lsquyw&dl=0 " group-title="INTERIOR",Mendoza
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t4wcwdqube4v8da8ol5e3/TV-Misiones.jpg?rlkey=zl61z5rlv60ndoowy2b4rk46a&st=lvsxseig&dl=0 " group-title="INTERIOR",Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m65xsutton57a04jh5s8d/TV-Neuquen.jpg?rlkey=xm4ixictigri5whhm527fvtip&st=v3a7o2qd&dl=0 " group-title="INTERIOR",Neuquen
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/evn812w6gjec298rzerqf/TV-Rio-Negro.jpg?rlkey=4y42oo6vrdj31rvkghimbpcqw&st=g4wijnnh&dl=0 " group-title="INTERIOR",Rio Negro 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0304
+https://panel.host-live.com:443/tvrionegro/ngrp:tvrionegro_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4pvonrjz3mh9ravf06omn/TV-Salta.jpg?rlkey=54qrff5rx8o29aoetletcho0w&st=ci5oyt7h&dl=0 " group-title="INTERIOR",Salta
+https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/vj4h2i1yw8uj5s2mlfrha/TV-San-Juan.jpg?rlkey=qz0z3sx6ikgcd4zx55rnemtqr&st=oc0gva6t&dl=0/ " group-title="INTERIOR",San Juan
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tbawktb7lcckmhrrhue0w/TV-San-Luis.jpg?rlkey=lpkafwr27cn6rey4yxyh58rr5&st=ugffivnt&dl=0 " group-title="INTERIOR",San Luis
+https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/oe9g8cmbltxcjm6w1li0l/TV-Santa-Cruz.jpg?rlkey=v4nqhkdilyqmdfmvzxq7ja441&st=hxgulxr1&dl=0 " group-title="INTERIOR",Santa Cruz 
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/fpfj754im5x4dm1uyffav/TV-Santa-Fe.jpg?rlkey=gsc0bbjpbvkvmhqfjs363ik2j&st=2qd2wubj&dl=0 " group-title="INTERIOR",Santa Fe
+https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/47c4jjel4rpua3bcdl8cj/TV-Sgo-del-Estero.jpg?rlkey=wuzxqfl65f1c1w9ys88f26up0&st=w70lrqyg&dl=0 " group-title="INTERIOR",Sgo del Estero
+https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vqd65slhsefd7wk9te5an/TV-T-del-Fuego.jpg?rlkey=aioc9j84ch98arirq8xz4aqvf&st=c9kdwgd9&dl=0 " group-title="INTERIOR",Tierra del Fuego 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0391
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6cocyly47zw19yd2qabzd/TV-Mar-del-Plata.jpg?rlkey=s995o308vryl3tlqb1dcp7z97&st=v8cpdlor&dl=0 " group-title="INTERIOR",Mar del Plata 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wciftpeuizhcj0pkfjqy8/TV-Tucuman.jpg?rlkey=kp1fg6zl0o9f1eo194w45b0sw&st=5auzxwak&dl=0 " group-title="INTERIOR",Tucuman
+https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="EXTRANJEROS",CNN Español
-http://190.0.241.181:8000/play/a06n/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="EXTRANJEROS",Telemundo 
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/68045
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="EXTRANJEROS",Telesur
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE4iSjJ49jmerMINwwdQMIbU/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/decwgkcyxo9tw8ai5samx/TV-Chile.jpg?rlkey=d5a4sz74t6ubzcjvws3hwlyqc&st=ve5z6imi&dl=0 " group-title="EXTRANJEROS",Chile
 http://fastream.xyz:8080/998184829tv/wz5304/037
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/3k622mgnh0mauvf3wvxg0/TV-Bolivia.jpg?rlkey=dkm28vd6udl9ufei642r4z3zm&st=cptmmgvp&dl=0" group-title="EXTRANJEROS",Bolivia
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/26b0y3wiqpqqr16jfszal/TV-Peru.jpg?rlkey=cv0ssjdx98y6jit8km5zdy9m1&st=3tpdjv5p&dl=0 " group-title="EXTRANJEROS",Peru
 http://fastream.xyz:8080/998184829tv/wz5304/298
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/55461woghfbdhu3ye95as/TV-Uruguay.jpg?rlkey=tzztuhjfxf3c7ttjnudvz5q7z&st=h8rtn9xa&dl=0 " group-title="EXTRANJEROS",Uruguay
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/61929
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v64xgiow7ky1w7kd76mc6/Paraguay.TV.jpg?rlkey=q0j9qypguw3p94m9fvoc0s889&st=j9xlnrg5&dl=0" group-title="EXTRANJEROS",Paraguay
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/460291
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/03a2aksdety2tylo3xq8r/TV-Brasil.jpg?rlkey=8e9nkaz9ocefr0aga4s2mzk3p&st=omkttrqh&dl=0 " group-title="EXTRANJEROS",Brasil
 https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1541752656.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jo4ttxqblpw8pqpm9llch/TV-Colombia.jpg?rlkey=6w6id8j5tq91nhjtd49iocm8z&st=kokwqwux&dl=0 " group-title="EXTRANJEROS",Colombia
@@ -188,12 +198,8 @@ http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226227
 http://bboxstream.com:8080/juanvera/9171142413/4787
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="EXTRANJEROS",Venezuela
 http://fastream.xyz:8080/998184829tv/wz5304/23174
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="EXTRANJEROS",Telesur
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0080
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="EXTRANJEROS",Telemundo 
-http://190.0.241.181:8000/play/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="EXTRANJEROS",España
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0" group-title="EXTRANJEROS",Italia
