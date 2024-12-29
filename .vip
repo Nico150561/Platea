@@ -282,8 +282,26 @@ http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE3UTUrzvfvrFyx_7o3tYWXpo2gHFAZ
 http://bboxstream.com:8080/juanvera/9171142413/39612
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mm54l9pcafmpb297ck22x/El-Gourmet.jpg?rlkey=2q4x03le8t0xnf1d852wo4f9p&st=7pqjr48j&dl=0 " group-title="FAMILIA",El Gourmet 
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",AZClic
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389755
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9l39fv6w5n86bgnfarlmb/Canal-de-Cocina.jpg?rlkey=418e64lq3j8sqtapiae9g6yoy&st=0ix899eg&dl=0 " group-title="HOGAR",Cocina TV 
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/614
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",CH de Casa
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/236359
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",Caras TV
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",El Gourmet 
 http://fastream.xyz:8080/998184829tv/wz5304/427
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",EN Familia
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/12440
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",Fashion TV 
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",Food Network
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/601
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",Garage TV
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59546
+#EXTINF:-1 tvg-logo=" " group-title="HOGAR",Hola! TV
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/630
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTIVOS",Bein Sports
