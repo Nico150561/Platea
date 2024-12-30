@@ -191,30 +191,29 @@ http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/61929
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v64xgiow7ky1w7kd76mc6/Paraguay.TV.jpg?rlkey=q0j9qypguw3p94m9fvoc0s889&st=j9xlnrg5&dl=0" group-title="EXTRANJEROS",Paraguay
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/460291
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/03a2aksdety2tylo3xq8r/TV-Brasil.jpg?rlkey=8e9nkaz9ocefr0aga4s2mzk3p&st=omkttrqh&dl=0 " group-title="EXTRANJEROS",Brasil
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w1541752656.m3u8
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/27170
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jo4ttxqblpw8pqpm9llch/TV-Colombia.jpg?rlkey=6w6id8j5tq91nhjtd49iocm8z&st=kokwqwux&dl=0 " group-title="EXTRANJEROS",Colombia
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226227
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5ndyvxha3gnnslfrlud2s/TV-Ecuador.jpg?rlkey=lol3bgfpf5tpkyog5kgovykms&st=qkwwzeay&dl=0 " group-title="EXTRANJEROS",Ecuador
-http://bboxstream.com:8080/juanvera/9171142413/4787
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250860
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="EXTRANJEROS",Venezuela
 http://fastream.xyz:8080/998184829tv/wz5304/23174
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="EXTRANJEROS",España
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0060
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/12340
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0" group-title="EXTRANJEROS",Italia
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/638
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="EXTRANJEROS",Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wtyuresya0phx4b5qfbho/France-24.jpg?rlkey=pjegcamp4o26r33w82ixz64ha&st=83ny4oji&dl=0 " group-title="EXTRANJEROS",Francia
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0073
+http://fastream.xyz:8080/998184829tv/wz5304/54439
+
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTES",Bein Sports
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/12301
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/eg16lo8ses48hwuiv3ecn/Dazn-Sports.jpg?rlkey=tagailyahv5kqxdx3wubvmdod&st=rga918lu&dl=0 " group-title="⚽ DEPORTES",Dazn Sports
 http://fastream.xyz:8080/998184829tv/wz5304/12397
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTES",DeporTV
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472224
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/egsom30yyoyy1az4ismcr/Eurosport.jpg?rlkey=i6urfvxqel4mo49rm9b7bd7nr&st=ecncqfmg&dl=0 " group-title="⚽ DEPORTES",Eurosport
 http://fastream.xyz:8080/998184829tv/wz5304/12358
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qi39h5omwa6drgizsvnlm/Motorvision.jpg?rlkey=9anjs4z9uxchvhx0ozkzy7lz0&st=24qzm27g&dl=0 " group-title="⚽ DEPORTES",Motorvision
@@ -225,10 +224,12 @@ http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/12395
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9bDeZpG4cH8fGQDcLl5M8vB6q4uiQmlWcdWmUJ6GYpK/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTES",Tudn Sports
 http://fastream.xyz:8080/998184829tv/wz5304/552
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mshnen19f7z5zvef5gbgj/TyC-Sports.jpg?rlkey=ph8wsay1i5ofolwj2gg6ig3h3&st=gqm5stip&dl=0 " group-title="⚽ DEPORTES",TyC Sports 
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1Fs8pveB54QPZsV61mJwKg12l04RIiQlH6AW2spu0_q/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jwsj31nfp9um2g8ncgklc/Win-Sports.jpg?rlkey=i2pazaw3u03uvj8jtvgf7nxe6&st=oh5dyzw9&dl=0 " group-title="⚽ DEPORTES",Win Sports
 http://fastream.xyz:8080/998184829tv/wz5304/361
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTES",DeporTV
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472224
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mshnen19f7z5zvef5gbgj/TyC-Sports.jpg?rlkey=ph8wsay1i5ofolwj2gg6ig3h3&st=gqm5stip&dl=0 " group-title="⚽ DEPORTES",TyC Sports 
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1Fs8pveB54QPZsV61mJwKg12l04RIiQlH6AW2spu0_q/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwrnrpluwmatzcyndyp2l/Fox-Sports.jpg?rlkey=gh6crm735gmbyoogiscnkpf75&st=9iufpehl&dl=0 " group-title="⚽ DEPORTES",Fox Sports 
 http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/1113085.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1sj60rmh80dqbwa9fblkl/Fox-Sports-2.jpg?rlkey=ns3e74wperlweafu8sfov446u&st=whj1o6j9&dl=0 " group-title="⚽ DEPORTES",Fox Sports 2
@@ -244,11 +245,11 @@ http://fastream.xyz:8080/998184829tv/wz5304/513
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f4alh5voydhm9s5utcexf/ESPN-Premium.jpg?rlkey=bua5ifcs4hpxxud49rx0onmbi&st=qff1e85l&dl=0 " group-title="⚽ DEPORTES",ESPN + 1
 http://fastream.xyz:8080/998184829tv/wz5304/545
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f4alh5voydhm9s5utcexf/ESPN-Premium.jpg?rlkey=bua5ifcs4hpxxud49rx0onmbi&st=qff1e85l&dl=0 " group-title="⚽ DEPORTES",ESPN + 2
-http://fastream.xyz:8080/998184829tv/wz5304/545
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE-9Adtka8P-9pag2wf0ABQdwOz3DsxX_lzDmi81zIx9b/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wloqiv2ap5fso411nng81/TNT-Sports.jpg?rlkey=g45njtpkjwo7al323kvl3dkeb&st=i2rc13ri&dl=0 " group-title="⚽ DEPORTES",TNT Sports 1
 http://fastream.xyz:8080/998184829tv/wz5304/459
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wloqiv2ap5fso411nng81/TNT-Sports.jpg?rlkey=g45njtpkjwo7al323kvl3dkeb&st=i2rc13ri&dl=0 " group-title="⚽ DEPORTES",TNT Sports 2
-http://fastream.xyz:8080/998184829tv/wz5304/459
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/97
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r7oat3w83sfwmwt9hux3s/Eventos-Sports.jpg?rlkey=v279djtx5sg21hxs9ku4o5rv9&st=0wfphst6&dl=0 " group-title="⚽ DEPORTES",Eventos 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -480,42 +481,40 @@ http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472097
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7s4tceljzfjpq3xbvfaz/Argentinisima.jpg?rlkey=rb498zaev94y0x6g4g572xj1t&st=w2kvecs4&dl=0 " group-title="Musica",Argentinisima
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ow4hhjd0s4gafgr8zmc0y/Cumbia-TV.jpg?rlkey=stawhlloemgz8jatd8nu40lfc&st=hhbxiu98&dl=0 " group-title="Musica",Cumbia TV 
-https://ca2.inka.net.pe/best-MasCum-0102210011/tracks-v1a1/mono.m3u8?remote=190.230.44.59&token=78a9fa6d8b07addac4ea437f081d6ef7919e4750-ac324c5e8b05a47bf3cd4038bee7fa74-1730467706-1730456906
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/15816
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i9k1n9enjnvmgym6uqkch/Bandamax.jpg?rlkey=jqhmuelkj5oaaio0jvxb2ofyw&st=etmysnlm&dl=0 " group-title="Musica",Bandamax
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/47263
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3m6lxd0afvjuy0b5gnt2i/Ch-de-la-Musica.jpg?rlkey=5d2mvgs21sj767dbe0nqlrv2r&st=wiekny6x&dl=0 " group-title="Musica",CH de la Musica 
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mh4tezieadvj06r4fuc9m/Music-Top.jpg?rlkey=j7qbcb0led11nakq3sxds3xbc&st=erqixoyw&dl=0 " group-title="Musica",Music Top
-https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfe9h0qcrwufse1t9ja38/MTV-80s.jpg?rlkey=hlw6pohuirs6a5317ra6khocn&st=018et8a4&dl=0 " group-title="Musica",MTV '80s
-http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-Kgi89GJeo-QlNZBPTmocwg/m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9bx3r1mqp1t5enfedf7x9/VClassic-Music.jpg?rlkey=qpx5144rut63wshcpdpbru4nf&st=dfqg1czg&dl=0 " group-title="Musica",VClassic
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cuxbusb6ab44028qrc8yn/Retro-Channel.jpg?rlkey=slczf394aojm2k4o2x5mllsrb&st=9rhzad5i&dl=0 " group-title="Musica",Retro
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/nmme2nmdgsue90f45dann/Mundo-de-la-Musica.jpg?rlkey=61fky1ntmiqfzfja6xdi7lm1i&st=4qm45jwd&dl=0 " group-title="Musica",Mundo Musica
+https://panel.tvstream.cl:1936/8092/8092/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/y21bstcb240oq4fcbi4q0/MTV-Hits.jpg?rlkey=sw85rlv2hz88byjpteh8r2lln&st=s1sekoj6&dl=0 " group-title="Musica",MTV Hits
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE_j4YRPbrRn3gF3znb_ga-aN-Pm-3SyVwNbY8SVGOxOu/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/tsjl3efhmuestsxdg6w2m/MTV-Live.jpg?rlkey=s49cjniuq5frc5ganhl0vci3c&st=db44nbm9&dl=0 " group-title="Musica",MTV Live
 http://54.39.51.30:25461/play/N8vBWRU6d44F93ydueij-ENytpnfVlNNrD3hUbUCQMQ/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfe9h0qcrwufse1t9ja38/MTV-80s.jpg?rlkey=hlw6pohuirs6a5317ra6khocn&st=018et8a4&dl=0 " group-title="Musica",MTV '80s
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE7ahhpdja91fpbNMatMoFzY5frs5W8UlyPXfeaDWLSzY/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mh4tezieadvj06r4fuc9m/Music-Top.jpg?rlkey=j7qbcb0led11nakq3sxds3xbc&st=erqixoyw&dl=0 " group-title="Musica",Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d3bp6y68yafb05bcs1rw1/Mi-Musica-Regional.jpg?rlkey=53e5za8x257vo1v4b6x38uj31&st=aoev6zrd&dl=0 " group-title="Musica",Regional
+http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226471
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vg2elgeq0xj7ve7861xvn/Mi-Musica-Salsa.jpg?rlkey=192q0hrx67bk65wv2nmm3p57a&st=197v4g58&dl=0 " group-title="Musica",Salsa
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE7DvRHCVy7PVRbmGeSJ54imISbhQ8x3fDpcTWtMKkJyf/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jh9rvc53qnpkvw5q3hplb/Nick-Music.jpg?rlkey=hrkrmqejp9q7o5tq16idbbhpj&st=c5rfvw1t&dl=0 " group-title="Musica",Nick Music
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE4vJAvDNQk2hfjNu0jiNh3NJbhIZk2h6x9pr_B11andI/m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cuxbusb6ab44028qrc8yn/Retro-Channel.jpg?rlkey=slczf394aojm2k4o2x5mllsrb&st=9rhzad5i&dl=0 " group-title="Musica",Retro
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wsq8l53cs62rukvjow1br/Telehit-Musica.jpg?rlkey=qynn7y8goqep8uyzwosl2z6p5&st=38xomqbx&dl=0 " group-title="Musica",Telehit
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/473940
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c06gyzsztftp8vbhb9odg/Canela-Hits.jpg?rlkey=biyem0j87frdzrjkd6392xwkw&st=gec0o483&dl=0 " group-title="Musica",Canela
-https://cnm-cc-ch.otteravision.com/cnm/ch/ch_540p/00173/ch_540p_00998.ts?device_model=&device_type=desktop&device_manufacturer=&device_id=&partner=internal&platform=web
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f0p5kkgcz79px9hq9z7w9/Teleritmo.jpg?rlkey=fsruoa95v2l6b7rdgpzw8res6&st=r1he7vp2&dl=0 " group-title="Musica",Teleritmo 
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wr94rz7c2z4xf4281qrz8/Tropical-Music.jpg?rlkey=ji2vmekxqplpgjeknz54gnwan&st=ajsqy6jy&dl=0 "Musica",Tropical 
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/knbrzet6pw51dntz0llca/Tu-Ritmo.jpg?rlkey=z7dysvf3b7jts6xgdyn4wvoai&st=315w5md9&dl=0 " group-title="Musica",Musicales
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226471
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/akd0376zwtupoplt3vnsq/Panavision.jpg?rlkey=3rztr2tdw6a9xmxl56kzy135l&st=m1i5qi7m&dl=0 " group-title="Musica",Panavision  
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0049
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f0p5kkgcz79px9hq9z7w9/Teleritmo.jpg?rlkey=fsruoa95v2l6b7rdgpzw8res6&st=r1he7vp2&dl=0 " group-title="Musica",Teleritmo 
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9bx3r1mqp1t5enfedf7x9/VClassic-Music.jpg?rlkey=qpx5144rut63wshcpdpbru4nf&st=dfqg1czg&dl=0 " group-title="Musica",VClassic
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5p3lq8tpjql7vzijkpv9l/Vintage-Music.jpg?rlkey=kiibse1dl8z9ial60ous8dxtf&st=i2yyr448&dl=0 " group-title="Musica",Vintage 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kdujy2s1q9ojbfs0xoas3/Memorias-TV.jpg?rlkey=xro7te73alozo89f2mtjzpeqb&st=1oe5dw5b&dl=0 " group-title="Musica",Memorias TV
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwnl6tgkc1xf3z8t789rr/Mi-Musica-Reggaeton.jpg?rlkey=uyz2g3kaz41oe2kept6v1dl09&st=odff7x8k&dl=0 " group-title="Musica",Reggaeton 
-http://190.0.241.181:8000/play/MUSICAREGGAETON/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d3bp6y68yafb05bcs1rw1/Mi-Musica-Regional.jpg?rlkey=53e5za8x257vo1v4b6x38uj31&st=aoev6zrd&dl=0 " group-title="Musica",Regional
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226471
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vg2elgeq0xj7ve7861xvn/Mi-Musica-Salsa.jpg?rlkey=192q0hrx67bk65wv2nmm3p57a&st=197v4g58&dl=0 " group-title="Musica",Salsa
-http://190.0.241.181:8000/play/a01o/index.m3u8
 
 
