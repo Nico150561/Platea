@@ -410,39 +410,41 @@ https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/P
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="NOVELAS&SERIES",A&E Mundo
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="SERIES",A&E Mundo
 http://fastream.xyz:8080/998184829tv/wz5304/102
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bacpa5onzd7rx8308nvz2/A-tres-Series.jpg?rlkey=5uirmerdjgea07jlpp0xi5pjy&st=xlqqul0d&dl=0 " group-title="NOVELAS&SERIES",A3S Series
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bacpa5onzd7rx8308nvz2/A-tres-Series.jpg?rlkey=5uirmerdjgea07jlpp0xi5pjy&st=xlqqul0d&dl=0 " group-title="SERIES",A3S Series
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/178105
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=yi950737&dl=0 " group-title="NOVELAS&SERIES",AMC Crimenes
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=yi950737&dl=0 " group-title="SERIES",AMC Crimenes
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/178194
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mfmm3q486upuwt90lmz5n/AXN-Channel.jpg?rlkey=8utc7nbm6z9c5zsoh252irt93&st=ab9eorue&dl=0 " group-title="NOVELAS&SERIES",AXN Channel
-http://fastream.xyz:8080/998184829tv/wz5304/108
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k90j87iiwpx9b5kubi19e/TNT-Series.jpg?rlkey=lbpvzkh3f2yr8ekt2gw2pynia&st=8lmr4soh&dl=0/ " group-title="NOVELAS&SERIES",TNT Series
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mfmm3q486upuwt90lmz5n/AXN-Channel.jpg?rlkey=8utc7nbm6z9c5zsoh252irt93&st=ab9eorue&dl=0 " group-title="SERIES",AXN Channel
+http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/236400
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k90j87iiwpx9b5kubi19e/TNT-Series.jpg?rlkey=lbpvzkh3f2yr8ekt2gw2pynia&st=8lmr4soh&dl=0/ " group-title="SERIES",TNT Series
 http://fastream.xyz:8080/998184829tv/wz5304/170
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/o1aavyp0leyt4b6474pyy/Canela-TV.jpg?rlkey=sil4odufkxuh4xh7hdnon53va&st=sb4hwtso&dl=0 " group-title="NOVELAS&SERIES",Canela TV 
+
+
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/o1aavyp0leyt4b6474pyy/Canela-TV.jpg?rlkey=sil4odufkxuh4xh7hdnon53va&st=sb4hwtso&dl=0 " group-title="NOVELAS",Canela TV 
 http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/241
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9gk3rufisftbnzigmjivb/Corazon-TV.jpg?rlkey=p1hzxmczlqb1baxmllch1p9z7&st=wh3z3o0q&dl=0 " group-title="NOVELAS&SERIES",Corazon TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9gk3rufisftbnzigmjivb/Corazon-TV.jpg?rlkey=p1hzxmczlqb1baxmllch1p9z7&st=wh3z3o0q&dl=0 " group-title="NOVELAS",Corazon TV 
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389756
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/18ktk6wkitl0prau2v7zy/Comedy-Central.jpg?rlkey=d0x505ouznos9wff881epixkn&st=xlex9p02&dl=0 " group-title="NOVELAS&SERIES",Com. Central
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/18ktk6wkitl0prau2v7zy/Comedy-Central.jpg?rlkey=d0x505ouznos9wff881epixkn&st=xlex9p02&dl=0 " group-title="NOVELAS",Com. Central
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/59568
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f3d0yrtmb1r0s55bqjtl0/Distrito-Comedia.jpg?rlkey=c664fse6hjzaad6quqv25zin5&st=xvle9v79&dl=0 " group-title="NOVELAS&SERIES",Distrito Com.
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f3d0yrtmb1r0s55bqjtl0/Distrito-Comedia.jpg?rlkey=c664fse6hjzaad6quqv25zin5&st=xvle9v79&dl=0 " group-title="NOVELAS",Distrito Com.
 http://fastream.xyz:8080/998184829tv/wz5304/635
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vf2e9rqu7qsoxdxnjt8nf/Ch-de-las-Estrellas.jpg?rlkey=ao5tyi56y4ikmwk43w67mm91r&st=q61nb93a&dl=0 " group-title="NOVELAS&SERIES",Las Estrellas
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vf2e9rqu7qsoxdxnjt8nf/Ch-de-las-Estrellas.jpg?rlkey=ao5tyi56y4ikmwk43w67mm91r&st=q61nb93a&dl=0 " group-title="NOVELAS",Las Estrellas
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389735
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iylap79szb0x3uujvx59b/Ciudad-Magazine.jpg?rlkey=vmq11uh7m94sz8hfyp7doxcx3&st=34zxt7ex&dl=0 " group-title="NOVELAS&SERIES",Magazine
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iylap79szb0x3uujvx59b/Ciudad-Magazine.jpg?rlkey=vmq11uh7m94sz8hfyp7doxcx3&st=34zxt7ex&dl=0 " group-title="NOVELAS",Magazine
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472082
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u70c64nn6tqbnveaxcl7r/Novelisima.jpg?rlkey=vp7mkvpq4hx85oznp468dh38c&st=h7r790p7&dl=0 " group-title="NOVELAS&SERIES",Novelisima
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u70c64nn6tqbnveaxcl7r/Novelisima.jpg?rlkey=vp7mkvpq4hx85oznp468dh38c&st=h7r790p7&dl=0 " group-title="NOVELAS",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rcxuao5eq4knyxany15i/Pasiones.jpg?rlkey=jxc0brctrzab1by9asi0vestr&st=9i7928pv&dl=0 " group-title="NOVELAS&SERIES",Pasiones
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rcxuao5eq4knyxany15i/Pasiones.jpg?rlkey=jxc0brctrzab1by9asi0vestr&st=9i7928pv&dl=0 " group-title="NOVELAS",Pasiones
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEwoIYVgmHVdk_zP8CAGNGQOQsC3QWxSOWAdTMkBZLeKQ/m3u8
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ng3hiroxod1gtb4qub0id/RCN-Novelas.jpg?rlkey=16snojrwy1cz4hzsryske2ix6&st=geighn8y&dl=0 " group-title="NOVELAS&SERIES",RCN Novelas 
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ng3hiroxod1gtb4qub0id/RCN-Novelas.jpg?rlkey=16snojrwy1cz4hzsryske2ix6&st=geighn8y&dl=0 " group-title="NOVELAS",RCN Novelas 
 http://fastream.xyz:8080/998184829tv/wz5304/348
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ab7iy55hkt5xzmdz7l12/Telenovelas.jpg?rlkey=s5mc0z6mo6mu1n3lzmodq5idq&st=nay3zeij&dl=0 " group-title="NOVELAS&SERIES",Telenovelas 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ab7iy55hkt5xzmdz7l12/Telenovelas.jpg?rlkey=s5mc0z6mo6mu1n3lzmodq5idq&st=nay3zeij&dl=0 " group-title="NOVELAS",Telenovelas 
 http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59602
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hgji48zxxghyiofcbk6s/TNT-Novelas.jpg?rlkey=615ecqfig2kz149o5z24t4pis&st=9dbsfvnz&dl=0 " group-title="NOVELAS&SERIES",TNT Novelas
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hgji48zxxghyiofcbk6s/TNT-Novelas.jpg?rlkey=615ecqfig2kz149o5z24t4pis&st=9dbsfvnz&dl=0 " group-title="NOVELAS",TNT Novelas
 http://fastream.xyz:8080/998184829tv/wz5304/228
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/roeli1gvrof2dpvjtbvv1/Canal-Volver.jpg?rlkey=rzasafw9cqyqiw0w2i8k5f4fm&st=qgpq1tt1&dl=0 " group-title="NOVELAS&SERIES",Volver 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/roeli1gvrof2dpvjtbvv1/Canal-Volver.jpg?rlkey=rzasafw9cqyqiw0w2i8k5f4fm&st=qgpq1tt1&dl=0 " group-title="NOVELAS",Volver 
 http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472096
 
 
