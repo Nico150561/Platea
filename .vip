@@ -129,7 +129,7 @@ https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63sn3m9bo7d2eqz4duolx/TV-Cordoba.jpg?rlkey=2afvpow5r27wtnhfvzxnqx3za&st=iu6b04wz&dl=0 " group-title="INTERIOR",Cordoba
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/07xrxpkbg294m17uhxlp9/TV-Corrientes.jpg?rlkey=nj9s74f58e3yjvuzkwm7ec724&st=k40wv7d4&dl=0/ " group-title="INTERIOR",Corrientes
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/15812
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i3sa0u1gskn6ruwfjr9c7/TV-Entre-Rios.jpg?rlkey=oo0rpkcnjt2iif3omh67ju0fv&st=hddxvndk&dl=0 " group-title="INTERIOR",Entre Rios
 https://stream.arcast.live/ahora/ahora/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/srjwryart5g35t8ifdsyd/TV-Formosa.jpg?rlkey=ju1qu8mjyp3aw2ubnvv4sdmoi&st=0jfn3j8s&dl=0 " group-title="INTERIOR",Formosa
@@ -173,9 +173,9 @@ https://videohd.live:19360/8090/8090.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/n502hxmeigwropit8z6ly/Telemundo.jpg?rlkey=tb1wavl8kqj509tlbujpmtp99&st=4785z63n&dl=0 " group-title="EXTRANJEROS",Telemundo 
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/68045
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/604
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="EXTRANJEROS",Telesur
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE4iSjJ49jmerMINwwdQMIbU/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/35006
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/decwgkcyxo9tw8ai5samx/TV-Chile.jpg?rlkey=d5a4sz74t6ubzcjvws3hwlyqc&st=ve5z6imi&dl=0 " group-title="EXTRANJEROS",Chile
 http://fastream.xyz:8080/998184829tv/wz5304/037
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/3k622mgnh0mauvf3wvxg0/TV-Bolivia.jpg?rlkey=dkm28vd6udl9ufei642r4z3zm&st=cptmmgvp&dl=0" group-title="EXTRANJEROS",Bolivia
@@ -183,15 +183,15 @@ http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/26b0y3wiqpqqr16jfszal/TV-Peru.jpg?rlkey=cv0ssjdx98y6jit8km5zdy9m1&st=3tpdjv5p&dl=0 " group-title="EXTRANJEROS",Peru
 http://fastream.xyz:8080/998184829tv/wz5304/298
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/55461woghfbdhu3ye95as/TV-Uruguay.jpg?rlkey=tzztuhjfxf3c7ttjnudvz5q7z&st=h8rtn9xa&dl=0 " group-title="EXTRANJEROS",Uruguay
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/61929
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/61929
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v64xgiow7ky1w7kd76mc6/Paraguay.TV.jpg?rlkey=q0j9qypguw3p94m9fvoc0s889&st=j9xlnrg5&dl=0" group-title="EXTRANJEROS",Paraguay
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/460291
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/61970
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/03a2aksdety2tylo3xq8r/TV-Brasil.jpg?rlkey=8e9nkaz9ocefr0aga4s2mzk3p&st=omkttrqh&dl=0 " group-title="EXTRANJEROS",Brasil
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/27170
+http://fastream.xyz:8080/998184829tv/wz5304/27170
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jo4ttxqblpw8pqpm9llch/TV-Colombia.jpg?rlkey=6w6id8j5tq91nhjtd49iocm8z&st=kokwqwux&dl=0 " group-title="EXTRANJEROS",Colombia
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/226227
+http://fastream.xyz:8080/998184829tv/wz5304/336
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5ndyvxha3gnnslfrlud2s/TV-Ecuador.jpg?rlkey=lol3bgfpf5tpkyog5kgovykms&st=qkwwzeay&dl=0 " group-title="EXTRANJEROS",Ecuador
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250860
+http://fastream.xyz:8080/998184829tv/wz5304/250858
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="EXTRANJEROS",Venezuela
 http://fastream.xyz:8080/998184829tv/wz5304/23174
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="EXTRANJEROS",Mexico
@@ -215,7 +215,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/12358
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qi39h5omwa6drgizsvnlm/Motorvision.jpg?rlkey=9anjs4z9uxchvhx0ozkzy7lz0&st=24qzm27g&dl=0 " group-title="⚽ DEPORTES",Motorvision
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=es&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionSpanish&ads.csid=zeus_es_motorvision_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4193&ads.rakuten_streaming_id=3c59a9bf-0008-43e8-82ff-ec4cea68b528&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883004&ads.xumo_contentId=3791&ads.xumo_contentName=MotorvisionSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3791&ads.xumo_providerName=MotorvisionSpanish&ads.xumo_streamId=88883004
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/99azy3425z2f3wv9na2hz/Teledeporte.jpg?rlkey=404mlkuuuitet1a5ueviidr91&st=tz3gvxga&dl=0 " group-title="⚽ DEPORTES",Teledeporte
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/12395
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/12395
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6t3kno9asikznl5hdx99m/Tigo-Sports.jpg?rlkey=dk53ohkitn46lqkp1s8bfq4ci&st=9z9w808m&dl=0 " group-title="⚽ DEPORTES",Tigo Sports
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE8-KIexU_Z7Xbjnv6GlvR45RM-JzGO6VmhTKmct0usha/m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTES",Tudn Sports
@@ -253,7 +253,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/484
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hn3ynoe9oad7ayoia279s/Baby-TV.jpg?rlkey=6bbso1p8o7q9qnel29x8dkuym&st=0mi8auh0&dl=0 " group-title="INFANTILES",Baby TV
 http://fastream.xyz:8080/998184829tv/wz5304/12366
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mqgg8zh7h46dkfaqq011j/bitMe-Channel.jpg?rlkey=9hrgykr0s7s0ixid20lj95b38&st=745abbtu&dl=0 " group-title="INFANTILES",bit Me
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389762
+http://fastream.xyz:8080/998184829tv/wz5304/250535
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmyfac34ifl5o2skb72k3/Boing.jpg?rlkey=dlusf4uw0eqqaozkvnou8axxe&st=zroj5gb2&dl=0 " group-title="INFANTILES",Boing Channel
 http://fastream.xyz:8080/998184829tv/wz5304/12430
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dti45aa0w9az4p3q9yyik/Cartoon-Network.jpg?rlkey=401dii4f98hryayihov11d0v1&st=y94hkjc0&dl=0 " group-title="INFANTILES",Cartoon
@@ -265,69 +265,69 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1586
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1f24mq5xslmflgcgl09k2/Locomotion.jpg?rlkey=2eciaertidw3g2np1qqzyowez&st=5jz8eulz&dl=0 " group-title="INFANTILES",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h17hllh5qxeja5ajp4pmo/Magic-Kids.jpg?rlkey=27ewxt2h2f5omad97kpmd7w3v&st=eds177xn&dl=0 " group-title="INFANTILES",Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
+https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co8n1py5hc5jj1wxmv66e/Nickelodeon.jpg?rlkey=se797cdfa5qaq27bqu6ifqd8r&st=1dxqhsvr&dl=0 " group-title="INFANTILES",Nickelodeon
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9UsSr3CU_ZkJNAI03Nul2K7CQUl1nOovQw_YxoRcn8d/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/390
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c9qv5l7iuotlbi0qs00e8/Teennick.jpg?rlkey=fiqho2joh5tnnb2knc8ltfw94&st=evgmfke8&dl=0 " group-title="INFANTILES",Teennick
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE8qK2XSXGebYF9Y3iyW3hw_5wmTDWPai9q656N8Bmdhk/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/59536
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cmqogq2v1h1a7f6p3n55f/Tooncast.jpg?rlkey=gg7lxxetptp1d563w58xt47wy&st=9r0kpjlg&dl=0 " group-title="INFANTILES",Tooncast
 http://fastream.xyz:8080/998184829tv/wz5304/398
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fw4zexkqvklx20qh7rqyk/Alf.jpg?rlkey=m9i49ztax94blmhv71osna5lt&st=bjv5rzsd&dl=0 " group-title="INFANTILES",Alf
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/62363
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o4hk8cxs02ltvettt41di/El-Auto-Fantastico.jpg?rlkey=b426cjjc87rxmpgzqamlkwosg&st=ntpw5dku&dl=0 " group-title="INFANTILES",Auto Fantastico
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExw15H5YgqMjzb2zzqtW6WkzkFBbxzkgtkVjbAEeWbvG/m3u8
+https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f151b854-19e2-461a-ad68-06993c6358b5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=665
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gh01a8039h6dpunfsv29d/Los-Autos-Locos.jpg?rlkey=srzsgvuumzl3h3oiewbj0vzl4&st=m2e0q8xk&dl=0 " group-title="INFANTILES",Los Autos Locos
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250570
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/250570
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7815fhibtlb4wp3cfbns/Ben-10.jpg?rlkey=es0fqwzgtyq1jjrs7ch82s6t0&st=b09l46ia&dl=0 " group-title="INFANTILES",Ben 10
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1soFR0KYiotl3L9uXLWGs4T8hQ_ezy-a3BOWvggoetX/m3u8
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/782
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfxxgjze0fqwf76n8dpix/Bleach.jpg?rlkey=hetga4g1lurou9jj56coi5e4o&st=kovgnyqh&dl=0 " group-title="INFANTILES",Bleach
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExzCrm6Kk533HvjMG3RwkhAHSXDyqRw3UY_0qGnQXJbf/m3u8
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/250483
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hykb9ej891rphzbrhnz1z/Bob-Esponja.jpg?rlkey=ayiguyxxqkvalfotg8oteboav&st=s5wrwvfu&dl=0 " group-title="INFANTILES",Bob Esponja
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/690
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/250484
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hdaysbs1d1ycwgxmi2r6/Caballeros-del-Zodiaco.jpg?rlkey=n98w4c1z7t6as46hcm7hgyt26&st=vhj8r80p&dl=0 " group-title="INFANTILES",Cab del Zodiaco
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/773
+http://fastream.xyz:8080/998184829tv/wz5304/62421
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kkbmtxf2xsabirhuebk8j/Chapulin-colorado.jpg?rlkey=nxm7fl7118fdgqmkuo0fmabzi&st=gzv954u9&dl=0 " group-title="INFANTILES",El Chapulin 
 http://fastream.xyz:8080/998184829tv/wz5304/704
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m4g3p4yl7a2vwe4gfbdzd/El-Chavo.jpg?rlkey=rbfnkfjy7pkrdjpvpc9washdy&st=cobth2mp&dl=0 " group-title="INFANTILES",El Chavo 
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250478
+http://fastream.xyz:8080/998184829tv/wz5304/705
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lhg8nenezofaqsa5o9kmh/Coyote-y-Correcaminos.jpg?rlkey=gedovozq3q5haaf68rg9tjxsp&st=n2vp19au&dl=0 " group-title="INFANTILES",Correcaminos
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250543
+http://fastream.xyz:8080/998184829tv/wz5304/250494
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z438j9aasr855qnealyix/Dragon-Ball-Z.jpg?rlkey=9936im3hf17ousscjzpyn70ww&st=jpzxfx5z&dl=0 " group-title="INFANTILES",Dragon Ball Z
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/62358
+http://fastream.xyz:8080/998184829tv/wz5304/62358
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jtc08c6y08xicx3ey0dmz/El-Gallo-Claudio.jpg?rlkey=a7ciq2i7eg98x7rwnucxz4tgu&st=06yxxkej&dl=0 " group-title="INFANTILES",Gallo Claudio
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/798
+http://fastream.xyz:8080/998184829tv/wz5304/798
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1df0zwosxldmon5j8ygc3/Garfield.jpg?rlkey=9nw7nk4hxlpivsg5fjb2cj9hn&st=qdy79ja4&dl=0 " group-title="INFANTILES",Garfield
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/250550
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ycedg9iffbl4apg628sw/Lolly-Kids.jpg?rlkey=11rnupari7985tzrrij611an6&st=4slykyol&dl=0 " group-title="INFANTILES",Lolly Kids
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE_cClQ0o6OzwGZsWoSgRgoAuU-e2LDc_3Mf7fgtVnB13/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/250569
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmqizvkqk4pzeazbk0yof/Looney-Tunes.jpg?rlkey=1xoi0af81qi9c85r4u0pwambh&st=zllxyxry&dl=0 " group-title="INFANTILES",Looney Tunes
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/250506
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2m6vff4pielkww3tp55or/Peque-a-Lulu.jpg?rlkey=p476rzevqfykuqiyo20rolace&st=sju03po9&dl=0 " group-title="INFANTILES",Pequeña Lulu
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9q6lZZVPtl-s5mqQ0bHx50D0V0eI0eKkInD1qbUsUAU/m3u8
+http://fastream.xyz:8080/tapiamar567893/A567843218765U/250561
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxli23psqxil2xbccczts/Mr-Bean.jpg?rlkey=m7k9ddn8vkoylb2qwjsa3inbp&st=weq1aq6k&dl=0 " group-title="INFANTILES",Mr Bean
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE_AjzvbGYyOLxQFXd2EjPt_-ZVHcItB2_fy-gzulyPb8/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/62368
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mygy0f7fxn2aqobm9c98n/El-Pajaro-Loco.jpg?rlkey=uyi3t7oq2ue0j8z5msr3azwhu&st=de3rekiw&dl=0 " group-title="INFANTILES",Pajaro Loco
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEyV5_pgSDFiUQmqioH3H-Nrnyng70rb3G9f9r0eRYfyq/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/250546
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8ng3hv75yqp1p2c1qhpmz/Pantera-Rosa.jpg?rlkey=g1cms3tarfin8ijn2wgptwswf&st=5urocifd&dl=0 " group-title="INFANTILES",Pantera Rosa
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE6OhXMIGD2mxoWBQ9EgZWTNpSJff2WsAIa7DvJ3L5waU/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/250560
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pamzy42233jo6oy164tgx/Los-Picapiedra.jpg?rlkey=ugimivfuvra54wkbe6uby9kod&st=8qda61kz&dl=0 " group-title="INFANTILES",Los Picapiedra
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250508
+http://fastream.xyz:8080/998184829tv/wz5304/805
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9986gdm3r72e6n7ba2qv4/Scooby-Doo.jpg?rlkey=tjt6t20gbcghezyq18kz0vps5&st=sr04uc9e&dl=0 " group-title="INFANTILES",Scooby Doo
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/779
+http://fastream.xyz:8080/998184829tv/wz5304/779
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7b7manilag2dgiztmeww8/Los-Simpsons.jpg?rlkey=aivk3takdnktefsr7g32wcwi2&st=g99sl3w7&dl=0 " group-title="INFANTILES",Los Simpsons
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/250509
+http://fastream.xyz:8080/998184829tv/wz5304/250509
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cv0dx8hal7k7wpsa8puvo/Super-Campeones.jpg?rlkey=4l3oyux6fycrud59ok72owvbi&st=kdb1j8jj&dl=0 " group-title="INFANTILES",SuperCamp'nes
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE3UTUrzvfvrFyx_7o3tYWXpo2gHFAZ6poLJIIlLgLHHu/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/250532
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v4t1ui3ep9tvsn2sy1s7t/Tom-y-Jerry.jpg?rlkey=ygohelsqcfnbw3wkspmdtr7zt&st=ghvlh9le&dl=0" group-title="INFANTILES",Tom y Jerry
-http://bboxstream.com:8080/juanvera/9171142413/39612
+http://fastream.xyz:8080/998184829tv/wz5304/774
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/14mqbvy085pxc5xgwunsz/AZ-Clic.jpg?rlkey=6m17in0ekhimeu5u6p3yixl84&st=wdx90ra4&dl=0 " group-title="HOGAR",AZ Clic
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/24891
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9l39fv6w5n86bgnfarlmb/Canal-de-Cocina.jpg?rlkey=418e64lq3j8sqtapiae9g6yoy&st=0ix899eg&dl=0 " group-title="HOGAR",Cocina TV 
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/614
+http://fastream.xyz:8080/998184829tv/wz5304/236357
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oro978c2mrjmklofixwb0/De-Casa.jpg?rlkey=8dt5agchlb2c4axjdx9mnjwt6&st=mz4kpegv&dl=0 " group-title="HOGAR",Casa TV
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/236359
+http://fastream.xyz:8080/998184829tv/wz5304/12415
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/uj6z5yb3qtns68up5d4tt/Caras-TV.jpg?rlkey=jgbosdar5vfihzuf5vuqkvaz8&st=n864euq0&dl=0 " group-title="HOGAR",Caras TV
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c4pe2vtgsq4mz0sx9txl8/El-Gourmet.jpg?rlkey=kiuutvid3rdf98wdegugmxdef&st=yl7l8dyw&dl=0 " group-title="HOGAR",El Gourmet 
@@ -339,7 +339,7 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b7o0vj2sts4owcb984rnv/Food-Network.jpg?rlkey=ei8i8tzjryvhagxnnb99ekhsp&st=cxcleum2&dl=0 " group-title="HOGAR",Food Network
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/601
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lfv4ugtzlpbb4f3l4ana5/Garage-TV.jpg?rlkey=vd4h7xctxco4q33i0y8cnzqsp&st=jov8i523&dl=0 " group-title="HOGAR",Garage TV
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59546
+http://fastream.xyz:8080/998184829tv/wz5304/59546
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bvzkte3ur4okjsom9a39e/Hola-TV.jpg?rlkey=mo4zl5c862grwzug1shw890kl&st=rd8hyzyi&dl=0 " group-title="HOGAR",Hola! TV
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/630
 
@@ -347,15 +347,15 @@ http://fastream.xyz:8080/tapiamar567893/A567843218765U/630
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rcc1b3b2tjw6qz75nxp2i/AMC-Break.jpg?rlkey=2mf2p1l0aiwr2yn9awrjufud3&st=f9ozip91&dl=0 " group-title="CULTURA",AMC Break
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/236424
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4cuxwhlqr6gppo48gpg8r/Buen-Viaje.jpg?rlkey=r9huxand8cj7kg6v42uuvqi7f&st=jgwxz5rl&dl=0 " group-title="CULTURA",Buen Viaje
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/236352
+http://fastream.xyz:8080/998184829tv/wz5304/236352
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6fno9r4rxfpum2tabaj3r/Caza-y-Pesca.jpg?rlkey=vhdpjuc9hvp7leom6jfm156ib&st=96g2f5he&dl=0 " group-title="CULTURA",Caza y Pesca
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/620
+http://fastream.xyz:8080/998184829tv/wz5304/620
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hym0u4ihg00bz5ubx2eoa/DMax.jpg?rlkey=y2vey4ng6b9vxsmnsp7cvkuoe&st=06dsk8ec&dl=0 " group-title="CULTURA",DMax 
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/12377
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/xxxys6q8vw2aivt00m00t/Film-Arts.jpg?rlkey=u65yfbibu49zgiq8ypca39rgc&st=51n4wh9u&dl=0" group-title="CULTURA",Film & Arts
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389784
+http://fastream.xyz:8080/998184829tv/wz5304/246
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mso0my4gk7gs6torxa4xd/Historia-TV.jpg?rlkey=uxevsusv9sj7ulm8kh36gj7qc&st=c1d4a4lh&dl=0 " group-title="CULTURA",Historia TV
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/236362
+http://fastream.xyz:8080/998184829tv/wz5304/236363
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=ipkgbg78&dl=0 " group-title="CULTURA",History 1
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/434
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s3whdpjea9szjdls5ekee/History-Channel-2.jpg?rlkey=wzswmypjqiummbw5btygxl7c4&st=ot6a2ehv&dl=0 " group-title="CULTURA",History 2 
@@ -377,7 +377,7 @@ http://fastream.xyz:8080/998184829tv/wz5304/437
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t4j8ts5afrzvvi4fale6n/Discovery-HGTV.jpg?rlkey=1mwywx3zwzv4dbcssqth2441g&st=2vbryr7j&dl=0 " group-title="PACK DISCOVERY",HGTV
 http://fastream.xyz:8080/998184829tv/wz5304/409
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vl93epce641b7wzw023rr/Home-Health.jpg?rlkey=01b8cv4wc7phbo2hh0b9811ht&st=tlje8zeg&dl=0 " group-title="PACK DISCOVERY",H & H
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/413
+http://fastream.xyz:8080/998184829tv/wz5304/413
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/4vmrl20duopvulb39zkzy/Discovery-Kids.jpg?rlkey=vbkhlcrkgnef5q9r4knvsm1fp&st=m5pk1eni&dl=0 " group-title="PACK DISCOVERY",Kids
 http://fastream.xyz:8080/998184829tv/wz5304/378
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/515m8zs1vc82dkxwox03l/Discovery-Science.jpg?rlkey=4jx0i4ayexjmydr6dmwczigsy&st=vgslm9zs&dl=0 " group-title="PACK DISCOVERY",Science
@@ -423,29 +423,29 @@ http://fastream.xyz:8080/998184829tv/wz5304/236
 
 
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/o1aavyp0leyt4b6474pyy/Canela-TV.jpg?rlkey=sil4odufkxuh4xh7hdnon53va&st=sb4hwtso&dl=0 " group-title="NOVELAS",Canela TV 
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/241
+http://fastream.xyz:8080/998184829tv/wz5304/241
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9gk3rufisftbnzigmjivb/Corazon-TV.jpg?rlkey=p1hzxmczlqb1baxmllch1p9z7&st=wh3z3o0q&dl=0 " group-title="NOVELAS",Corazon TV 
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389756
+http://fastream.xyz:8080/998184829tv/wz5304/59552
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/18ktk6wkitl0prau2v7zy/Comedy-Central.jpg?rlkey=d0x505ouznos9wff881epixkn&st=xlex9p02&dl=0 " group-title="NOVELAS",Com. Central
 http://fastream.xyz:8080/tapiamar567893/A567843218765U/59568
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f3d0yrtmb1r0s55bqjtl0/Distrito-Comedia.jpg?rlkey=c664fse6hjzaad6quqv25zin5&st=xvle9v79&dl=0 " group-title="NOVELAS",Distrito Com.
 http://fastream.xyz:8080/998184829tv/wz5304/635
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/vf2e9rqu7qsoxdxnjt8nf/Ch-de-las-Estrellas.jpg?rlkey=ao5tyi56y4ikmwk43w67mm91r&st=q61nb93a&dl=0 " group-title="NOVELAS",Las Estrellas
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/389735
+http://fastream.xyz:8080/998184829tv/wz5304/633
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/iylap79szb0x3uujvx59b/Ciudad-Magazine.jpg?rlkey=vmq11uh7m94sz8hfyp7doxcx3&st=34zxt7ex&dl=0 " group-title="NOVELAS",Magazine
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472082
+http://fastream.xyz:8080/998184829tv/wz5304/61578
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u70c64nn6tqbnveaxcl7r/Novelisima.jpg?rlkey=vp7mkvpq4hx85oznp468dh38c&st=h7r790p7&dl=0 " group-title="NOVELAS",Novelisima
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7rcxuao5eq4knyxany15i/Pasiones.jpg?rlkey=jxc0brctrzab1by9asi0vestr&st=9i7928pv&dl=0 " group-title="NOVELAS",Pasiones
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEwoIYVgmHVdk_zP8CAGNGQOQsC3QWxSOWAdTMkBZLeKQ/m3u8
+http://fastream.xyz:8080/998184829tv/wz5304/590
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/ng3hiroxod1gtb4qub0id/RCN-Novelas.jpg?rlkey=16snojrwy1cz4hzsryske2ix6&st=geighn8y&dl=0 " group-title="NOVELAS",RCN Novelas 
 http://fastream.xyz:8080/998184829tv/wz5304/348
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2ab7iy55hkt5xzmdz7l12/Telenovelas.jpg?rlkey=s5mc0z6mo6mu1n3lzmodq5idq&st=nay3zeij&dl=0 " group-title="NOVELAS",Telenovelas 
-http://tvhomesmart.xyz:8080/36854775/Pn9huNIG7T86g/59602
+http://fastream.xyz:8080/998184829tv/wz5304/611
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hgji48zxxghyiofcbk6s/TNT-Novelas.jpg?rlkey=615ecqfig2kz149o5z24t4pis&st=9dbsfvnz&dl=0 " group-title="NOVELAS",TNT Novelas
 http://fastream.xyz:8080/998184829tv/wz5304/228
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/roeli1gvrof2dpvjtbvv1/Canal-Volver.jpg?rlkey=rzasafw9cqyqiw0w2i8k5f4fm&st=qgpq1tt1&dl=0 " group-title="NOVELAS",Volver 
-http://rickpambcu.online:2082/luisgarcia2cone/cQrKYUaRVpwp/472096
+http://fastream.xyz:8080/998184829tv/wz5304/236384
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2gxs0x3sv398wtl16ov6/HBO.jpg?rlkey=4irk3o3fvxs31rihg561frmug&st=lkxdstzd&dl=0 " group-title="PACK HBO",HBO
