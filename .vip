@@ -77,9 +77,9 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126486.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/od7x4rjdxs3btc2uhevgv/Star-Channel.jpg?rlkey=gyswes690b4gixvxkvdomo210&st=v0l8mfu0&dl=0" group-title="PLATEA VIP",Star
 https://streamer1.nexgen.bz/STAR/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9x4tibbvarcgxpw5bg5nd/Cinerama.jpg?rlkey=se25xzne4uksbmovrxi21jr0y&st=cifo9r1n&dl=0 " group-title="PLATEA VIP",Cinerama
-http://supersonictv.live:8080/945213/876115/22918
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d6omntviqqgzsdkviodmp/Starz-Cinema.jpg?rlkey=gu83du7ir6vbbu5u7r1vvdfrr&st=dz1ogbvu&dl=0 " group-title="PLATEA VIP",Starz Cinema
 http://liketv.xyz:80/Nicoriojacom/232107891234/113371.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d6omntviqqgzsdkviodmp/Starz-Cinema.jpg?rlkey=gu83du7ir6vbbu5u7r1vvdfrr&st=dz1ogbvu&dl=0 " group-title="PLATEA VIP",Starz Cinema
+http://supersonictv.live:8080/945213/876115/22918
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b0wc5ylbxvzv17ytmc4u3/SyFy-Channel.jpg?rlkey=lkz00pawsd5zxs4qs8vbl3ue4&st=7z2fr1zk&dl=0 " group-title="PLATEA VIP",SyFy 
 http://liketv.xyz:80/Nicoriojacom/232107891234/126944.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8dv9lg3w3d94cpmmsl2lt/TCM-Channel.jpg?rlkey=kvc7pzhnyvho0luzk6vvd9yb1&st=jbnmvd7n&dl=0 " group-title="PLATEA VIP",TCM  
@@ -89,31 +89,31 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126523.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xy5ym5ez5ixnjqchgzx4e/Todo-Noticias.jpg?rlkey=du73nfjez5nvqg8ksz7kddbkb&st=ri5ba5hg&dl=0 " group-title="NACIONALES",T N
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/16397
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mukl85xdlrh1rqp12g18l/La-Nacion.jpg?rlkey=iaix1veyzf4c7vpm1qxph4v22&st=3h3rwmmo&dl=0 " group-title="NACIONALES",La Nacion +
 http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1115810
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=aqeq7756&dl=0 " group-title="NACIONALES",Canal 26
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/15840
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8hwoiddvkm1s6wieay7h2/America-24.jpg?rlkey=b9grskux2wozuurmp1nhck212&st=w9t2awbh&dl=0 " group-title="NACIONALES",America 24
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/15813
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ojmaxjyk1kx6idzik8t3l/Cronica-TV.jpg?rlkey=wa5ikx2hl10ww3fxxukljs1h3&st=xarr2qmb&dl=0 ",group-title="NACIONALES",Cronica TV
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/61584
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hm2n99a8wbzhyzu25sf9t/TV-Publica.jpg?rlkey=ugpeye22xjsr26o2kgpg7f919&st=w95yns0p&dl=0 " group-title="NACIONALES",TV Publica
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/16160
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yw7kpbhrdb2hudy7co87l/Ch-9-Bs-As.jpg?rlkey=5sbdrni626bkv0puaig3bso7v&st=0viqe1c1&dl=0 " group-title="NACIONALES",Canal 9 
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/15881
+
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/5883upqzbcr4g7l1iisxa/America-TV.jpg?rlkey=d5h0ci89ki2h68218h00ykdau&st=06cgwj9a&dl=0 " group-title="NACIONALES",America TV
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/61551
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ins9ut3ai8iz8mfc70oj3/Telefe.jpg?rlkey=dfhl9cao182q5iukx4fgoww29&st=ye9oz9r8&dl=0 " group-title="NACIONALES",Telefe
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/61544
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8v6dpi9e7mbqn8t7ot712/Ch-13-Bs-As.jpg?rlkey=k5mywfmmun9niyhfylo9jfxj2&st=8w8dz4hw&dl=0" group-title="NACIONALES",Canal 13 
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z5uswiudz62etsc6xsc5d/C5N-Noticias.jpg?rlkey=33adflhnv7zntyn2srjcpg2mf&st=21gat5cl&dl=0 " group-title="NACIONALES",C5N Noticias
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/15817
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3cqbhzjltxb2zmg8y4z7o/Net-TV.jpg?rlkey=2sv99yn02gif46vh4brszxtrq&st=9wem9s7a&dl=0 " group-title="NACIONALES",Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="NACIONALES",CNN Español
-http://fastream.xyz:8080/tapiamar567893/A567843218765U/24801
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q51y5momh0pk61dy4qat2/Perfil-TV.jpg?rlkey=0hbijlqnpobd0b8b5zf3jm21d&st=zsiykuab&dl=0" group-title="NACIONALES",Perfil TV
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qzalpcpv03ataxktkydy2/RT-Noticias.jpg?rlkey=jod2f0dqclikgjcwgy92dqyry&st=kohe1f05&dl=0 " group-title="NACIONALES",RT Noticias
