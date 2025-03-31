@@ -344,28 +344,28 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 http://liketv.xyz:80/Nicoriojacom/232107891234/185017.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rcc1b3b2tjw6qz75nxp2i/AMC-Break.jpg?rlkey=2mf2p1l0aiwr2yn9awrjufud3&st=f9ozip91&dl=0 " group-title="CULTURA",AMC Break
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1343627
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rcc1b3b2tjw6qz75nxp2i/AMC-Break.jpg?rlkey=2mf2p1l0aiwr2yn9awrjufud3&st=f9ozip91&dl=0 " group-title="CULTURA",Ideal TV
+https://cloud5.idealtv.net/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a7xdu2hk8sfrd24s5ds9h/Encuentro-TV.jpg?rlkey=d26ies0bwy0alkhyr5i2vq1ry&st=g4n90vnk&dl=0 " group-title="CULTURA",Encuentro TV
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/14213
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6fno9r4rxfpum2tabaj3r/Caza-y-Pesca.jpg?rlkey=vhdpjuc9hvp7leom6jfm156ib&st=96g2f5he&dl=0 " group-title="CULTURA",Caza y Pesca
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1343635
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hym0u4ihg00bz5ubx2eoa/DMax.jpg?rlkey=y2vey4ng6b9vxsmnsp7cvkuoe&st=06dsk8ec&dl=0 " group-title="CULTURA",DMax 
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1114634
+http://liketv.xyz:80/Nicoriojacom/232107891234/8559.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6fno9r4rxfpum2tabaj3r/Caza-y-Pesca.jpg?rlkey=vhdpjuc9hvp7leom6jfm156ib&st=96g2f5he&dl=0 " group-title="CULTURA",Ideas en 5 minutos
+https://soul-5mincraftspa-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-soul-5mincraftspanish-rakuten/CDN/master.m3u8?ads_amagi_channel=843&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4658&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=cbba19d8-a0e4-417d-a2d2-0a9fa077520c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hym0u4ihg00bz5ubx2eoa/DMax.jpg?rlkey=y2vey4ng6b9vxsmnsp7cvkuoe&st=06dsk8ec&dl=0 " group-title="CULTURA",DKiss
+http://liketv.xyz:80/Nicoriojacom/232107891234/126854.ts
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/xxxys6q8vw2aivt00m00t/Film-Arts.jpg?rlkey=u65yfbibu49zgiq8ypca39rgc&st=51n4wh9u&dl=0" group-title="CULTURA",Film & Arts
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/103566
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9Dsc_6Ap3bIMpolDLXYyhDPO7EZoS8XjzewgTvykj8_/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mso0my4gk7gs6torxa4xd/Historia-TV.jpg?rlkey=uxevsusv9sj7ulm8kh36gj7qc&st=c1d4a4lh&dl=0 " group-title="CULTURA",Historia TV
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1114616
+http://liketv.xyz:80/Nicoriojacom/232107891234/218160.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9amrkxn8r57ypwvlevnv0/History-Channel.jpg?rlkey=eemawz9g08feic1p0lyhmy371&st=ipkgbg78&dl=0 " group-title="CULTURA",History 1
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/s3whdpjea9szjdls5ekee/History-Channel-2.jpg?rlkey=wzswmypjqiummbw5btygxl7c4&st=ot6a2ehv&dl=0 " group-title="CULTURA",History 2 
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1322244
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExsILtZWtXQZdaFCM82dvvWV2j7eeynO6gMUHmkskUc-/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f5z9hja1fgq32zk1as6vp/Love-Nature.jpg?rlkey=5tumv2026begm7l93dltcjftr&st=exzhktsm&dl=0 " group-title="CULTURA",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5gybq1x86ffxoxfdkpaty/Mas-Chic.jpg?rlkey=rnwcfw2d3w45479ws6ftr0mir&st=npdw7558&dl=0 " group-title="CULTURA",Mas Chic 
-http://moontools.me:8080/majitoooootrex/Majit036r82ustD/1202178
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE6Dvsfsqjb8U0zkd5oWjb346XUGLj0okFZ8cyO9odSN-/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8wjxqpru32jkxitkxyyr5/Nat-Geo.jpg?rlkey=6pqo2xucaexpxuy3j7jnxmbx8&st=8lhxcjmr&dl=0 " group-title="CULTURA",Nat Geo
-http://moontools.me:8080/live/majitoooootrex/Majit036r82ustD/19400.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/126861.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ckirp0gqfuqyzqlj2cl1b/Animal-Planet.jpg?rlkey=wmllfkgsmaolj08mhgyq5fplo&st=ydjawqvm&dl=0 " group-title="PACK DISCOVERY",Animal
