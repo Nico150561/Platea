@@ -193,7 +193,7 @@ https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/5ndyvxha3gnnslfrlud2s/TV-Ecuador.jpg?rlkey=lol3bgfpf5tpkyog5kgovykms&st=qkwwzeay&dl=0 " group-title="EXTRANJEROS",Ecuador
 https://origin.dpsgo.com/ssai/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a1btlttw6pfohkrxwsitz/TV-Venezuela.jpg?rlkey=ptirdwphpve5rexpkpmvjxl4b&st=5sr4b3mg&dl=0 " group-title="EXTRANJEROS",Venezuela
-https://us.streaminghd.cl/torococotelevision/video.m3u8?PlaylistM3UCL
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="EXTRANJEROS",España
@@ -203,7 +203,7 @@ https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="EXTRANJEROS",Alemania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wtyuresya0phx4b5qfbho/France-24.jpg?rlkey=pjegcamp4o26r33w82ixz64ha&st=83ny4oji&dl=0 " group-title="EXTRANJEROS",Francia
-https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1IvvNBlb7hRyKWVF2aZpQG4bnqiIq3l1eUMeI_FKts3/ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTES",Bein Sports
@@ -218,8 +218,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6t3kno9asikznl5hdx99m/Tigo-Sports.jpg?rlkey=dk53ohkitn46lqkp1s8bfq4ci&st=9z9w808m&dl=0 " group-title="⚽ DEPORTES",Tigo Sports
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE8-KIexU_Z7Xbjnv6GlvR45RM-JzGO6VmhTKmct0usha/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTES",D Sports
-http://liketv.xyz:80/Nicoriojacom/232107891234/7797.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o08q3w4mzwfm4x8gdx7e8/Tudn-Sports.jpg?rlkey=9bke1uw5f63or2vdriw2d45ke&st=z34yz6ja&dl=0 " group-title="⚽ DEPORTES",Tudn Sports
+http://liketv.xyz:80/Nicoriojacom/232107891234/7215.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jwsj31nfp9um2g8ncgklc/Win-Sports.jpg?rlkey=i2pazaw3u03uvj8jtvgf7nxe6&st=oh5dyzw9&dl=0 " group-title="⚽ DEPORTES",Win Sports
 http://liketv.xyz:80/Nicoriojacom/232107891234/7728.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTES",DeporTV
@@ -241,13 +241,13 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/139.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f4alh5voydhm9s5utcexf/ESPN-Premium.jpg?rlkey=bua5ifcs4hpxxud49rx0onmbi&st=qff1e85l&dl=0 " group-title="⚽ DEPORTES",ESPN + 1
 http://liketv.xyz:80/Nicoriojacom/232107891234/143.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f4alh5voydhm9s5utcexf/ESPN-Premium.jpg?rlkey=bua5ifcs4hpxxud49rx0onmbi&st=qff1e85l&dl=0 " group-title="⚽ DEPORTES",ESPN + 2
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE-9Adtka8P-9pag2wf0ABQdwOz3DsxX_lzDmi81zIx9b/ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/145.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wloqiv2ap5fso411nng81/TNT-Sports.jpg?rlkey=g45njtpkjwo7al323kvl3dkeb&st=i2rc13ri&dl=0 " group-title="⚽ DEPORTES",TNT Sports 1
 http://liketv.xyz:80/Nicoriojacom/232107891234/88682.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wloqiv2ap5fso411nng81/TNT-Sports.jpg?rlkey=g45njtpkjwo7al323kvl3dkeb&st=i2rc13ri&dl=0 " group-title="⚽ DEPORTES",TNT Sports 2
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE_mnj4j6WdQe8eBn0ZLN6AtSErAmxGQKlkChBmgOyKEk/ts
+http://liketv.xyz:80/Nicoriojacom/232107891234/154.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/r7oat3w83sfwmwt9hux3s/Eventos-Sports.jpg?rlkey=v279djtx5sg21hxs9ku4o5rv9&st=0wfphst6&dl=0 " group-title="⚽ DEPORTES",Eventos 
-https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index_10.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hn3ynoe9oad7ayoia279s/Baby-TV.jpg?rlkey=6bbso1p8o7q9qnel29x8dkuym&st=0mi8auh0&dl=0 " group-title="INFANTILES",Baby TV
