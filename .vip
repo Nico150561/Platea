@@ -225,7 +225,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/7728.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15x4v601kdv04nxqshr2b/DeporTV.jpg?rlkey=vlbnrzoviod9m6fil5lwhpsum&st=j7sfn1xy&dl=0 " group-title="⚽ DEPORTES",DeporTV
 http://liketv.xyz:80/Nicoriojacom/232107891234/128.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mshnen19f7z5zvef5gbgj/TyC-Sports.jpg?rlkey=ph8wsay1i5ofolwj2gg6ig3h3&st=gqm5stip&dl=0 " group-title="⚽ DEPORTES",TyC Sports 
-http://liketv.xyz:80/Nicoriojacom/232107891234/156.ts
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1Fs8pveB54QPZsV61mJwKg12l04RIiQlH6AW2spu0_q/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kwrnrpluwmatzcyndyp2l/Fox-Sports.jpg?rlkey=gh6crm735gmbyoogiscnkpf75&st=9iufpehl&dl=0 " group-title="⚽ DEPORTES",Fox Sports 
 http://liketv.xyz:80/Nicoriojacom/232107891234/115300.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1sj60rmh80dqbwa9fblkl/Fox-Sports-2.jpg?rlkey=ns3e74wperlweafu8sfov446u&st=whj1o6j9&dl=0 " group-title="⚽ DEPORTES",Fox Sports 2
@@ -254,7 +254,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE0IIPEcEyBskeX2hEUtzZKzb9N5HfU7uPzaRAzpey7AL/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mqgg8zh7h46dkfaqq011j/bitMe-Channel.jpg?rlkey=9hrgykr0s7s0ixid20lj95b38&st=745abbtu&dl=0 " group-title="INFANTILES",bit Me
 http://liketv.xyz:80/Nicoriojacom/232107891234/126455.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmyfac34ifl5o2skb72k3/Boing.jpg?rlkey=dlusf4uw0eqqaozkvnou8axxe&st=zroj5gb2&dl=0 " group-title="INFANTILES",Boing Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmyfac34ifl5o2skb72k3/Boing.jpg?rlkey=dlusf4uw0eqqaozkvnou8axxe&st=zroj5gb2&dl=0 " group-title="INFANTILES",Clan TVE
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dti45aa0w9az4p3q9yyik/Cartoon-Network.jpg?rlkey=401dii4f98hryayihov11d0v1&st=y94hkjc0&dl=0 " group-title="INFANTILES",Cartoon
 http://liketv.xyz:80/Nicoriojacom/232107891234/8013.ts
@@ -265,7 +265,7 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1586
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1f24mq5xslmflgcgl09k2/Locomotion.jpg?rlkey=2eciaertidw3g2np1qqzyowez&st=5jz8eulz&dl=0 " group-title="INFANTILES",Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h17hllh5qxeja5ajp4pmo/Magic-Kids.jpg?rlkey=27ewxt2h2f5omad97kpmd7w3v&st=eds177xn&dl=0 " group-title="INFANTILES",Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/8467.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/co8n1py5hc5jj1wxmv66e/Nickelodeon.jpg?rlkey=se797cdfa5qaq27bqu6ifqd8r&st=1dxqhsvr&dl=0 " group-title="INFANTILES",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/c9qv5l7iuotlbi0qs00e8/Teennick.jpg?rlkey=fiqho2joh5tnnb2knc8ltfw94&st=evgmfke8&dl=0 " group-title="INFANTILES",Teennick
@@ -275,47 +275,47 @@ http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE_sutR2bHGqexV5cM8v2Bi_i0lvIt7
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fw4zexkqvklx20qh7rqyk/Alf.jpg?rlkey=m9i49ztax94blmhv71osna5lt&st=bjv5rzsd&dl=0 " group-title="INFANTILES",Alf
 http://liketv.xyz:80/Nicoriojacom/232107891234/185004.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o4hk8cxs02ltvettt41di/El-Auto-Fantastico.jpg?rlkey=b426cjjc87rxmpgzqamlkwosg&st=ntpw5dku&dl=0 " group-title="INFANTILES",Auto Fantastico
-https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f151b854-19e2-461a-ad68-06993c6358b5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=665
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExw15H5YgqMjzb2zzqtW6WkzkFBbxzkgtkVjbAEeWbvG/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gh01a8039h6dpunfsv29d/Los-Autos-Locos.jpg?rlkey=srzsgvuumzl3h3oiewbj0vzl4&st=m2e0q8xk&dl=0 " group-title="INFANTILES",Disney Jr
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE3QRy1RghZ0-JefH14zaUi0QXL92kMo5CCywgCI9GpjF/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7815fhibtlb4wp3cfbns/Ben-10.jpg?rlkey=es0fqwzgtyq1jjrs7ch82s6t0&st=b09l46ia&dl=0 " group-title="INFANTILES",Thundercats
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9S4trxAS4nes1DpMf3bBiIqwe1emGjrLWoGKPweBW06/ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/t7815fhibtlb4wp3cfbns/Ben-10.jpg?rlkey=es0fqwzgtyq1jjrs7ch82s6t0&st=b09l46ia&dl=0 " group-title="INFANTILES",Ben 10
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1soFR0KYiotl3L9uXLWGs4T8hQ_ezy-a3BOWvggoetX/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/sfxxgjze0fqwf76n8dpix/Bleach.jpg?rlkey=hetga4g1lurou9jj56coi5e4o&st=kovgnyqh&dl=0 " group-title="INFANTILES",Bleach
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExzCrm6Kk533HvjMG3RwkhAHSXDyqRw3UY_0qGnQXJbf/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hykb9ej891rphzbrhnz1z/Bob-Esponja.jpg?rlkey=ayiguyxxqkvalfotg8oteboav&st=s5wrwvfu&dl=0 " group-title="INFANTILES",EnerGeek
-https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hykb9ej891rphzbrhnz1z/Bob-Esponja.jpg?rlkey=ayiguyxxqkvalfotg8oteboav&st=s5wrwvfu&dl=0 " group-title="INFANTILES",Bob Esponja
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE8kFJKWi-HYMorcnEGqLcBsMvjXXUKR9oy9xFLWmECF9/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6hdaysbs1d1ycwgxmi2r6/Caballeros-del-Zodiaco.jpg?rlkey=n98w4c1z7t6as46hcm7hgyt26&st=vhj8r80p&dl=0 " group-title="INFANTILES",Cab del Zodiaco
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEzmQZWvwqa19AKnBFG9ek2BV7cfvQUCUk8VXfQGTWBYm/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/kkbmtxf2xsabirhuebk8j/Chapulin-colorado.jpg?rlkey=nxm7fl7118fdgqmkuo0fmabzi&st=gzv954u9&dl=0 " group-title="INFANTILES",El Chapulin 
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1bYxvqQKazg_PdUm1n_MiunL3ElTbdZMNZUSjnD1E-y/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m4g3p4yl7a2vwe4gfbdzd/El-Chavo.jpg?rlkey=rbfnkfjy7pkrdjpvpc9washdy&st=cobth2mp&dl=0 " group-title="INFANTILES",El Chavo 
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEzgBOV8H4GnGSLuYUtmY3tTVn4w-R724d43G1sd75bLh/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lhg8nenezofaqsa5o9kmh/Coyote-y-Correcaminos.jpg?rlkey=gedovozq3q5haaf68rg9tjxsp&st=n2vp19au&dl=0 " group-title="INFANTILES",Dinosaurios
-http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE1226bobSeK2UKrB3hu_ZukRxie6zykh1Q2soQX2cIuO/ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6oybz3sz9rnyw0utho0wp/Thundercats.jpg?rlkey=6mudgbm5rs8pivqjv1ay5xxej&st=hosnyr1b&dl=0 " group-title="INFANTILES",Thundercats
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9S4trxAS4nes1DpMf3bBiIqwe1emGjrLWoGKPweBW06/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/z438j9aasr855qnealyix/Dragon-Ball-Z.jpg?rlkey=9936im3hf17ousscjzpyn70ww&st=jpzxfx5z&dl=0 " group-title="INFANTILES",Dragon Ball Z
 http://liketv.xyz:80/Nicoriojacom/232107891234/253184.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/jtc08c6y08xicx3ey0dmz/El-Gallo-Claudio.jpg?rlkey=a7ciq2i7eg98x7rwnucxz4tgu&st=06yxxkej&dl=0 " group-title="INFANTILES",Gallo Claudio
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEwsym_PJf9RdMQgHYzO0FlGEnQRYMDQib5HVnbFBb7d7/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1df0zwosxldmon5j8ygc3/Garfield.jpg?rlkey=9nw7nk4hxlpivsg5fjb2cj9hn&st=qdy79ja4&dl=0 " group-title="INFANTILES",Garfield 
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE6yajUdvZranFxeQhjU7by0YuuQ0fpqR6Aw3a4-l1XkB/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9ycedg9iffbl4apg628sw/Lolly-Kids.jpg?rlkey=11rnupari7985tzrrij611an6&st=4slykyol&dl=0 " group-title="INFANTILES",Yu Gi Oh
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1eai0bw4jh8xcfpevoqdd/Yu-Gi-Oh.jpg?rlkey=vac1nx2273p28o59xdk6mk4w8&st=eh0xqjox&dl=0 " group-title="INFANTILES",Yu Gi Oh
 https://8a74d8959ca84c4b856049412367e7e9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=7&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5205&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=db7deb99-e6f7-4156-8427-6d9184add709&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1531
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmqizvkqk4pzeazbk0yof/Looney-Tunes.jpg?rlkey=1xoi0af81qi9c85r4u0pwambh&st=zllxyxry&dl=0 " group-title="INFANTILES",Impacto TV
-https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2m6vff4pielkww3tp55or/Peque-a-Lulu.jpg?rlkey=p476rzevqfykuqiyo20rolace&st=sju03po9&dl=0 " group-title="INFANTILES",Pequeradio
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pmqizvkqk4pzeazbk0yof/Looney-Tunes.jpg?rlkey=1xoi0af81qi9c85r4u0pwambh&st=zllxyxry&dl=0 " group-title="INFANTILES",Looney Tunes
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEzewcFPF-QkNI8JqKAVMv4lomYJY5npZ-wHpQk5fRozK/ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2m6vff4pielkww3tp55or/Peque-a-Lulu.jpg?rlkey=p476rzevqfykuqiyo20rolace&st=sju03po9&dl=0 " group-title="INFANTILES",Pequeña Lulu
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE9q6lZZVPtl-s5mqQ0bHx50D0V0eI0eKkInD1qbUsUAU/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qxli23psqxil2xbccczts/Mr-Bean.jpg?rlkey=m7k9ddn8vkoylb2qwjsa3inbp&st=weq1aq6k&dl=0 " group-title="INFANTILES",Paka Paka
 http://liketv.xyz:80/Nicoriojacom/232107891234/97.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mygy0f7fxn2aqobm9c98n/El-Pajaro-Loco.jpg?rlkey=uyi3t7oq2ue0j8z5msr3azwhu&st=de3rekiw&dl=0 " group-title="INFANTILES",Pajaro Loco
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDEyV5_pgSDFiUQmqioH3H-Nrnyng70rb3G9f9r0eRYfyq/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8ng3hv75yqp1p2c1qhpmz/Pantera-Rosa.jpg?rlkey=g1cms3tarfin8ijn2wgptwswf&st=5urocifd&dl=0 " group-title="INFANTILES",Pantera Rosa
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE6OhXMIGD2mxoWBQ9EgZWTNpSJff2WsAIa7DvJ3L5waU/ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pamzy42233jo6oy164tgx/Los-Picapiedra.jpg?rlkey=ugimivfuvra54wkbe6uby9kod&st=8qda61kz&dl=0 " group-title="INFANTILES",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/pamzy42233jo6oy164tgx/Los-Picapiedra.jpg?rlkey=ugimivfuvra54wkbe6uby9kod&st=8qda61kz&dl=0 " group-title="INFANTILES",Los Picapiedra
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExQt-v0tBukPahA2EySo9FykmRkRp3i3Alu87KFdgurt/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9986gdm3r72e6n7ba2qv4/Scooby-Doo.jpg?rlkey=tjt6t20gbcghezyq18kz0vps5&st=sr04uc9e&dl=0 " group-title="INFANTILES",Caillou
 https://dbb1d4236bae41088c1d9593c8bff280.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3591&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=f151b854-19e2-461a-ad68-06993c6358b5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=665
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7b7manilag2dgiztmeww8/Los-Simpsons.jpg?rlkey=aivk3takdnktefsr7g32wcwi2&st=g99sl3w7&dl=0 " group-title="INFANTILES",Retro Magic
-https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7b7manilag2dgiztmeww8/Los-Simpsons.jpg?rlkey=aivk3takdnktefsr7g32wcwi2&st=g99sl3w7&dl=0 " group-title="INFANTILES",Los Simpsons
+http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDExU5EUUki4Y7YyRYZBF4PEeJr4-Xc5POzw5yYIXVw_E_/ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/cv0dx8hal7k7wpsa8puvo/Super-Campeones.jpg?rlkey=4l3oyux6fycrud59ok72owvbi&st=kdb1j8jj&dl=0 " group-title="INFANTILES",Supercampeones
 http://54.39.51.30:25461/play/_wLF3NYhq9CQKR-yLdEDE3UTUrzvfvrFyx_7o3tYWXpo2gHFAZ6poLJIIlLgLHHu/ts
 #EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/v4t1ui3ep9tvsn2sy1s7t/Tom-y-Jerry.jpg?rlkey=ygohelsqcfnbw3wkspmdtr7zt&st=ghvlh9le&dl=0" group-title="INFANTILES",Tom & Jerry
