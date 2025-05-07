@@ -99,7 +99,7 @@ https://vcp12.myplaytv.com/trt/trt/playlist.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/7f96lg972afygqllxr1bw/TV-Mexico.jpg?rlkey=g692v59wm4zaiwartp1ufmk21&st=tz1vkfc7&dl=0 " group-title="EXTRANJEROS",Mexico
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mvcsfovg1hcnjfrk9othw/TV-Espa-a.jpg?rlkey=u307up2w2x7ycr3gmspk7fh5u&st=mj7psxzg&dl=0" group-title="EXTRANJEROS",España
-https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/fgqcwxbbyewsw5ui0qe02/TV-Italia.jpg?rlkey=t8091o808i9jwlaymccy2llux&st=xdi3xre9&dl=0" group-title="EXTRANJEROS",Italia
 https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/at4lyrorpmx5yq3cjhisg/Alemania.TV.jpg?rlkey=bo6o11czo5v4b1zd9vp27s54m&st=9rkkp19k&dl=0 " group-title="EXTRANJEROS",Alemania
@@ -118,6 +118,16 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ou3z68x052bgmo7wqwhge/Telesur.jpg?rlkey=zpnaepqcb9iyets7dste7tzz5&st=20dxrwz6&dl=0 " group-title="NOTICIAS",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ohb7qlrdvk8uys1if6lpp/RTVE-Espa-a.jpg?rlkey=vluafze6d16w93v17ry0luqdn&st=8wr3qclc&dl=0 " group-title="NOTICIAS",RTVE España
+https://rtvelivestream.akamaized.net/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2nofb3rrje5tlpnjajsu5/El-Pais.jpg?rlkey=ueuzx7jw8q33r33j39b72ka69&st=ltvvp04s&dl=0 " group-title="NOTICIAS",El Pais
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zj5sbjw1tm4sgacuegjby/El-Confidencial.jpg?rlkey=n06szx2p3mzwz13dq40od3pzr&st=m2or4q0a&dl=0 " group-title="NOTICIAS",EL Confidencial
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=t5z9quaa&dl=0 " group-title="NOTICIAS",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=ascdo9rn&dl=0 " group-title="NOTICIAS",Euronews
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746660004/ei/RJYbaN2kDLa6obIPsrjLiQ0/ip/181.99.154.173/id/8xYgZnkhe44.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZJ_jt454HY69qJGLrh8IkB-m15YY0FNk6ZVpVnqTJte7dTd5CyenOlr3UqGVe8UBr7L-rKLquk/spc/wk1kZt6KnEeJ1AE_1Ttu8R-o-TIZ244ZCKJgwyxyB4EBkLxGBJHjfajls1cEadAGxgHsv8c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPRUu0X3fG-91PwfKVWl4T5mdNdC1hpCu64XkAyhbLVYAiEAwcO11HDlGQnlh4faCOvqFOeEx_-b0whyGlVAhmH4crk%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q5hsr7d5q7o977hon9r7o/Bein-Sports.jpg?rlkey=zi9dtx4sshkrpirw5hsdaimzy&st=m0rttzf8&dl=0 " group-title="⚽ DEPORTES",Bein Sports
@@ -258,6 +268,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 http://liketv.xyz:80/Nicoriojacom/232107891234/7488.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bvzkte3ur4okjsom9a39e/Hola-TV.jpg?rlkey=mo4zl5c862grwzug1shw890kl&st=rd8hyzyi&dl=0 " group-title="ENTRETENCION",Hola! TV
 http://liketv.xyz:80/Nicoriojacom/232107891234/185017.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/u9hhf0lxgqz0fzy8kjtvq/E-Entertainment.jpg?rlkey=krjugc4pex5rpra4imcfoaq8y&st=nnul18p1&dl=0 " group-title="ENTRETENCION",E! Entertainment
+http://liketv.xyz:80/Nicoriojacom/232107891234/17504.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rcc1b3b2tjw6qz75nxp2i/AMC-Break.jpg?rlkey=2mf2p1l0aiwr2yn9awrjufud3&st=f9ozip91&dl=0 " group-title="CULTURA",Ideal TV
