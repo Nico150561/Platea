@@ -130,8 +130,8 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/186.ts
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zj5sbjw1tm4sgacuegjby/El-Confidencial.jpg?rlkey=n06szx2p3mzwz13dq40od3pzr&st=m2or4q0a&dl=0 " group-title="NOTICIAS",EL Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=t5z9quaa&dl=0 " group-title="NOTICIAS",Estrella News
-https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=4h61xm3d&dl=0 " group-title="NOTICIAS",Rai 24 Horas
+http://liketv.vip:80/Nicoriojacom/232107891234/223001.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.usercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=ascdo9rn&dl=0 " group-title="NOTICIAS",Euronews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747031833/ei/uUIhaO4Dxqihsg_bkYeoDg/ip/181.99.154.173/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb94tjJ_K9kgaIo5of7Vxi1seE5_atyYVDInFxs0NgvNpo2hReJHwYMxRO4AaA4lgiliXyVgS5v/spc/wk1kZjw04IIC78SutfG_2nqdcJyNoiiG6yfTJ2fx8ReflqbLNoHIlb9AadySn9prkiMe88k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOV2pTPFytY9P8Cea3xaiwfZiBTzXvWsi_cQjKhJ7WIWAiA36VOTbcnyv7CD0XmK-FJEZoRVVlcnpjjFNRjPmxx7EQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=xlexmr6v&dl=0 " group-title="NOTICIAS",Estrella News
@@ -350,6 +350,22 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/flhu8ebpcaacdsyth3v90/Jehova-TV.jpg?rlkey=9e38tw90oi2t9hmns5g8vu9v7&st=flus0nhp&dl=0 " group-title="RELIGION",Jehova TV 
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/a199x0hs02b432e3gcpyc/ABN-Latino.jpg?rlkey=nykwkf2j0z4dybphtrw19pw0m&st=zztm22kl&dl=0 " group-title="RELIGION",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/50h7gbjrffgs6gl09gufz/Alcance-TV.jpg?rlkey=90noo91fwuszv6wjni5qvu8co&st=wvvud7cq&dl=0 " group-title="RELIGION",Alcance TV
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/241w3whqu8vfj0o25bkqf/Bethel-TV.jpg?rlkey=9wh2caz0goxgtx5i12ju9ouk4&st=0ftogwvj&dl=0 " group-title="RELIGION",Bethel TV 
+https://s.emisoras.tv:8081/canal30tvbethel/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d39ttlcnogxs9cnr8ctw8/Telemorisco.jpg?rlkey=v0r0hk3g128jnjqz1ujrh843g&st=26b9zr7d&dl=0 " group-title="RELIGION",Telemorisco 
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/75c07hrxbdgnnckfzqreo/Hosanna.jpg?rlkey=9jfr7b0lz012v3ckpeoznj7p1&st=5xg88x6e&dl=0 " group-title="RELIGION",Hosanna Vision
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/v3gy2wxp5rwg4umab45i1/Red-Advenir.jpg?rlkey=5c2vxwsai9ir3d933c8hika1f&st=qwv42cj0&dl=0 " group-title="RELIGION",Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/en445338145ey7kmjboir/Solidaria-TV.jpg?rlkey=m0itcotpkwh6czmin8oi0vrwr&st=6drigv59&dl=0 " group-title="RELIGION",Solidaria TV 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i7xqwjpkvhnbl7hzfd735/Universal-TV.jpg?rlkey=0auldajo7qlgg9puq8qezyn3w&st=9449yo0m&dl=0 " group-title="RELIGION",Universal TV 
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ckirp0gqfuqyzqlj2cl1b/Animal-Planet.jpg?rlkey=wmllfkgsmaolj08mhgyq5fplo&st=ydjawqvm&dl=0 " group-title="DISCOVERY",Animal 
@@ -502,8 +518,28 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126531.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/7413.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bacpa5onzd7rx8308nvz2/A-tres-Series.jpg?rlkey=5uirmerdjgea07jlpp0xi5pjy&st=xlqqul0d&dl=0 " group-title="SERIES",A3S Series
 http://liketv.vip:80/Nicoriojacom/232107891234/7416.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=yi950737&dl=0 " group-title="SERIES",AMC Crimenes
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i2zgf6dpit474fchs5cyx/Crimen-Real.jpg?rlkey=9smceax25blvqqzi5yyr1jtam&st=43druwhe&dl=0 " group-title="SERIES",Crimenes Reales
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-crimenesreales-rakutengb/playlist.m3u8?ads_amagi_channel=989&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=16&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6735&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=76da2025-7023-487a-a50e-d65767c3417b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o2paqkw12e90fwedum9vf/AMC-Crimenes.jpg?rlkey=n21c7fftxchp1w6nmcqjfvoxh&st=yi950737&dl=0 " group-title="SERIES",AMC Crimenes
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/2y3kq9c4q3b5pmkbrpb89/Melrose-Place.jpg?rlkey=r32qaqd5f89vw0pvlxofwxlfq&st=bwi727ib&dl=0 " group-title="SERIES",Melrose Place
+https://stitcher.pluto.tv/stitch/hls/channel/6245c03922d9d4000760d205/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=210deca9-6236-11ef-b560-5601a974e805
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dm7pejgm2zhm34tdl365b/Mundo-Series.jpg?rlkey=gdemi3jj74czjgfs7ti5ayirf&st=rccalo5m&dl=0 " group-title="SERIES",Mundo Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9djegabanxx8xzmbqkvw8/CSI-Miami.jpg?rlkey=0z8kf7dru4tn57gc4vaa2rvdb&st=v65i7vri&dl=0 " group-title="SERIES",CSI Miami
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yhuxr94nrtyr7hlov9ppj/Nova-TV.jpg?rlkey=8prwrop8u1ab2zfnut2gr7vtc&st=yzc1wc0i&dl=0 " group-title="SERIES",Nova TV
+http://liketv.xyz:80/Nicoriojacom/232107891234/7897.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3nlam2tnbtnxhy7p7won8/Baywatch.jpg?rlkey=f3j5wyb0w9prz1vs7tb5nr1id&st=88vswlkf&dl=0 " group-title="SERIES",Baywatch
+http://liketv.vip:80/Nicoriojacom/232107891234/185039.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q0mqftig7u50bn0opepxd/Calle-13.jpg?rlkey=5z0aqq77myo5ss9jbgdqxv82j&st=q930fzsd&dl=0 " group-title="SERIES",Calle 13
+http://liketv.vip:80/Nicoriojacom/232107891234/126832.ts
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ga3qwhkwwpu7iy8ezbdee/Cops-Espa-ol.jpg?rlkey=y1qa8w4mhdrxwfygugt3l8mr4&st=exs1bzzy&dl=0 " group-title="SERIES",Cops 
+https://69fc67603f914d73988ff4dc54a202c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_CopsEnEspanol/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6696&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=45c49cb2-d9c6-403d-8348-7f533cec6933&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1470
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zks9zm081qybxnewxdgon/Dr-Who.jpg?rlkey=s2wv8h8fahrvpjqduy88o7uqa&st=k28yvcbk&dl=0 " group-title="SERIES",Dr Who 
+https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/9cyw4pi0gql9bwyed6fts/Mac-Giver.jpg?rlkey=n55zmzbl1dvq96pvsd18fixmw&st=awcdz4v1&dl=0 " group-title="SERIES",Mac Giver 
+http://liketv.xyz:80/Nicoriojacom/232107891234/185044.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/mfmm3q486upuwt90lmz5n/AXN-Channel.jpg?rlkey=8utc7nbm6z9c5zsoh252irt93&st=ab9eorue&dl=0 " group-title="SERIES",AXN Channel
 http://liketv.xyz:80/Nicoriojacom/232107891234/126454.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/k90j87iiwpx9b5kubi19e/TNT-Series.jpg?rlkey=lbpvzkh3f2yr8ekt2gw2pynia&st=8lmr4soh&dl=0/ " group-title="SERIES",TNT Series
