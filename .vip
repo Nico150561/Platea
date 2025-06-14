@@ -6,7 +6,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/102.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/91.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=aqeq7756&dl=0 " group-title="NACIONALES",Canal.26
 http://liketv.xyz:80/Nicoriojacom/232107891234/67.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8hwoiddvkm1s6wieay7h2/America-24.jpg?rlkey=b9grskux2wozuurmp1nhck212&st=w9t2awbh&dl=0 " group-title="NACIONALES",America 24
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oc5s1y3czeby8cp1c72uz/America-24.jpg?rlkey=01x73ls0q3m5rla0iy5zm1x1l&st=gts18cou&dl=0 " group-title="NACIONALES",America 24
 http://liketv.xyz:80/Nicoriojacom/232107891234/52.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ojmaxjyk1kx6idzik8t3l/Cronica-TV.jpg?rlkey=wa5ikx2hl10ww3fxxukljs1h3&st=xarr2qmb&dl=0 ",group-title="NACIONALES",Cronica TV
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
@@ -14,7 +14,7 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 http://liketv.xyz:80/Nicoriojacom/232107891234/107.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yw7kpbhrdb2hudy7co87l/Ch-9-Bs-As.jpg?rlkey=5sbdrni626bkv0puaig3bso7v&st=0viqe1c1&dl=0 " group-title="NACIONALES",Canal 9 
 http://liketv.xyz:80/Nicoriojacom/232107891234/81.ts
-#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/5883upqzbcr4g7l1iisxa/America-TV.jpg?rlkey=d5h0ci89ki2h68218h00ykdau&st=06cgwj9a&dl=0 " group-title="NACIONALES",America.TV
+#EXTINF:-1 tvg-logo=" https:/dl.dropboxusercontent.com/scl/fi/fcg7t4ecodhrqwqfvq04x/America-TV.jpg?rlkey=1q484b8yv67ss48g7xhhobmca&st=nrgkh1e0&dl=0 " group-title="NACIONALES",America.TV
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ins9ut3ai8iz8mfc70oj3/Telefe.jpg?rlkey=dfhl9cao182q5iukx4fgoww29&st=ye9oz9r8&dl=0 " group-title="NACIONALES",Te.le.fe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
@@ -132,7 +132,7 @@ https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zfsl2koh538z470c4c5ih/Rai-24-Horas.jpg?rlkey=121dz48zpwj0mmktenoey76do&st=4h61xm3d&dl=0 " group-title="NOTICIAS",Rai 24 Horas
 http://liketv.vip:80/Nicoriojacom/232107891234/223001.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.usercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=ascdo9rn&dl=0 " group-title="NOTICIAS",Euronews
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/xa8js5bg4q3p2lyhh7cic/Euronews.jpg?rlkey=kjy6t7j9ufmxb6e2z298o788o&st=zf6g4ats&dl=0 " group-title="NOTICIAS",Euronews.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1747031833/ei/uUIhaO4Dxqihsg_bkYeoDg/ip/181.99.154.173/id/O9mOtdZ-nSk.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAb94tjJ_K9kgaIo5of7Vxi1seE5_atyYVDInFxs0NgvNpo2hReJHwYMxRO4AaA4lgiliXyVgS5v/spc/wk1kZjw04IIC78SutfG_2nqdcJyNoiiG6yfTJ2fx8ReflqbLNoHIlb9AadySn9prkiMe88k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOV2pTPFytY9P8Cea3xaiwfZiBTzXvWsi_cQjKhJ7WIWAiA36VOTbcnyv7CD0XmK-FJEZoRVVlcnpjjFNRjPmxx7EQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1497284vktjxn98t9glfq/Estrella-News.jpg?rlkey=u7wcuksnqrd2izwo6a42cjjoh&st=xlexmr6v&dl=0 " group-title="NOTICIAS",Estrella News
 https://estrella-news-oando.amagi.tv/playlist.m3u8
@@ -368,7 +368,7 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ckirp0gqfuqyzqlj2cl1b/Animal-Planet.jpg?rlkey=wmllfkgsmaolj08mhgyq5fplo&st=ydjawqvm&dl=0 " group-title="DISCOVERY",Animal 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/3p5tck3lp3fepnh45hbhn/Animal-Planet.jpg?rlkey=2trhwv3fyg2ox9vxv8210zr51&st=5dn0jd36&dl=0 " group-title="DISCOVERY",Animal 
 http://liketv.xyz:80/Nicoriojacom/232107891234/7433.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/gid0pc4hm5sk89heh86fh/Discovery-Channel.jpg?rlkey=rjrctzf0pg9u4o4nnwset7q98&st=ij9x6dnn&dl=0 " group-title="DISCOVERY",Civilization
 http://liketv.xyz:80/Nicoriojacom/232107891234/7882.ts
@@ -396,7 +396,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/7477.ts
 https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=ec528dd9-92bb-49ec-9498-8ef2b8c55094&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/15ctz47lw960qb2rf11dk/Cine-de-Accion.jpg?rlkey=et8ig5ue8gs3wzgdvj7pxx3z0&st=pe6gigin&dl=0 " group-title="PLATEA VIP",Cine de Accion
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m46wourm2ne7fiiydivvs/AMC-Channel.jpg?rlkey=yhjk2vs5mjrvxdnw7nqarm0v8&st=kiublhil&dl=0  " group-title="PLATEA VIP",AMC.Channel
+#EXTINF:-1 tvg-logo=" https://dl.dropboxusercontent.com/scl/fi/tjqfxr4dh19jj71eeq16m/AMC-Channel.jpg?rlkey=7g64iyfjys0c6gp1lgtpwpn6w&st=ulb6e7qd&dl=0 " group-title="PLATEA VIP",AMC.Channel
 http://vegafibratv.com:8085/AMC/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/zsf0orp71roe9mjx8wfkz/A-3-Cine.jpg?rlkey=xvim1marj1wiz1o20rrbkvux6&st=47d35y81&dl=0 " group-title="PLATEA VIP",A3Cine
 http://liketv.xyz:80/Nicoriojacom/232107891234/7415.ts
@@ -514,7 +514,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/67107.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/126531.ts
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/f9yzuzru3ip21s3lroyn5/A-E-Mundo.jpg?rlkey=igl9ix85zps19vczwygt11hvo&st=holupec7&dl=0 " group-title="SERIES",A&E Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o7fmhm7hzu98d8x1lyol7/A-E-Mundo.jpg?rlkey=trl61wt2jxlshkufwr2fy7x1z&st=7rghd71h&dl=0 " group-title="SERIES",A&E Channel
 http://liketv.xyz:80/Nicoriojacom/232107891234/7413.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/bacpa5onzd7rx8308nvz2/A-tres-Series.jpg?rlkey=5uirmerdjgea07jlpp0xi5pjy&st=xlqqul0d&dl=0 " group-title="SERIES",A3S Series
 http://liketv.vip:80/Nicoriojacom/232107891234/7416.ts
