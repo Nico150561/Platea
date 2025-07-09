@@ -6,16 +6,16 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/102.ts
 http://liketv.xyz:80/Nicoriojacom/232107891234/91.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/d2znt1sdysefx2bdkegtf/Canal-26.jpg?rlkey=1823evbylq0iho89cf4b9bwlz&st=aqeq7756&dl=0 " group-title="NACIONALES",Canal.26
 http://liketv.xyz:80/Nicoriojacom/232107891234/67.ts
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oc5s1y3czeby8cp1c72uz/America-24.jpg?rlkey=01x73ls0q3m5rla0iy5zm1x1l&st=gts18cou&dl=0 " group-title="NACIONALES",America 24
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oc5s1y3czeby8cp1c72uz/America-24.jpg?rlkey=01x73ls0q3m5rla0iy5zm1x1l&st=gts18cou&dl=0 " group-title="NACIONALES",A 24
 http://liketv.xyz:80/Nicoriojacom/232107891234/52.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ojmaxjyk1kx6idzik8t3l/Cronica-TV.jpg?rlkey=wa5ikx2hl10ww3fxxukljs1h3&st=xarr2qmb&dl=0 ",group-title="NACIONALES",Cronica TV
-https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/159.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/hm2n99a8wbzhyzu25sf9t/TV-Publica.jpg?rlkey=ugpeye22xjsr26o2kgpg7f919&st=w95yns0p&dl=0 " group-title="NACIONALES",TV.Publica
 http://liketv.xyz:80/Nicoriojacom/232107891234/107.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/yw7kpbhrdb2hudy7co87l/Ch-9-Bs-As.jpg?rlkey=5sbdrni626bkv0puaig3bso7v&st=0viqe1c1&dl=0 " group-title="NACIONALES",Canal 9 
 http://liketv.xyz:80/Nicoriojacom/232107891234/81.ts
-#EXTINF:-1 tvg-logo=" https:/dl.dropboxusercontent.com/scl/fi/fcg7t4ecodhrqwqfvq04x/America-TV.jpg?rlkey=1q484b8yv67ss48g7xhhobmca&st=nrgkh1e0&dl=0 " group-title="NACIONALES",America.TV
-https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+#EXTINF:-1 tvg-logo=" https:/dl.dropboxusercontent.com/scl/fi/fcg7t4ecodhrqwqfvq04x/America-TV.jpg?rlkey=1q484b8yv67ss48g7xhhobmca&st=nrgkh1e0&dl=0 " group-title="NACIONALES",America
+http://liketv.pro:80/Nicoriojacom/232107891234/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ins9ut3ai8iz8mfc70oj3/Telefe.jpg?rlkey=dfhl9cao182q5iukx4fgoww29&st=ye9oz9r8&dl=0 " group-title="NACIONALES",Te.le.fe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8=
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/8v6dpi9e7mbqn8t7ot712/Ch-13-Bs-As.jpg?rlkey=k5mywfmmun9niyhfylo9jfxj2&st=8w8dz4hw&dl=0" group-title="NACIONALES",Canal.13 
@@ -37,7 +37,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/dpeu0dnx2v553v3mkgnpu/TV-Chubut.jpg?rlkey=fkoox1pgy32knj0h3lkuihmjt&st=jwm1cdjy&dl=0 " group-title="INTERIOR",Chubut
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/63sn3m9bo7d2eqz4duolx/TV-Cordoba.jpg?rlkey=2afvpow5r27wtnhfvzxnqx3za&st=iu6b04wz&dl=0 " group-title="INTERIOR",Cordoba
-https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+http://liketv.pro:80/Nicoriojacom/232107891234/8507.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/07xrxpkbg294m17uhxlp9/TV-Corrientes.jpg?rlkey=nj9s74f58e3yjvuzkwm7ec724&st=k40wv7d4&dl=0/ " group-title="INTERIOR",Corrientes
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i3sa0u1gskn6ruwfjr9c7/TV-Entre-Rios.jpg?rlkey=oo0rpkcnjt2iif3omh67ju0fv&st=hddxvndk&dl=0 " group-title="INTERIOR",Entre Rios
@@ -51,7 +51,7 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/0hl1inu4dfazvatv3ca3f/Ch-9-La-Rioja.jpg?rlkey=x855ag6lvocs59f6v0a1gta83&st=tee7czno&dl=0 " group-title="INTERIOR",La Rioja CH 9
 https://inliveserver.com:1936/12014/12014/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/o6epxs5u8tls2ehj9lz2j/Fenix-TV.jpg?rlkey=ges0ykrx03c0qjr2inixxhu91&st=kbq2hsqk&dl=0 " group-title="INTERIOR",La Rioja Fenix
-https://stmv5.livecastv.com/fenixrioja/fenixrioja/chunklist_w2113821401.m3u8
+https://stmvideo3.livecastv.com/fenixrioja/fenixrioja/chunklist_w1121856391.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/1wr5sc12ex1vc1iab1zi0/Medios-Provincia.jpg?rlkey=0xzxe0q8s6x6qdrkgff3roddf&st=cia7zwmp&dl=0 " group-title="INTERIOR",La Rioja CH 13
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/6cocyly47zw19yd2qabzd/TV-Mar-del-Plata.jpg?rlkey=s995o308vryl3tlqb1dcp7z97&st=v8cpdlor&dl=0 " group-title="INTERIOR",Mar del Plata 
