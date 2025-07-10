@@ -113,7 +113,7 @@ http://liketv.pro:80/Nicoriojacom/232107891234/7243.ts
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ehgom44jtqv6xoaj9u3kj/CNN-Espa-ol.jpg?rlkey=cu2upp9co48idseuc25pr15b1&st=bkl4tr0w&dl=0 " group-title="NOTICIAS",CNN Español
-https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8?ads_amagi_channel=948&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6425&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=202642fd-27a1-4aff-88ee-7186acd464d4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/q51y5momh0pk61dy4qat2/Perfil-TV.jpg?rlkey=0hbijlqnpobd0b8b5zf3jm21d&st=zsiykuab&dl=0" group-title="NOTICIAS",Perfil TV
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qzalpcpv03ataxktkydy2/RT-Noticias.jpg?rlkey=jod2f0dqclikgjcwgy92dqyry&st=kohe1f05&dl=0 " group-title="NOTICIAS",RT Noticias
@@ -291,9 +291,7 @@ http://liketv.xyz:80/Nicoriojacom/232107891234/126927.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/b7o0vj2sts4owcb984rnv/Food-Network.jpg?rlkey=ei8i8tzjryvhagxnnb99ekhsp&st=cxcleum2&dl=0 " group-title="HOGAR",Food Network.
 http://liketv.xyz:80/Nicoriojacom/232107891234/7486.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/lfv4ugtzlpbb4f3l4ana5/Garage-TV.jpg?rlkey=vd4h7xctxco4q33i0y8cnzqsp&st=jov8i523&dl=0 " group-title="HOGAR",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/qi39h5omwa6drgizsvnlm/Motorvision.jpg?rlkey=9anjs4z9uxchvhx0ozkzy7lz0&st=24qzm27g&dl=0 " group-title="HOGAR",Motorvision
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/mv_es.m3u8
+http://liketv.xyz:80/Nicoriojacom/232107891234/88.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/i248vj6p4u452osytwfde/Canal-Rural.jpg?rlkey=t0glfvlj3kvv49ksk09m1wyrx&st=lh74k0yu&dl=0 " group-title="HOGAR",Canal Rural
 http://liketv.vip:80/Nicoriojacom/232107891234/212540.ts
 
